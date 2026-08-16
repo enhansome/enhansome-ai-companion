@@ -14,21 +14,7 @@
             "last_commit": "2026-08-14T22:20:56Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 141507
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RikkaHub",
-          "description": "Native Android LLM chat client with provider switching, Material You UI, workspace features, plugins, MCP support, and configurable models. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T09:16:45Z",
-            "owner": "rikkahub",
-            "repo": "rikkahub",
-            "stars": 6907
+            "stars": 141606
           }
         },
         {
@@ -39,10 +25,24 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-15T00:49:51Z",
+            "last_commit": "2026-08-16T04:55:29Z",
             "owner": "AAswordman",
             "repo": "Operit",
-            "stars": 6889
+            "stars": 6947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RikkaHub",
+          "description": "Native Android LLM chat client with provider switching, Material You UI, workspace features, plugins, MCP support, and configurable models. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-16T08:39:31Z",
+            "owner": "rikkahub",
+            "repo": "rikkahub",
+            "stars": 6928
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-13T12:14:47Z",
             "owner": "death34018-hue",
             "repo": "AionsHome",
-            "stars": 701
+            "stars": 706
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-14T19:48:48Z",
             "owner": "Cocolalilal",
             "repo": "LastChat",
-            "stars": 326
+            "stars": 327
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-07-18T08:53:31Z",
             "owner": "sue1231513",
             "repo": "orangechat",
-            "stars": 306
+            "stars": 307
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-06T16:05:48Z",
             "owner": "Aevella",
             "repo": "polaris-local-first",
-            "stars": 226
+            "stars": 229
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-07-01T23:31:07Z",
             "owner": "ugui3u",
             "repo": "chatnest",
-            "stars": 109
+            "stars": 108
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-12T14:04:37Z",
             "owner": "kiyotakali",
             "repo": "Miru",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -193,7 +193,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:45:38Z",
+            "last_commit": "2026-08-15T10:56:37Z",
             "owner": "in30mn1a",
             "repo": "LumiMuse",
             "stars": 21
@@ -210,7 +210,21 @@
             "last_commit": "2026-08-09T15:45:28Z",
             "owner": "fishwithoctopus",
             "repo": "Ocean",
-            "stars": 17
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rikkahub-auto-compress",
+          "description": "Unofficial RikkaHub fork for automatic rolling summaries and context compression, based on the RikkaHub 2.2.5 code line. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-14T12:10:22Z",
+            "owner": "Lin-chpin",
+            "repo": "rikkahub-Jude",
+            "stars": 14
           }
         },
         {
@@ -225,20 +239,6 @@
             "owner": "Eloise-Aspen",
             "repo": "pando-bridge",
             "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rikkahub-auto-compress",
-          "description": "Unofficial RikkaHub fork for automatic rolling summaries and context compression, based on the RikkaHub 2.2.5 code line. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T12:10:22Z",
-            "owner": "innna327-source",
-            "repo": "rikkahub-Jude",
-            "stars": 13
           }
         },
         {
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-10T03:57:03Z",
+            "last_commit": "2026-08-16T08:03:40Z",
             "owner": "gqy20",
             "repo": "Aura",
             "stars": 5
@@ -314,7 +314,7 @@
             "last_commit": "2026-06-23T10:14:04Z",
             "owner": "whale-Yd00",
             "repo": "freeapp",
-            "stars": 877
+            "stars": 882
           }
         },
         {
@@ -325,10 +325,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T08:31:26Z",
+            "last_commit": "2026-08-16T07:22:46Z",
             "owner": "xiaolongbao0709",
             "repo": "ai-virtual-phone",
-            "stars": 605
+            "stars": 639
           }
         },
         {
@@ -339,10 +339,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T03:39:03Z",
+            "last_commit": "2026-08-16T08:05:03Z",
             "owner": "Sui-IB",
             "repo": "InternalBeyond",
-            "stars": 395
+            "stars": 400
           }
         },
         {
@@ -353,10 +353,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T06:15:10Z",
+            "last_commit": "2026-08-16T05:14:37Z",
             "owner": "qegj567-cloud",
             "repo": "SullyOS",
-            "stars": 302
+            "stars": 306
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-04-15T17:01:00Z",
             "owner": "Liunian06",
             "repo": "FlutterCppWangWangPhone",
-            "stars": 115
+            "stars": 116
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-31T17:57:42Z",
             "owner": "Kisera001",
             "repo": "KI-CO",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -485,10 +485,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T08:33:16Z",
+            "last_commit": "2026-08-16T08:38:51Z",
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 39190
+            "stars": 39232
           }
         },
         {
@@ -499,10 +499,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T15:41:15Z",
+            "last_commit": "2026-08-15T12:52:43Z",
             "owner": "lioensky",
             "repo": "VCPToolBox",
-            "stars": 2252
+            "stars": 2254
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2026-06-08T17:56:05Z",
             "owner": "WenXiaoWendy",
             "repo": "cyberboss",
-            "stars": 1293
+            "stars": 1300
           }
         },
         {
@@ -544,7 +544,7 @@
             "last_commit": "2026-08-10T13:44:25Z",
             "owner": "callie0313",
             "repo": "dylan-heartbeat",
-            "stars": 305
+            "stars": 309
           }
         },
         {
@@ -555,10 +555,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T04:30:18Z",
+            "last_commit": "2026-08-15T19:22:47Z",
             "owner": "menglimi",
             "repo": "astrbot_plugin_private_companion",
-            "stars": 253
+            "stars": 257
           }
         },
         {
@@ -572,7 +572,7 @@
             "last_commit": "2026-06-29T17:07:37Z",
             "owner": "anhe2021212-spec",
             "repo": "Tidal_Echo",
-            "stars": 209
+            "stars": 211
           }
         },
         {
@@ -583,10 +583,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-26T18:14:32Z",
+            "last_commit": "2026-08-16T04:24:32Z",
             "owner": "ClaraShafiq",
             "repo": "jiwen",
-            "stars": 131
+            "stars": 132
           }
         },
         {
@@ -605,20 +605,6 @@
         },
         {
           "node_type": "item",
-          "title": "Not Fade Away",
-          "description": "Deployment guide and machine-readable specs for an always-on, self-healing Claude Code companion using official channels, a local terminal, and a self-hosted web frontend. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-16T21:53:37Z",
-            "owner": "heyxiaoc",
-            "repo": "not-fade-away",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
           "title": "ghost-bf",
           "description": "No-code tutorial for phone-presence perception: a MacroDroid recipe that detects phone activity, wakes your AI, and pushes its replies to you. Tutorial only — the repo contains no code. · · .",
           "children": [],
@@ -628,6 +614,20 @@
             "last_commit": "2026-08-03T14:35:07Z",
             "owner": "sebastianevan200-stack",
             "repo": "ghost-bf",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Not Fade Away",
+          "description": "Deployment guide and machine-readable specs for an always-on, self-healing Claude Code companion using official channels, a local terminal, and a self-hosted web frontend. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T21:53:37Z",
+            "owner": "heyxiaoc",
+            "repo": "not-fade-away",
             "stars": 85
           }
         },
@@ -656,7 +656,7 @@
             "last_commit": "2026-04-25T13:13:30Z",
             "owner": "cocoRaina",
             "repo": "cloud-and-island",
-            "stars": 31
+            "stars": 32
           }
         },
         {
@@ -670,7 +670,7 @@
             "last_commit": "2026-05-22T07:08:08Z",
             "owner": "pearthink123",
             "repo": "revive-companion",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -720,10 +720,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:45:23Z",
+            "last_commit": "2026-08-16T02:51:26Z",
             "owner": "P0luz",
             "repo": "Ombre-Brain",
-            "stars": 1181
+            "stars": 1187
           }
         },
         {
@@ -751,7 +751,7 @@
             "last_commit": "2026-08-14T07:51:41Z",
             "owner": "lxfight-s-Astrbot-Plugins",
             "repo": "astrbot_plugin_livingmemory",
-            "stars": 313
+            "stars": 314
           }
         },
         {
@@ -762,10 +762,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:10:05Z",
+            "last_commit": "2026-08-15T13:58:35Z",
             "owner": "LucieEveille",
             "repo": "kiwi-mem",
-            "stars": 252
+            "stars": 253
           }
         },
         {
@@ -776,10 +776,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-26T17:24:05Z",
+            "last_commit": "2026-08-16T08:49:54Z",
             "owner": "ClaraShafiq",
             "repo": "MemoryConstellations",
-            "stars": 149
+            "stars": 151
           }
         },
         {
@@ -793,7 +793,7 @@
             "last_commit": "2026-08-13T02:41:37Z",
             "owner": "garan0613",
             "repo": "pawwake",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -821,7 +821,7 @@
             "last_commit": "2026-08-07T03:14:12Z",
             "owner": "Yinglianchun",
             "repo": "Haven-Ombre",
-            "stars": 100
+            "stars": 102
           }
         },
         {
@@ -835,7 +835,7 @@
             "last_commit": "2026-08-15T02:48:31Z",
             "owner": "wusaki0723",
             "repo": "Aelios",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2026-06-01T14:51:44Z",
             "owner": "Qizhan7",
             "repo": "imprint-memory",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -863,7 +863,7 @@
             "last_commit": "2026-06-13T07:24:04Z",
             "owner": "Shitsuten",
             "repo": "paramecium",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -877,7 +877,7 @@
             "last_commit": "2026-07-25T12:30:05Z",
             "owner": "marikagura",
             "repo": "kimi-core",
-            "stars": 55
+            "stars": 56
           }
         }
       ],
@@ -978,7 +978,7 @@
             "last_commit": "2026-07-22T08:21:07Z",
             "owner": "RVC-Boss",
             "repo": "GPT-SoVITS",
-            "stars": 60884
+            "stars": 60916
           }
         },
         {
@@ -992,7 +992,7 @@
             "last_commit": "2026-08-03T19:11:40Z",
             "owner": "fishaudio",
             "repo": "fish-speech",
-            "stars": 32187
+            "stars": 32197
           }
         },
         {
@@ -1006,7 +1006,7 @@
             "last_commit": "2026-08-13T14:27:09Z",
             "owner": "index-tts",
             "repo": "index-tts",
-            "stars": 22903
+            "stars": 22944
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2026-05-25T18:15:40Z",
             "owner": "QwenAudio",
             "repo": "CosyVoice",
-            "stars": 22760
+            "stars": 22776
           }
         },
         {
@@ -1034,7 +1034,7 @@
             "last_commit": "2026-08-09T21:00:09Z",
             "owner": "Cheiineeey",
             "repo": "callhome",
-            "stars": 93
+            "stars": 95
           }
         },
         {
@@ -1048,7 +1048,7 @@
             "last_commit": "2026-07-17T19:21:57Z",
             "owner": "Yinglianchun",
             "repo": "voice-mcp",
-            "stars": 29
+            "stars": 31
           }
         },
         {
@@ -1079,10 +1079,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T06:28:28Z",
+            "last_commit": "2026-08-16T08:16:37Z",
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 47912
+            "stars": 47940
           }
         },
         {
@@ -1096,7 +1096,7 @@
             "last_commit": "2025-01-17T00:56:12Z",
             "owner": "kimjammer",
             "repo": "Neuro",
-            "stars": 2051
+            "stars": 2054
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2025-07-23T20:57:17Z",
             "owner": "semperai",
             "repo": "amica",
-            "stars": 1589
+            "stars": 1590
           }
         },
         {
@@ -1121,10 +1121,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T06:26:27Z",
+            "last_commit": "2026-08-16T08:04:41Z",
             "owner": "SlimeBoyOwO",
             "repo": "LingChat",
-            "stars": 1215
+            "stars": 1325
           }
         },
         {
@@ -1138,7 +1138,7 @@
             "last_commit": "2026-08-15T04:48:26Z",
             "owner": "RachelForster",
             "repo": "Shinsekai",
-            "stars": 547
+            "stars": 549
           }
         },
         {
@@ -1166,7 +1166,7 @@
             "last_commit": "2026-07-03T22:18:18Z",
             "owner": "29-Cu",
             "repo": "pelle-d-umore",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -1180,7 +1180,7 @@
             "last_commit": "2026-07-06T03:50:43Z",
             "owner": "zziying",
             "repo": "ai-live2d-body",
-            "stars": 27
+            "stars": 30
           }
         },
         {
@@ -1211,10 +1211,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T03:08:49Z",
+            "last_commit": "2026-08-16T03:16:20Z",
             "owner": "Roboparty",
             "repo": "roboto_origin",
-            "stars": 2218
+            "stars": 2253
           }
         },
         {
@@ -1228,7 +1228,7 @@
             "last_commit": "2026-06-15T10:43:05Z",
             "owner": "vickyldr",
             "repo": "svakom-ble-ai",
-            "stars": 108
+            "stars": 109
           }
         },
         {
@@ -1295,7 +1295,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107288
+            "stars": 107347
           }
         },
         {
@@ -1309,7 +1309,7 @@
             "last_commit": "2026-08-14T19:16:10Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 52903
+            "stars": 52927
           }
         },
         {
@@ -1323,7 +1323,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24916
+            "stars": 24937
           }
         },
         {
@@ -1337,7 +1337,7 @@
             "last_commit": "2026-08-14T19:23:23Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 19843
+            "stars": 19859
           }
         },
         {
@@ -1351,7 +1351,7 @@
             "last_commit": "2026-08-12T19:39:33Z",
             "owner": "QwenAudio",
             "repo": "SenseVoice",
-            "stars": 9073
+            "stars": 9081
           }
         }
       ],
@@ -1371,7 +1371,7 @@
             "last_commit": "2026-07-23T08:04:11Z",
             "owner": "eveacla11",
             "repo": "ears",
-            "stars": 55
+            "stars": 57
           }
         },
         {
@@ -1405,7 +1405,7 @@
             "last_commit": "2026-08-09T15:46:03Z",
             "owner": "jackwener",
             "repo": "OpenCLI",
-            "stars": 28200
+            "stars": 28223
           }
         },
         {
@@ -1419,7 +1419,7 @@
             "last_commit": "2026-01-10T01:06:18Z",
             "owner": "sugarforever",
             "repo": "amap-mcp-server",
-            "stars": 122
+            "stars": 123
           }
         },
         {
@@ -1433,7 +1433,7 @@
             "last_commit": "2026-08-09T21:00:08Z",
             "owner": "Cheiineeey",
             "repo": "always-here",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -1447,7 +1447,7 @@
             "last_commit": "2026-06-23T13:06:11Z",
             "owner": "sanqianzilanyue",
             "repo": "ai-time-weather-phone",
-            "stars": 41
+            "stars": 42
           }
         }
       ],
@@ -1472,7 +1472,7 @@
             "last_commit": "2026-07-17T02:37:51Z",
             "owner": "tutusagi",
             "repo": "ai-fishing-game",
-            "stars": 522
+            "stars": 523
           }
         },
         {
@@ -1486,7 +1486,7 @@
             "last_commit": "2026-07-17T01:03:18Z",
             "owner": "Zizuixixiang",
             "repo": "cedareco",
-            "stars": 129
+            "stars": 130
           }
         },
         {
@@ -1500,7 +1500,7 @@
             "last_commit": "2026-07-26T04:45:38Z",
             "owner": "xinwithyu",
             "repo": "moonlit-myriad",
-            "stars": 66
+            "stars": 67
           }
         },
         {
@@ -1542,7 +1542,7 @@
             "last_commit": "2026-08-08T06:53:33Z",
             "owner": "hatakeyuyuko-dotcom",
             "repo": "Memoria-Station",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -1629,7 +1629,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T17:10:18Z",
+            "last_commit": "2026-08-16T03:16:10Z",
             "owner": "PrismarineJS",
             "repo": "mineflayer",
             "stars": 7333
@@ -1643,10 +1643,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T03:32:46Z",
+            "last_commit": "2026-08-16T07:38:45Z",
             "owner": "Julian-adv",
             "repo": "OpenMMO",
-            "stars": 1688
+            "stars": 1695
           }
         },
         {
@@ -1660,7 +1660,7 @@
             "last_commit": "2026-06-29T05:49:43Z",
             "owner": "TartaricAcid",
             "repo": "TouhouLittleMaid",
-            "stars": 851
+            "stars": 853
           }
         },
         {
@@ -1674,7 +1674,7 @@
             "last_commit": "2026-08-02T15:51:24Z",
             "owner": "RennAkira",
             "repo": "spicy-monopoly",
-            "stars": 453
+            "stars": 457
           }
         },
         {
@@ -1688,7 +1688,7 @@
             "last_commit": "2026-06-14T10:37:30Z",
             "owner": "Aevella",
             "repo": "sky-pc-mcp-companion",
-            "stars": 134
+            "stars": 137
           }
         },
         {
@@ -1716,7 +1716,7 @@
             "last_commit": "2026-06-26T10:15:00Z",
             "owner": "SumanasJ",
             "repo": "coc-kp-host",
-            "stars": 37
+            "stars": 39
           }
         },
         {
@@ -1755,7 +1755,7 @@
             "last_commit": "2026-08-03T17:12:02Z",
             "owner": "KKarsyline",
             "repo": "shared-page",
-            "stars": 36
+            "stars": 38
           }
         },
         {
@@ -1837,7 +1837,7 @@
             "last_commit": "2026-07-02T18:35:37Z",
             "owner": "zzyyksl",
             "repo": "reading-nook",
-            "stars": 36
+            "stars": 38
           }
         },
         {
@@ -1856,6 +1856,20 @@
         },
         {
           "node_type": "item",
+          "title": "ss-reading-nest (共读小窝)",
+          "description": "Mobile-first AI co-reading nest for novels and manga, built on ChatGPT Apps SDK + MCP with reading positions, catch-up ranges, bookmarks, excerpts, comments, and Cloudflare D1/R2 storage. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-27T12:49:09Z",
+            "owner": "yueyue95",
+            "repo": "ss-reading-nest-open",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
           "title": "coread (共读室)",
           "description": "Co-reading room where human and AI annotate the same book side by side: epub import with chapter and image extraction, CSS-column pagination that adapts from phone to desktop, shared highlights, comments and replies, reading presence, epub/markdown export with annotations, and MCP tools over stdio or SSE/Streamable HTTP. SQLite only, zero external dependencies. MIT. · · .",
           "children": [],
@@ -1870,20 +1884,6 @@
         },
         {
           "node_type": "item",
-          "title": "ss-reading-nest (共读小窝)",
-          "description": "Mobile-first AI co-reading nest for novels and manga, built on ChatGPT Apps SDK + MCP with reading positions, catch-up ranges, bookmarks, excerpts, comments, and Cloudflare D1/R2 storage. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-27T12:49:09Z",
-            "owner": "yueyue95",
-            "repo": "ss-reading-nest-open",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
           "title": "film-matinee",
           "description": "AI-first film reading toolkit that turns movies into visual sheets, subtitle sidecars, MCP linear chunks, and shared annotations for timeline-based viewing. · · .",
           "children": [],
@@ -1893,7 +1893,7 @@
             "last_commit": "2026-07-26T14:51:21Z",
             "owner": "idleprocesscc",
             "repo": "film-matinee",
-            "stars": 24
+            "stars": 25
           }
         }
       ],
@@ -1944,10 +1944,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T06:44:34Z",
+            "last_commit": "2026-08-16T08:27:53Z",
             "owner": "rullerzhou-afk",
             "repo": "clawd-on-desk",
-            "stars": 5940
+            "stars": 5952
           }
         },
         {
@@ -1961,7 +1961,7 @@
             "last_commit": "2026-06-05T03:27:42Z",
             "owner": "29-Cu",
             "repo": "Ruota-della-Fortuna",
-            "stars": 148
+            "stars": 147
           }
         },
         {
@@ -2003,7 +2003,7 @@
             "last_commit": "2026-05-06T07:32:34Z",
             "owner": "BomBomLab",
             "repo": "Journal",
-            "stars": 33
+            "stars": 34
           }
         }
       ],
@@ -2028,7 +2028,7 @@
             "last_commit": "2026-08-14T11:48:57Z",
             "owner": "pionxzh",
             "repo": "chatgpt-exporter",
-            "stars": 2675
+            "stars": 2679
           }
         },
         {
@@ -2042,7 +2042,7 @@
             "last_commit": "2026-04-15T03:21:58Z",
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 980
+            "stars": 983
           }
         },
         {
@@ -2084,7 +2084,7 @@
             "last_commit": "2026-04-29T06:54:52Z",
             "owner": "socketteer",
             "repo": "Claude-Conversation-Exporter",
-            "stars": 107
+            "stars": 109
           }
         },
         {
@@ -2112,7 +2112,7 @@
             "last_commit": "2026-07-18T08:21:21Z",
             "owner": "Vivi-Seth",
             "repo": "forge-reload",
-            "stars": 14
+            "stars": 15
           }
         }
       ],
@@ -2178,9 +2178,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:48:48.123Z",
+    "last_updated": "2026-08-16T08:50:33.550Z",
     "original_repository": "DasterProkio/awesome-ai-companion",
-    "original_repository_sha": "d404067cb7c91b405f11c05457c62e0db008b744",
+    "original_repository_sha": "c2555ac7b7e1f9bd2d5c369256db1b28c4e75da7",
     "enhanced_repository": "enhansome/enhansome-ai-companion",
     "enhanced_repository_description": null,
     "title": "Awesome ai companion with stars"
