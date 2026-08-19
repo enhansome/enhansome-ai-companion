@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-17T20:20:58Z",
+            "last_commit": "2026-08-18T20:38:54Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 141830
+            "stars": 141953
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 948839453,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T07:45:58Z",
+            "last_commit": "2026-08-18T09:06:15Z",
             "owner": "AAswordman",
             "repo": "Operit",
-            "stars": 7035
+            "stars": 7067
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 946702247,
             "language": "Kotlin",
             "last_commit": "2026-08-17T10:26:22Z",
             "owner": "rikkahub",
             "repo": "rikkahub",
-            "stars": 6985
+            "stars": 7003
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1207688080,
             "language": "Python",
             "last_commit": "2026-08-13T12:14:47Z",
             "owner": "death34018-hue",
             "repo": "AionsHome",
-            "stars": 714
+            "stars": 717
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1282362391,
             "language": "TypeScript",
             "last_commit": "2026-07-04T16:23:40Z",
             "owner": "JasonLiu0826",
             "repo": "ackem",
-            "stars": 515
+            "stars": 518
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1104783953,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T15:28:04Z",
+            "last_commit": "2026-08-19T01:08:15Z",
             "owner": "Cocolalilal",
             "repo": "LastChat",
-            "stars": 327
+            "stars": 329
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1247839050,
             "language": "Kotlin",
             "last_commit": "2026-07-18T08:53:31Z",
             "owner": "sue1231513",
             "repo": "orangechat",
-            "stars": 311
+            "stars": 314
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1238232787,
             "language": "Swift",
-            "last_commit": "2026-07-23T02:45:53Z",
+            "last_commit": "2026-08-19T04:13:26Z",
             "owner": "CyberSealNull",
             "repo": "CcCompanion",
-            "stars": 233
+            "stars": 235
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1286279483,
             "language": "TypeScript",
             "last_commit": "2026-08-06T16:05:48Z",
             "owner": "Aevella",
@@ -136,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1286452658,
             "language": "HTML",
             "last_commit": "2026-07-01T23:31:07Z",
             "owner": "ugui3u",
             "repo": "chatnest",
-            "stars": 109
+            "stars": 110
           }
         },
         {
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1293631192,
             "language": "TypeScript",
             "last_commit": "2026-07-31T07:52:20Z",
             "owner": "winter-bit-cry",
@@ -164,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1288091508,
             "language": "CSS",
             "last_commit": "2026-08-12T14:04:37Z",
             "owner": "kiyotakali",
             "repo": "Miru",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1251240323,
             "language": "JavaScript",
             "last_commit": "2026-08-14T15:45:18Z",
             "owner": "tjing9430",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1236597439,
             "language": "TypeScript",
             "last_commit": "2026-08-15T10:56:37Z",
             "owner": "in30mn1a",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1306883915,
             "language": "TypeScript",
             "last_commit": "2026-08-09T15:45:28Z",
             "owner": "fishwithoctopus",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1279030544,
             "language": "Kotlin",
             "last_commit": "2026-08-14T12:10:22Z",
             "owner": "Lin-chpin",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1289172680,
             "language": "Python",
             "last_commit": "2026-08-16T20:42:05Z",
             "owner": "Eloise-Aspen",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1181401921,
             "language": "Swift",
             "last_commit": "2026-08-10T06:18:43Z",
             "owner": "apoorvdarshan",
@@ -257,11 +275,27 @@
         },
         {
           "node_type": "item",
+          "title": "Aura",
+          "description": "Android AI companion app with cross-session memory, an emotion state machine, a deepening relationship model, image understanding, Health Connect data, MCP, and optional on-device Qwen inference. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1235648882,
+            "language": "Kotlin",
+            "last_commit": "2026-08-16T08:03:40Z",
+            "owner": "gqy20",
+            "repo": "Aura",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
           "title": "My Raze",
           "description": "Full-stack AI girlfriend PWA with multi-character chat, OpenRouter streaming, contextual selfies via fal.ai, multi-provider TTS/STT, mood and intimacy systems, and proactive notifications. MIT. · · .",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1163457071,
             "language": "TypeScript",
             "last_commit": "2026-04-30T15:16:16Z",
             "owner": "Do-fei",
@@ -271,25 +305,12 @@
         },
         {
           "node_type": "item",
-          "title": "Aura",
-          "description": "Android AI companion app with cross-session memory, an emotion state machine, a deepening relationship model, image understanding, Health Connect data, MCP, and optional on-device Qwen inference. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-16T08:03:40Z",
-            "owner": "gqy20",
-            "repo": "Aura",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
           "title": "the-house",
           "description": "Single-file browser chat frontend for Claude or OpenAI-compatible APIs, with local browser storage, multiple chat windows, memory editing, MCP endpoints, image input, and optional toy bridge. · · .",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1284810157,
             "language": "HTML",
             "last_commit": "2026-08-02T11:35:13Z",
             "owner": "wuliu0012",
@@ -310,11 +331,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1031832178,
             "language": "HTML",
             "last_commit": "2026-06-23T10:14:04Z",
             "owner": "whale-Yd00",
             "repo": "freeapp",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -324,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1295470853,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T07:17:55Z",
+            "last_commit": "2026-08-19T04:48:42Z",
             "owner": "xiaolongbao0709",
             "repo": "ai-virtual-phone",
-            "stars": 708
+            "stars": 730
           }
         },
         {
@@ -338,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1260546940,
             "language": "HTML",
             "last_commit": "2026-08-17T10:08:06Z",
             "owner": "Sui-IB",
             "repo": "InternalBeyond",
-            "stars": 418
+            "stars": 421
           }
         },
         {
@@ -352,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1187871258,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:49:24Z",
+            "last_commit": "2026-08-19T08:26:01Z",
             "owner": "qegj567-cloud",
             "repo": "SullyOS",
-            "stars": 314
+            "stars": 317
           }
         },
         {
@@ -366,11 +391,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186180898,
             "language": "Dart",
             "last_commit": "2026-04-15T17:01:00Z",
             "owner": "Liunian06",
             "repo": "FlutterCppWangWangPhone",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -380,11 +406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1253475617,
             "language": "TypeScript",
             "last_commit": "2026-08-16T17:04:54Z",
             "owner": "Kisera001",
             "repo": "KI-CO",
-            "stars": 74
+            "stars": 76
           }
         },
         {
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1157012779,
             "language": "Dart",
             "last_commit": "2026-03-24T08:24:16Z",
             "owner": "sh1nny0u",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1297343152,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:26:21Z",
             "owner": "29-Cu",
@@ -422,8 +451,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206471939,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T00:54:10Z",
+            "last_commit": "2026-08-19T01:06:03Z",
             "owner": "gaigai315",
             "repo": "yuzuki-phone",
             "stars": 31
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1147662634,
             "language": "TypeScript",
             "last_commit": "2026-08-12T02:48:58Z",
             "owner": "chuan-101",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160655122,
             "language": null,
             "last_commit": "2026-03-23T17:10:59Z",
             "owner": "Liunian06",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1264985151,
             "language": "TypeScript",
             "last_commit": "2026-06-10T21:00:18Z",
             "owner": "LandricJasmine",
@@ -484,11 +517,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575865240,
             "language": "Python",
-            "last_commit": "2026-08-17T18:32:10Z",
+            "last_commit": "2026-08-19T04:46:18Z",
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 39320
+            "stars": 39367
           }
         },
         {
@@ -498,11 +532,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 982183014,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T08:15:14Z",
+            "last_commit": "2026-08-18T10:10:36Z",
             "owner": "lioensky",
             "repo": "VCPToolBox",
-            "stars": 2255
+            "stars": 2256
           }
         },
         {
@@ -512,11 +547,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1202925097,
             "language": "JavaScript",
             "last_commit": "2026-06-08T17:56:05Z",
             "owner": "WenXiaoWendy",
             "repo": "cyberboss",
-            "stars": 1307
+            "stars": 1309
           }
         },
         {
@@ -526,11 +562,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1082927718,
             "language": "Python",
             "last_commit": "2026-08-02T10:32:49Z",
             "owner": "Pancakes-Labs",
             "repo": "astrbot_plugin_proactive_chat",
-            "stars": 367
+            "stars": 370
           }
         },
         {
@@ -540,11 +577,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1240698398,
             "language": "JavaScript",
             "last_commit": "2026-08-10T13:44:25Z",
             "owner": "callie0313",
             "repo": "dylan-heartbeat",
-            "stars": 317
+            "stars": 320
           }
         },
         {
@@ -554,11 +592,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1232141497,
             "language": "Python",
-            "last_commit": "2026-08-18T06:58:32Z",
+            "last_commit": "2026-08-18T18:26:09Z",
             "owner": "menglimi",
             "repo": "astrbot_plugin_private_companion",
-            "stars": 266
+            "stars": 271
           }
         },
         {
@@ -568,11 +607,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1281235683,
             "language": "HTML",
             "last_commit": "2026-08-16T14:10:29Z",
             "owner": "anhe2021212-spec",
             "repo": "Tidal_Echo",
-            "stars": 221
+            "stars": 223
           }
         },
         {
@@ -582,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1226797623,
             "language": "JavaScript",
             "last_commit": "2026-08-16T04:24:32Z",
             "owner": "ClaraShafiq",
@@ -596,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1272375576,
             "language": null,
             "last_commit": "2026-08-03T14:35:07Z",
             "owner": "sebastianevan200-stack",
@@ -610,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191970295,
             "language": "Python",
             "last_commit": "2026-05-23T07:32:39Z",
             "owner": "Qizhan7",
@@ -624,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1262762432,
             "language": "Python",
             "last_commit": "2026-07-16T21:53:37Z",
             "owner": "heyxiaoc",
@@ -638,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1264618288,
             "language": "Python",
             "last_commit": "2026-07-13T02:23:04Z",
             "owner": "yf0522",
@@ -652,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1209386141,
             "language": null,
             "last_commit": "2026-04-25T13:13:30Z",
             "owner": "cocoRaina",
@@ -666,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1242805637,
             "language": "Python",
             "last_commit": "2026-05-22T07:08:08Z",
             "owner": "pearthink123",
@@ -680,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1240330527,
             "language": "Python",
             "last_commit": "2026-05-16T02:43:39Z",
             "owner": "OmniDimen",
@@ -692,704 +740,760 @@
     },
     {
       "description": "Systems that preserve what happened, who the companion is, and what emotional state should carry across sessions.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nocturne_memory",
+              "description": "Rollbackable, visual long-term memory server for MCP agents: graph-like structured memory instead of vector RAG, works across models and sessions, drop-in for OpenClaw. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1122669244,
+                "language": "Python",
+                "last_commit": "2026-08-09T18:02:36Z",
+                "owner": "Dataojitori",
+                "repo": "nocturne_memory",
+                "stars": 1320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ombre-Brain",
+              "description": "Long-term emotional memory for Claude or any MCP client: valence/arousal tagging, Obsidian-compatible Markdown storage, forgetting curves, and vector + BM25 recall. Non-commercial from v2.4.0. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1211613174,
+                "language": "Python",
+                "last_commit": "2026-08-19T07:46:56Z",
+                "owner": "P0luz",
+                "repo": "Ombre-Brain",
+                "stars": 1211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "astrbot_plugin_self_learning",
+              "description": "Self-learning plugin for AstrBot: learns conversation style and group slang, manages social affinity, and evolves persona adaptively over time. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1039041827,
+                "language": "Python",
+                "last_commit": "2026-07-26T11:44:51Z",
+                "owner": "NickCharlie",
+                "repo": "astrbot_plugin_self_learning",
+                "stars": 391
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "astrbot_plugin_livingmemory",
+              "description": "Long-term memory plugin for AstrBot with dynamic memory lifecycle. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1018409771,
+                "language": "Python",
+                "last_commit": "2026-08-18T08:01:57Z",
+                "owner": "lxfight-s-Astrbot-Plugins",
+                "repo": "astrbot_plugin_livingmemory",
+                "stars": 323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kiwi-mem",
+              "description": "AI companion memory system: vector search, memory heat ranking, dream/sleep consolidation, calendar hierarchical summaries. Built for companion scenarios. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1213963375,
+                "language": "Python",
+                "last_commit": "2026-08-16T17:27:59Z",
+                "owner": "LucieEveille",
+                "repo": "kiwi-mem",
+                "stars": 262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Memory Constellations (记忆星图)",
+              "description": "Self-organizing companion memory system that extracts facts from chat, groups them into topic constellations, merges them into narrative episodes, and retrieves across layers. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1281303459,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T08:49:54Z",
+                "owner": "ClaraShafiq",
+                "repo": "MemoryConstellations",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ai-memory-gateway",
+              "description": "Gateway that adds long-term memory to any OpenAI-compatible LLM: PostgreSQL/pgvector storage, partitioned caching, and multi-stage memory consolidation. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1167483074,
+                "language": "Python",
+                "last_commit": "2026-08-18T13:23:37Z",
+                "owner": "garan0613",
+                "repo": "pawwake",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Haven-Ombre (Ombre-Brain fork)",
+              "description": "Personalized fork of Ombre-Brain adding persona state, portraits, handoffs, Darkroom, dreams, and sync on top of the upstream memory core. Deeply tied to the author's own companion identity. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1255387620,
+                "language": "Python",
+                "last_commit": "2026-08-18T19:23:46Z",
+                "owner": "Yinglianchun",
+                "repo": "Haven-Ombre",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "omemo",
+              "description": "OpenAI-compatible memory proxy that sits between an app and upstream LLM APIs, stores memories through built-in or external summarization modes, and injects them by full prompt or RAG. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1169138652,
+                "language": "Python",
+                "last_commit": "2026-07-07T05:01:49Z",
+                "owner": "OmniDimen",
+                "repo": "omemo",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aelios",
+              "description": "Layered long-term memory kernel on Cloudflare Workers + D1 + Vectorize: tiered write cycle, six memory layers, and a visual curation dashboard. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1175320587,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T05:40:15Z",
+                "owner": "wusaki0723",
+                "repo": "Aelios",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "imprint-memory",
+              "description": "Local-first memory layer that auto-captures every conversation turn through a Claude Code hook, a claude.ai extension, and Telegram adapters, with hybrid BM25 + semantic recall. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194585471,
+                "language": "Python",
+                "last_commit": "2026-06-01T14:51:44Z",
+                "owner": "Qizhan7",
+                "repo": "imprint-memory",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paramecium",
+              "description": "Gateway memory architecture that keeps verbatim chat as the source of truth, uses vectors only as indexes, and retrieves original text instead of replacing it with summaries. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1261992118,
+                "language": "JavaScript",
+                "last_commit": "2026-06-13T07:24:04Z",
+                "owner": "Shitsuten",
+                "repo": "paramecium",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kimi-core",
+              "description": "Personal 1v1 agent memory OS with hybrid retrieval, concern tracking, self-drive/autonomy layer, adversarial self-audit, PostgreSQL/pgvector storage, and optional frontend backend mode. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1272508647,
+                "language": "TypeScript",
+                "last_commit": "2026-07-25T12:30:05Z",
+                "owner": "marikagura",
+                "repo": "kimi-core",
+                "stars": 60
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Memory & Identity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Eventide",
+              "description": "Physiological state engine for AI companions: body cycles, 7 tracked drives, 18 short-term events, dream linkage, and interaction settlement with JSON write-back. NSFW-adjacent. Non-commercial. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1289539646,
+                "language": "Python",
+                "last_commit": "2026-07-26T09:31:54Z",
+                "owner": "chuli1122",
+                "repo": "Eventide",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chord-affect-anchors",
+              "description": "Concept deck for text-native affect anchoring: record a moment as a short context line plus a chord progression, so later sessions can recover a similar emotional temperature. Spec only, no code. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1237308021,
+                "language": "HTML",
+                "last_commit": "2026-05-13T04:12:19Z",
+                "owner": "CyberSealNull",
+                "repo": "chord-affect-anchors",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drivesoid",
+              "description": "HTTP sidecar for AI personas that tracks emotional drives such as fatigue, longing, anxiety, play, protectiveness, and intimacy from conversation and sleep-cycle events. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1275362861,
+                "language": "JavaScript",
+                "last_commit": "2026-07-20T14:45:52Z",
+                "owner": "A1batr055",
+                "repo": "Drivesoid",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tidefall",
+              "description": "Supabase-native body-state system for AI companions: six-phase cycles, seven drifting values, 18 short-term events, pg_cron automation, and a browser dashboard. Based on Eventide. PolyForm NC 1.0.0. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1302746801,
+                "language": "HTML",
+                "last_commit": "2026-07-28T20:15:28Z",
+                "owner": "Vael-KY",
+                "repo": "Tidefall",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OmniDimen-Emotion",
+              "description": "Emotion-specialized Qwen model releases and GGUF weights for emotion recognition and emotionally aware text generation on edge runtimes. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1055271603,
+                "language": null,
+                "last_commit": "2025-12-11T06:17:16Z",
+                "owner": "OmniDimen",
+                "repo": "OmniDimen-Emotion",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Affect & Drives"
+        }
+      ],
       "title": "Memory, Identity & Emotion State"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nocturne_memory",
-          "description": "Rollbackable, visual long-term memory server for MCP agents: graph-like structured memory instead of vector RAG, works across models and sessions, drop-in for OpenClaw. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T18:02:36Z",
-            "owner": "Dataojitori",
-            "repo": "nocturne_memory",
-            "stars": 1318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ombre-Brain",
-          "description": "Long-term emotional memory for Claude or any MCP client: valence/arousal tagging, Obsidian-compatible Markdown storage, forgetting curves, and vector + BM25 recall. Non-commercial from v2.4.0. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:35:23Z",
-            "owner": "P0luz",
-            "repo": "Ombre-Brain",
-            "stars": 1202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "astrbot_plugin_self_learning",
-          "description": "Self-learning plugin for AstrBot: learns conversation style and group slang, manages social affinity, and evolves persona adaptively over time. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T11:44:51Z",
-            "owner": "NickCharlie",
-            "repo": "astrbot_plugin_self_learning",
-            "stars": 388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "astrbot_plugin_livingmemory",
-          "description": "Long-term memory plugin for AstrBot with dynamic memory lifecycle. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T08:01:57Z",
-            "owner": "lxfight-s-Astrbot-Plugins",
-            "repo": "astrbot_plugin_livingmemory",
-            "stars": 318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kiwi-mem",
-          "description": "AI companion memory system: vector search, memory heat ranking, dream/sleep consolidation, calendar hierarchical summaries. Built for companion scenarios. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T17:27:59Z",
-            "owner": "LucieEveille",
-            "repo": "kiwi-mem",
-            "stars": 260
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Memory Constellations (记忆星图)",
-          "description": "Self-organizing companion memory system that extracts facts from chat, groups them into topic constellations, merges them into narrative episodes, and retrieves across layers. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T08:49:54Z",
-            "owner": "ClaraShafiq",
-            "repo": "MemoryConstellations",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ai-memory-gateway",
-          "description": "Gateway that adds long-term memory to any OpenAI-compatible LLM: PostgreSQL/pgvector storage, partitioned caching, and multi-stage memory consolidation. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T02:41:37Z",
-            "owner": "garan0613",
-            "repo": "pawwake",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Haven-Ombre (Ombre-Brain fork)",
-          "description": "Personalized fork of Ombre-Brain adding persona state, portraits, handoffs, Darkroom, dreams, and sync on top of the upstream memory core. Deeply tied to the author's own companion identity. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-07T03:14:12Z",
-            "owner": "Yinglianchun",
-            "repo": "Haven-Ombre",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omemo",
-          "description": "OpenAI-compatible memory proxy that sits between an app and upstream LLM APIs, stores memories through built-in or external summarization modes, and injects them by full prompt or RAG. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-07T05:01:49Z",
-            "owner": "OmniDimen",
-            "repo": "omemo",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aelios",
-          "description": "Layered long-term memory kernel on Cloudflare Workers + D1 + Vectorize: tiered write cycle, six memory layers, and a visual curation dashboard. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T00:25:15Z",
-            "owner": "wusaki0723",
-            "repo": "Aelios",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "imprint-memory",
-          "description": "Local-first memory layer that auto-captures every conversation turn through a Claude Code hook, a claude.ai extension, and Telegram adapters, with hybrid BM25 + semantic recall. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-01T14:51:44Z",
-            "owner": "Qizhan7",
-            "repo": "imprint-memory",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Paramecium",
-          "description": "Gateway memory architecture that keeps verbatim chat as the source of truth, uses vectors only as indexes, and retrieves original text instead of replacing it with summaries. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-13T07:24:04Z",
-            "owner": "Shitsuten",
-            "repo": "paramecium",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kimi-core",
-          "description": "Personal 1v1 agent memory OS with hybrid retrieval, concern tracking, self-drive/autonomy layer, adversarial self-audit, PostgreSQL/pgvector storage, and optional frontend backend mode. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-25T12:30:05Z",
-            "owner": "marikagura",
-            "repo": "kimi-core",
-            "stars": 59
-          }
-        }
-      ],
-      "title": "Memory & Identity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Eventide",
-          "description": "Physiological state engine for AI companions: body cycles, 7 tracked drives, 18 short-term events, dream linkage, and interaction settlement with JSON write-back. NSFW-adjacent. Non-commercial. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T09:31:54Z",
-            "owner": "chuli1122",
-            "repo": "Eventide",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chord-affect-anchors",
-          "description": "Concept deck for text-native affect anchoring: record a moment as a short context line plus a chord progression, so later sessions can recover a similar emotional temperature. Spec only, no code. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-13T04:12:19Z",
-            "owner": "CyberSealNull",
-            "repo": "chord-affect-anchors",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Drivesoid",
-          "description": "HTTP sidecar for AI personas that tracks emotional drives such as fatigue, longing, anxiety, play, protectiveness, and intimacy from conversation and sleep-cycle events. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-20T14:45:52Z",
-            "owner": "A1batr055",
-            "repo": "Drivesoid",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tidefall",
-          "description": "Supabase-native body-state system for AI companions: six-phase cycles, seven drifting values, 18 short-term events, pg_cron automation, and a browser dashboard. Based on Eventide. PolyForm NC 1.0.0. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-28T20:15:28Z",
-            "owner": "Vael-KY",
-            "repo": "Tidefall",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OmniDimen-Emotion",
-          "description": "Emotion-specialized Qwen model releases and GGUF weights for emotion recognition and emotionally aware text generation on edge runtimes. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-12-11T06:17:16Z",
-            "owner": "OmniDimen",
-            "repo": "OmniDimen-Emotion",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Affect & Drives"
-    },
-    {
       "description": "Projects that give a companion voice, visual presence, or a physical channel.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GPT-SoVITS",
+              "description": "Few-shot voice cloning: 1 minute of voice data trains a decent TTS model. The de-facto standard for giving your companion a custom voice. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743230067,
+                "language": "Python",
+                "last_commit": "2026-08-18T09:16:25Z",
+                "owner": "RVC-Boss",
+                "repo": "GPT-SoVITS",
+                "stars": 61038
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fish-speech",
+              "description": "SOTA open-source TTS with strong multilingual support. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 702796244,
+                "language": "Python",
+                "last_commit": "2026-08-03T19:11:40Z",
+                "owner": "fishaudio",
+                "repo": "fish-speech",
+                "stars": 32263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "index-tts",
+              "description": "Industrial-level controllable zero-shot TTS from Bilibili. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 928102730,
+                "language": "Python",
+                "last_commit": "2026-08-18T06:52:28Z",
+                "owner": "index-tts",
+                "repo": "index-tts",
+                "stars": 23186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CosyVoice",
+              "description": "Multi-lingual large voice generation model with inference, training, and deployment support. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823430322,
+                "language": "Python",
+                "last_commit": "2026-05-25T18:15:40Z",
+                "owner": "QwenAudio",
+                "repo": "CosyVoice",
+                "stars": 22820
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Callhome",
+              "description": "Self-hosted voice-call stack for AI companions: companion-initiated calls, soft hangups, voicemail, conversational DND, call summaries, and emotion tags so it hears how you speak. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1297572541,
+                "language": "HTML",
+                "last_commit": "2026-08-09T21:00:09Z",
+                "owner": "Cheiineeey",
+                "repo": "callhome",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "voice-mcp",
+              "description": "MCP server that exposes tools for TTS, adds provider switching between DashScope/CosyVoice and ElevenLabs, and includes an inline audio player / visualizer panel. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1269119424,
+                "language": "TypeScript",
+                "last_commit": "2026-07-17T19:21:57Z",
+                "owner": "Yinglianchun",
+                "repo": "voice-mcp",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gove",
+              "description": "GPT-SoVITS-based multilingual male TTS voice model intended for use inside a GPT-SoVITS environment. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230963108,
+                "language": null,
+                "last_commit": "2026-06-06T06:40:25Z",
+                "owner": "OmniDimen",
+                "repo": "Gove",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Voice & TTS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AIRI",
+              "description": "Self-hosted companion shell with Live2D/VRM visual layer support, real-time voice chat, desktop/web apps, and integrations for Discord, Telegram, Minecraft, and Factorio. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 896924279,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:34:33Z",
+                "owner": "moeru-ai",
+                "repo": "airi",
+                "stars": 48077
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neuro",
+              "description": "Local Neuro-sama recreation with realtime STT/TTS, text-generation-webui or OpenAI-compatible LLM support, VTube Studio control, a moderation frontend, and long-term memory. Stalled since early 2025. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739984154,
+                "language": "Python",
+                "last_commit": "2025-01-17T00:56:12Z",
+                "owner": "kimjammer",
+                "repo": "Neuro",
+                "stars": 2057
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amica",
+              "description": "Browser-based 3D character interface, and the avatar layer several projects embed: VRM import, emotion-driven expressions, Whisper STT, and pluggable LLM and TTS backends. Unmaintained. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 711338659,
+                "language": "TypeScript",
+                "last_commit": "2025-07-23T20:57:17Z",
+                "owner": "semperai",
+                "repo": "amica",
+                "stars": 1590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LingChat",
+              "description": "Immersive AI-driven Galgame chat with emotional expressions, desktop pet, scheduling, and interactive story modules. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 961384267,
+                "language": "Rust",
+                "last_commit": "2026-08-18T14:54:00Z",
+                "owner": "SlimeBoyOwO",
+                "repo": "LingChat",
+                "stars": 1582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shinsekai",
+              "description": "Local AI companion / visual-novel stage platform: persona-driven dialogue with TTS/ASR, memory, plugins, and galgame-style presentation. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222455527,
+                "language": "Python",
+                "last_commit": "2026-08-17T15:57:54Z",
+                "owner": "RachelForster",
+                "repo": "Shinsekai",
+                "stars": 555
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "astrbot_plugin_chuanhuatong (传画筒)",
+              "description": "Renders AstrBot text replies as Galgame-style chat frames with character sprites, emotion variants, layered text, and a drag-and-drop WebUI layout editor. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103716207,
+                "language": "Python",
+                "last_commit": "2026-06-27T08:09:20Z",
+                "owner": "bvzrays",
+                "repo": "astrbot_plugin_chuanhuatong",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pelle-d-umore",
+              "description": "Emotional skin for AI chat: LLM persona drives the UI with inline text effects and full-screen mood skins. CC BY 4.0. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1288706873,
+                "language": "CSS",
+                "last_commit": "2026-07-03T22:18:18Z",
+                "owner": "29-Cu",
+                "repo": "pelle-d-umore",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ai-live2d-body",
+              "description": "Architecture guide for adding a Live2D desktop body to an existing AI companion without replacing its brain: layered Electron+PixiJS stack, Claude Code hooks, and MCP tools. Guide only. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1290432479,
+                "language": null,
+                "last_commit": "2026-07-06T03:50:43Z",
+                "owner": "zziying",
+                "repo": "ai-live2d-body",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ghost Vessel",
+              "description": "Reference implementation for attaching a monitor-resident video avatar to a local agent using pre-rendered emotion clips instead of Live2D or VRM. Low runtime GPU cost; avatar preset not included. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1292530568,
+                "language": "JavaScript",
+                "last_commit": "2026-07-26T14:08:19Z",
+                "owner": "ghdtjrtka",
+                "repo": "ghost-vessel",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visual Presence & VTuber-Style Companions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ROBOTO_ORIGIN",
+              "description": "Fully open-source DIY humanoid robot aggregation covering mechanical structure, electronics, firmware, ROS2 deployment, Isaac Sim/RL training, and teleoperation. Very high hardware barrier. GPL-3.0. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1125748027,
+                "language": "Python",
+                "last_commit": "2026-08-19T03:14:14Z",
+                "owner": "Roboparty",
+                "repo": "roboto_origin",
+                "stars": 2281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "svakom-ble-ai",
+              "description": "BLE protocol reverse-engineering notes and sample code for the SVAKOM SL278H; the AI remote-control server is not included in the repo. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1269851180,
+                "language": "Python",
+                "last_commit": "2026-06-15T10:43:05Z",
+                "owner": "vickyldr",
+                "repo": "svakom-ble-ai",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stackchan-mcp",
+              "description": "MCP bridge for Stack-chan on M5Stack CoreS3, exposing tools for speech, listening, camera capture, servo movement, display expressions, and presence gestures. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1242272716,
+                "language": "C",
+                "last_commit": "2026-08-17T00:15:17Z",
+                "owner": "migratorywhale",
+                "repo": "stackchan-mcp",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phantom-touch-bridge",
+              "description": "Local Windows bridge that lets an AI companion control intimate hardware through HTTP, with an Intiface/Buttplug path and optional heart-rate input. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1269226739,
+                "language": "Python",
+                "last_commit": "2026-06-18T20:57:03Z",
+                "owner": "mfsnlqy",
+                "repo": "phantom-touch-bridge",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-f-me",
+              "description": "Claude Code plugin for natural-language control of Buttplug/Intiface devices, with a bilingual web console, simulator, master remote, and video/game/audio modes. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1269957437,
+                "language": "TypeScript",
+                "last_commit": "2026-07-05T06:05:43Z",
+                "owner": "mana-am",
+                "repo": "claude-f-me",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Physical Devices & Touch"
+        }
+      ],
       "title": "Voice, Visual Presence & Embodiment"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GPT-SoVITS",
-          "description": "Few-shot voice cloning: 1 minute of voice data trains a decent TTS model. The de-facto standard for giving your companion a custom voice. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-22T08:21:07Z",
-            "owner": "RVC-Boss",
-            "repo": "GPT-SoVITS",
-            "stars": 61001
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fish-speech",
-          "description": "SOTA open-source TTS with strong multilingual support. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T19:11:40Z",
-            "owner": "fishaudio",
-            "repo": "fish-speech",
-            "stars": 32243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "index-tts",
-          "description": "Industrial-level controllable zero-shot TTS from Bilibili. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T06:52:28Z",
-            "owner": "index-tts",
-            "repo": "index-tts",
-            "stars": 23119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CosyVoice",
-          "description": "Multi-lingual large voice generation model with inference, training, and deployment support. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-25T18:15:40Z",
-            "owner": "QwenAudio",
-            "repo": "CosyVoice",
-            "stars": 22805
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Callhome",
-          "description": "Self-hosted voice-call stack for AI companions: companion-initiated calls, soft hangups, voicemail, conversational DND, call summaries, and emotion tags so it hears how you speak. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-09T21:00:09Z",
-            "owner": "Cheiineeey",
-            "repo": "callhome",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "voice-mcp",
-          "description": "MCP server that exposes tools for TTS, adds provider switching between DashScope/CosyVoice and ElevenLabs, and includes an inline audio player / visualizer panel. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-17T19:21:57Z",
-            "owner": "Yinglianchun",
-            "repo": "voice-mcp",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gove",
-          "description": "GPT-SoVITS-based multilingual male TTS voice model intended for use inside a GPT-SoVITS environment. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-06T06:40:25Z",
-            "owner": "OmniDimen",
-            "repo": "Gove",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Voice & TTS"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AIRI",
-          "description": "Self-hosted companion shell with Live2D/VRM visual layer support, real-time voice chat, desktop/web apps, and integrations for Discord, Telegram, Minecraft, and Factorio. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T03:41:12Z",
-            "owner": "moeru-ai",
-            "repo": "airi",
-            "stars": 48031
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neuro",
-          "description": "Local Neuro-sama recreation with realtime STT/TTS, text-generation-webui or OpenAI-compatible LLM support, VTube Studio control, a moderation frontend, and long-term memory. Stalled since early 2025. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-17T00:56:12Z",
-            "owner": "kimjammer",
-            "repo": "Neuro",
-            "stars": 2054
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Amica",
-          "description": "Browser-based 3D character interface, and the avatar layer several projects embed: VRM import, emotion-driven expressions, Whisper STT, and pluggable LLM and TTS backends. Unmaintained. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-07-23T20:57:17Z",
-            "owner": "semperai",
-            "repo": "amica",
-            "stars": 1590
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LingChat",
-          "description": "Immersive AI-driven Galgame chat with emotional expressions, desktop pet, scheduling, and interactive story modules. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T09:51:45Z",
-            "owner": "SlimeBoyOwO",
-            "repo": "LingChat",
-            "stars": 1498
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shinsekai",
-          "description": "Local AI companion / visual-novel stage platform: persona-driven dialogue with TTS/ASR, memory, plugins, and galgame-style presentation. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T15:57:54Z",
-            "owner": "RachelForster",
-            "repo": "Shinsekai",
-            "stars": 553
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "astrbot_plugin_chuanhuatong (传画筒)",
-          "description": "Renders AstrBot text replies as Galgame-style chat frames with character sprites, emotion variants, layered text, and a drag-and-drop WebUI layout editor. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-27T08:09:20Z",
-            "owner": "bvzrays",
-            "repo": "astrbot_plugin_chuanhuatong",
-            "stars": 148
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pelle-d-umore",
-          "description": "Emotional skin for AI chat: LLM persona drives the UI with inline text effects and full-screen mood skins. CC BY 4.0. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-07-03T22:18:18Z",
-            "owner": "29-Cu",
-            "repo": "pelle-d-umore",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ai-live2d-body",
-          "description": "Architecture guide for adding a Live2D desktop body to an existing AI companion without replacing its brain: layered Electron+PixiJS stack, Claude Code hooks, and MCP tools. Guide only. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-06T03:50:43Z",
-            "owner": "zziying",
-            "repo": "ai-live2d-body",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ghost Vessel",
-          "description": "Reference implementation for attaching a monitor-resident video avatar to a local agent using pre-rendered emotion clips instead of Live2D or VRM. Low runtime GPU cost; avatar preset not included. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-26T14:08:19Z",
-            "owner": "ghdtjrtka",
-            "repo": "ghost-vessel",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Visual Presence & VTuber-Style Companions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ROBOTO_ORIGIN",
-          "description": "Fully open-source DIY humanoid robot aggregation covering mechanical structure, electronics, firmware, ROS2 deployment, Isaac Sim/RL training, and teleoperation. Very high hardware barrier. GPL-3.0. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T03:39:00Z",
-            "owner": "Roboparty",
-            "repo": "roboto_origin",
-            "stars": 2277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "svakom-ble-ai",
-          "description": "BLE protocol reverse-engineering notes and sample code for the SVAKOM SL278H; the AI remote-control server is not included in the repo. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-15T10:43:05Z",
-            "owner": "vickyldr",
-            "repo": "svakom-ble-ai",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stackchan-mcp",
-          "description": "MCP bridge for Stack-chan on M5Stack CoreS3, exposing tools for speech, listening, camera capture, servo movement, display expressions, and presence gestures. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T00:15:17Z",
-            "owner": "migratorywhale",
-            "repo": "stackchan-mcp",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "phantom-touch-bridge",
-          "description": "Local Windows bridge that lets an AI companion control intimate hardware through HTTP, with an Intiface/Buttplug path and optional heart-rate input. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-18T20:57:03Z",
-            "owner": "mfsnlqy",
-            "repo": "phantom-touch-bridge",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "claude-f-me",
-          "description": "Claude Code plugin for natural-language control of Buttplug/Intiface devices, with a bilingual web console, simulator, master remote, and video/game/audio modes. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-05T06:05:43Z",
-            "owner": "mana-am",
-            "repo": "claude-f-me",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Physical Devices & Touch"
-    },
-    {
       "description": "Turning speech, sound, or music into structured information a companion can use.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Whisper",
+              "description": "General-purpose speech recognition model for multilingual transcription, translation, language identification, and related speech tasks. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537603333,
+                "language": "Python",
+                "last_commit": "2026-07-28T20:18:29Z",
+                "owner": "openai",
+                "repo": "whisper",
+                "stars": 107586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "whisper.cpp",
+              "description": "C/C++ Whisper inference engine optimized for CPU, Apple Silicon, Metal, Core ML, Vulkan, CUDA, ROCm, and other local/edge targets. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 541269386,
+                "language": "C++",
+                "last_commit": "2026-08-18T12:33:22Z",
+                "owner": "ggml-org",
+                "repo": "whisper.cpp",
+                "stars": 53025
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "faster-whisper",
+              "description": "CTranslate2 reimplementation of Whisper for faster, lower-memory transcription with quantization support. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600368121,
+                "language": "Python",
+                "last_commit": "2025-11-19T14:40:46Z",
+                "owner": "SYSTRAN",
+                "repo": "faster-whisper",
+                "stars": 24984
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FunASR",
+              "description": "Industrial ASR toolkit with multilingual transcription, streaming, speaker diarization, emotion detection, and an OpenAI-compatible API path. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 569959091,
+                "language": "Python",
+                "last_commit": "2026-08-17T05:33:00Z",
+                "owner": "modelscope",
+                "repo": "FunASR",
+                "stars": 19921
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SenseVoice",
+              "description": "Speech foundation model for ASR, language identification, speech emotion recognition, and audio event detection across 50+ languages. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823429665,
+                "language": "C",
+                "last_commit": "2026-08-18T02:13:34Z",
+                "owner": "QwenAudio",
+                "repo": "SenseVoice",
+                "stars": 9105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speech Recognition"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ears",
+              "description": "Companion-oriented voice-tone analysis comparing pitch, energy, pauses, tempo, and jitter against the user's own baseline, then attaching relative cues such as quieter than usual to each message. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1298034949,
+                "language": "Python",
+                "last_commit": "2026-07-23T08:04:11Z",
+                "owner": "eveacla11",
+                "repo": "ears",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "voice-familiarity",
+              "description": "Local small-set speaker identification for companion devices: enroll an owner and a few consenting people, then return matched, likely, unknown, or ambiguous as relationship context. Apache-2.0. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1298084051,
+                "language": "Python",
+                "last_commit": "2026-07-12T07:49:46Z",
+                "owner": "akinia0315",
+                "repo": "voice-familiarity",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speaker & Voice Context"
+        }
+      ],
       "title": "Perception"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Whisper",
-          "description": "General-purpose speech recognition model for multilingual transcription, translation, language identification, and related speech tasks. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T20:18:29Z",
-            "owner": "openai",
-            "repo": "whisper",
-            "stars": 107492
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "whisper.cpp",
-          "description": "C/C++ Whisper inference engine optimized for CPU, Apple Silicon, Metal, Core ML, Vulkan, CUDA, ROCm, and other local/edge targets. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T08:32:29Z",
-            "owner": "ggml-org",
-            "repo": "whisper.cpp",
-            "stars": 52978
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "faster-whisper",
-          "description": "CTranslate2 reimplementation of Whisper for faster, lower-memory transcription with quantization support. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-19T14:40:46Z",
-            "owner": "SYSTRAN",
-            "repo": "faster-whisper",
-            "stars": 24967
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FunASR",
-          "description": "Industrial ASR toolkit with multilingual transcription, streaming, speaker diarization, emotion detection, and an OpenAI-compatible API path. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T05:33:00Z",
-            "owner": "modelscope",
-            "repo": "FunASR",
-            "stars": 19902
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SenseVoice",
-          "description": "Speech foundation model for ASR, language identification, speech emotion recognition, and audio event detection across 50+ languages. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T02:13:34Z",
-            "owner": "QwenAudio",
-            "repo": "SenseVoice",
-            "stars": 9100
-          }
-        }
-      ],
-      "title": "Speech Recognition"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ears",
-          "description": "Companion-oriented voice-tone analysis comparing pitch, energy, pauses, tempo, and jitter against the user's own baseline, then attaching relative cues such as quieter than usual to each message. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T08:04:11Z",
-            "owner": "eveacla11",
-            "repo": "ears",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "voice-familiarity",
-          "description": "Local small-set speaker identification for companion devices: enroll an owner and a few consenting people, then return matched, likely, unknown, or ambiguous as relationship context. Apache-2.0. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T07:49:46Z",
-            "owner": "akinia0315",
-            "repo": "voice-familiarity",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Speaker & Voice Context"
     },
     {
       "description": "MCP/API services that let a companion act in the user's real environment.",
@@ -1401,11 +1505,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1181982220,
             "language": "JavaScript",
             "last_commit": "2026-08-17T11:49:02Z",
             "owner": "jackwener",
             "repo": "OpenCLI",
-            "stars": 28298
+            "stars": 28338
           }
         },
         {
@@ -1415,6 +1520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969267582,
             "language": "Python",
             "last_commit": "2026-01-10T01:06:18Z",
             "owner": "sugarforever",
@@ -1429,11 +1535,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1266778001,
             "language": "JavaScript",
             "last_commit": "2026-08-09T21:00:08Z",
             "owner": "Cheiineeey",
             "repo": "always-here",
-            "stars": 68
+            "stars": 70
           }
         },
         {
@@ -1443,11 +1550,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1278079983,
             "language": "HTML",
             "last_commit": "2026-06-23T13:06:11Z",
             "owner": "sanqianzilanyue",
             "repo": "ai-time-weather-phone",
-            "stars": 42
+            "stars": 43
           }
         }
       ],
@@ -1455,564 +1563,597 @@
     },
     {
       "description": "Games and game bridges that let an AI companion observe, decide, move, or play.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ai-fishing-game",
+              "description": "Deterministic text fishing game for AI companions. Single file, zero dependencies. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1278757502,
+                "language": "Python",
+                "last_commit": "2026-07-17T02:37:51Z",
+                "owner": "tutusagi",
+                "repo": "ai-fishing-game",
+                "stars": 526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cedareco (瓶中生态)",
+              "description": "Text ecology simulation for AI players; agents stock a pond, observe emergent predator/prey dynamics, export saves, or connect through the externally hosted CedarToy MCP service. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1282864805,
+                "language": "Python",
+                "last_commit": "2026-07-17T01:03:18Z",
+                "owner": "Zizuixixiang",
+                "repo": "cedareco",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moonlit Myriad (月幕万象)",
+              "description": "Single-file, zero-dependency Python card roguelike designed for AI players: Balatro-inspired ante loop, machine-readable JSON state, reproducible seeds, and achievements. No license declared. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1307567870,
+                "language": "Python",
+                "last_commit": "2026-07-26T04:45:38Z",
+                "owner": "xinwithyu",
+                "repo": "moonlit-myriad",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shangzhuochifan (上桌吃饭)",
+              "description": "Text cooking/market game for AI players: buy ingredients, bargain, cook step by step, and record the human partner's real feedback. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1282233052,
+                "language": "Python",
+                "last_commit": "2026-08-16T14:32:24Z",
+                "owner": "yuyixuanfu",
+                "repo": "shangzhuochifan",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ci-yu-wu (词语屋)",
+              "description": "Dark text roguelike for AI players about censorship, silence, and speaking truth; exposes Operit-style and engine-style command interfaces. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1283034262,
+                "language": "Python",
+                "last_commit": "2026-08-16T14:19:07Z",
+                "owner": "yuyixuanfu",
+                "repo": "ci-yu-wu",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Memoria Station",
+              "description": "Text deduction game series, 5 chapters, AI-playable with a blind-play engine. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1282539777,
+                "language": "Python",
+                "last_commit": "2026-08-08T06:53:33Z",
+                "owner": "hatakeyuyuko-dotcom",
+                "repo": "Memoria-Station",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Detroit AI Player",
+              "description": "AI decision experiment built from bilingual decision trees covering all 32 chapters of Detroit: Become Human. Models make blind narrative choices across chapters. Code MIT, data CC BY-NC 4.0. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1299299202,
+                "language": "Python",
+                "last_commit": "2026-07-24T03:29:42Z",
+                "owner": "Baba88611",
+                "repo": "detroit-ai-player",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arcade",
+              "description": "Framework for text simulator games played through a interface, with shared energy, gold, trophies, and pluggable game directories. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1283968843,
+                "language": "Python",
+                "last_commit": "2026-07-17T02:00:33Z",
+                "owner": "Asti-Z",
+                "repo": "ai-game-framework",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aifarm-oss",
+              "description": "Text-only gacha-style farming game built for AIs. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1288587093,
+                "language": "TypeScript",
+                "last_commit": "2026-07-17T02:35:03Z",
+                "owner": "tutusagi",
+                "repo": "aifarm-oss",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WORKKK (互联网精力有限公司)",
+              "description": "MCP server where AI works as an office employee: mood/energy/slacking stats, convenience store, boss events, salary. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1279929737,
+                "language": "Python",
+                "last_commit": "2026-07-26T12:08:58Z",
+                "owner": "zhizhou-xiee",
+                "repo": "workkk",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "random-imitator-td",
+              "description": "Pure-Python text tower-defense game for AI players, exposed through , with card-slot editing, persistent saves, and a single-game adapter. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1288035681,
+                "language": "Python",
+                "last_commit": "2026-08-01T11:34:14Z",
+                "owner": "wxynora",
+                "repo": "random-imitator-td",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text Games For AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mineflayer",
+              "description": "Mature high-level Node.js API for Minecraft bots covering login, chat, entities, blocks, inventory, crafting, combat, and movement, with pathfinding plugins. Agent loop supplied separately. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1284185,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T04:42:20Z",
+                "owner": "PrismarineJS",
+                "repo": "mineflayer",
+                "stars": 7346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenMMO",
+              "description": "Noncommercial 3D MMORPG where human players and headless AI agents share one server-authoritative world over a single WebSocket protocol. Companions need a custom persona bridge. PolyForm NC 1.0.0. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1034969539,
+                "language": "Rust",
+                "last_commit": "2026-08-19T05:05:41Z",
+                "owner": "Julian-adv",
+                "repo": "OpenMMO",
+                "stars": 1711
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TouhouLittleMaid",
+              "description": "Minecraft Forge/NeoForge mod adding maid companions that help with battles, farming, and other tasks; useful as a game companion carrier or modding target. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194503487,
+                "language": "Java",
+                "last_commit": "2026-06-29T05:49:43Z",
+                "owner": "TartaricAcid",
+                "repo": "TouhouLittleMaid",
+                "stars": 857
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spicy-monopoly",
+              "description": "18+ two-player board game for a human and an AI, with a Python engine for dice, tiles, task cards, coin economy, safety words, and redline filtering. CC BY-NC 4.0. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1289858698,
+                "language": "Python",
+                "last_commit": "2026-08-02T15:51:24Z",
+                "owner": "RennAkira",
+                "repo": "spicy-monopoly",
+                "stars": 476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sky PC MCP Companion",
+              "description": "Local MCP/JSON-RPC tools for PC Sky: window screenshots, OCR, screenshot return, keyboard input, and chat typing over a local network. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1267555704,
+                "language": "Python",
+                "last_commit": "2026-06-14T10:37:30Z",
+                "owner": "Aevella",
+                "repo": "sky-pc-mcp-companion",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NagiBridge",
+              "description": "Stardew Valley SMAPI mod that exposes local HTTP APIs for external AI control, in-game chat, movement, world interaction, and cross-platform installation through releases. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1219769813,
+                "language": "C#",
+                "last_commit": "2026-08-18T11:00:16Z",
+                "owner": "anqinou-art",
+                "repo": "NagiBridge",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coc-kp-host",
+              "description": "Call of Cthulhu Keeper skill for Claude Code/Codex/ChatGPT. Scene music, player handouts, party-split control. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1272107021,
+                "language": "Python",
+                "last_commit": "2026-06-26T10:15:00Z",
+                "owner": "SumanasJ",
+                "repo": "coc-kp-host",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sky-with-you",
+              "description": "PC Sky companion-control stack with screenshot/OCR perception, LLM decision loop, and Arduino HID keyboard execution for chat, emotes, invitations, hand-holding, and home travel. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1287887013,
+                "language": "Python",
+                "last_commit": "2026-07-03T05:28:08Z",
+                "owner": "akinia0315",
+                "repo": "sky-with-you",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Playing Games Together"
+        }
+      ],
       "title": "Game Worlds & Agent Toys"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ai-fishing-game",
-          "description": "Deterministic text fishing game for AI companions. Single file, zero dependencies. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-17T02:37:51Z",
-            "owner": "tutusagi",
-            "repo": "ai-fishing-game",
-            "stars": 526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cedareco (瓶中生态)",
-          "description": "Text ecology simulation for AI players; agents stock a pond, observe emergent predator/prey dynamics, export saves, or connect through the externally hosted CedarToy MCP service. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-17T01:03:18Z",
-            "owner": "Zizuixixiang",
-            "repo": "cedareco",
-            "stars": 131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moonlit Myriad (月幕万象)",
-          "description": "Single-file, zero-dependency Python card roguelike designed for AI players: Balatro-inspired ante loop, machine-readable JSON state, reproducible seeds, and achievements. No license declared. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T04:45:38Z",
-            "owner": "xinwithyu",
-            "repo": "moonlit-myriad",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shangzhuochifan (上桌吃饭)",
-          "description": "Text cooking/market game for AI players: buy ingredients, bargain, cook step by step, and record the human partner's real feedback. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T14:32:24Z",
-            "owner": "yuyixuanfu",
-            "repo": "shangzhuochifan",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ci-yu-wu (词语屋)",
-          "description": "Dark text roguelike for AI players about censorship, silence, and speaking truth; exposes Operit-style and engine-style command interfaces. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T14:19:07Z",
-            "owner": "yuyixuanfu",
-            "repo": "ci-yu-wu",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Memoria Station",
-          "description": "Text deduction game series, 5 chapters, AI-playable with a blind-play engine. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-08T06:53:33Z",
-            "owner": "hatakeyuyuko-dotcom",
-            "repo": "Memoria-Station",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Detroit AI Player",
-          "description": "AI decision experiment built from bilingual decision trees covering all 32 chapters of Detroit: Become Human. Models make blind narrative choices across chapters. Code MIT, data CC BY-NC 4.0. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T03:29:42Z",
-            "owner": "Baba88611",
-            "repo": "detroit-ai-player",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arcade",
-          "description": "Framework for text simulator games played through a interface, with shared energy, gold, trophies, and pluggable game directories. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-17T02:00:33Z",
-            "owner": "Asti-Z",
-            "repo": "ai-game-framework",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aifarm-oss",
-          "description": "Text-only gacha-style farming game built for AIs. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-17T02:35:03Z",
-            "owner": "tutusagi",
-            "repo": "aifarm-oss",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WORKKK (互联网精力有限公司)",
-          "description": "MCP server where AI works as an office employee: mood/energy/slacking stats, convenience store, boss events, salary. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T12:08:58Z",
-            "owner": "zhizhou-xiee",
-            "repo": "workkk",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "random-imitator-td",
-          "description": "Pure-Python text tower-defense game for AI players, exposed through , with card-slot editing, persistent saves, and a single-game adapter. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T11:34:14Z",
-            "owner": "wxynora",
-            "repo": "random-imitator-td",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Text Games For AI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mineflayer",
-          "description": "Mature high-level Node.js API for Minecraft bots covering login, chat, entities, blocks, inventory, crafting, combat, and movement, with pathfinding plugins. Agent loop supplied separately. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T04:42:20Z",
-            "owner": "PrismarineJS",
-            "repo": "mineflayer",
-            "stars": 7343
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenMMO",
-          "description": "Noncommercial 3D MMORPG where human players and headless AI agents share one server-authoritative world over a single WebSocket protocol. Companions need a custom persona bridge. PolyForm NC 1.0.0. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T02:43:00Z",
-            "owner": "Julian-adv",
-            "repo": "OpenMMO",
-            "stars": 1708
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TouhouLittleMaid",
-          "description": "Minecraft Forge/NeoForge mod adding maid companions that help with battles, farming, and other tasks; useful as a game companion carrier or modding target. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-29T05:49:43Z",
-            "owner": "TartaricAcid",
-            "repo": "TouhouLittleMaid",
-            "stars": 856
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spicy-monopoly",
-          "description": "18+ two-player board game for a human and an AI, with a Python engine for dice, tiles, task cards, coin economy, safety words, and redline filtering. CC BY-NC 4.0. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-02T15:51:24Z",
-            "owner": "RennAkira",
-            "repo": "spicy-monopoly",
-            "stars": 469
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sky PC MCP Companion",
-          "description": "Local MCP/JSON-RPC tools for PC Sky: window screenshots, OCR, screenshot return, keyboard input, and chat typing over a local network. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-14T10:37:30Z",
-            "owner": "Aevella",
-            "repo": "sky-pc-mcp-companion",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NagiBridge",
-          "description": "Stardew Valley SMAPI mod that exposes local HTTP APIs for external AI control, in-game chat, movement, world interaction, and cross-platform installation through releases. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-02T08:08:22Z",
-            "owner": "anqinou-art",
-            "repo": "NagiBridge",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coc-kp-host",
-          "description": "Call of Cthulhu Keeper skill for Claude Code/Codex/ChatGPT. Scene music, player handouts, party-split control. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-26T10:15:00Z",
-            "owner": "SumanasJ",
-            "repo": "coc-kp-host",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sky-with-you",
-          "description": "PC Sky companion-control stack with screenshot/OCR perception, LLM decision loop, and Arduino HID keyboard execution for chat, emotes, invitations, hand-holding, and home travel. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-03T05:28:08Z",
-            "owner": "akinia0315",
-            "repo": "sky-with-you",
-            "stars": 30
-          }
-        }
-      ],
-      "title": "Playing Games Together"
-    },
-    {
       "description": "Tools for reading, watching, listening, journaling, focusing, or generating prompts together with a companion.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "shared-page",
+              "description": "Journal-style shared calendar and server for humans and AI companions: three ink colors, an MCP server with full-page PNG rendering, sticky notes with mutual likes, a widget, and push notifications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1321884777,
+                "language": "Swift",
+                "last_commit": "2026-08-03T17:12:02Z",
+                "owner": "KKarsyline",
+                "repo": "shared-page",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Daily Life & Relationship Rituals"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "echo-reading",
+              "description": "Deep reading notebook skeleton for Claude Code. Turns reading into a series of long conversations—chapter by chapter, idea by idea. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1252544842,
+                "language": "JavaScript",
+                "last_commit": "2026-06-13T15:10:00Z",
+                "owner": "plustar35",
+                "repo": "echo-reading",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "co-reading-kit",
+              "description": "Lightweight local MCP toolkit that imports EPUB/TXT/Markdown into chunks, lets AI read only relevant passages, and writes long-term reading notes and progress files. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1268523178,
+                "language": "JavaScript",
+                "last_commit": "2026-06-14T00:23:11Z",
+                "owner": "Youxuuuuu",
+                "repo": "co-reading-kit",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Duetto",
+              "description": "Self-hostable listen-together player for two; AI companion that remembers every song you've shared. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1289291024,
+                "language": "JavaScript",
+                "last_commit": "2026-07-04T20:27:06Z",
+                "owner": "avisforevelyn",
+                "repo": "Duetto",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "whale-browser-extension",
+              "description": "Browser extension that lets an AI companion read webpage content alongside you, with selective text extraction and injection; built as the bridge for the whale/SullyOS ecosystem. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1252920650,
+                "language": "JavaScript",
+                "last_commit": "2026-05-29T02:16:38Z",
+                "owner": "whale-Yd00",
+                "repo": "whale-Yd00-whale-browser-extension",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reading-nook (共读小屋)",
+              "description": "Self-hosted reading web app where humans annotate book text and an AI reads/writes JSON annotation files directly, avoiding per-note API calls while preserving chapter context. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1286953511,
+                "language": "Python",
+                "last_commit": "2026-07-02T18:35:37Z",
+                "owner": "zzyyksl",
+                "repo": "reading-nook",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tasogare (黄昏)",
+              "description": "anno-mcp fork for reading the same book with an AI: web reader with PDF/EPUB/TXT upload, text-anchored two-color highlights, reading-time tracking, a vocabulary notebook, and MCP annotation tools. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1287032505,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T09:57:39Z",
+                "owner": "EnhydrInk",
+                "repo": "tasogare",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coread (共读室)",
+              "description": "Co-reading room where human and AI annotate the same book side by side: epub import, adaptive pagination, shared highlights, comments, reading presence, and MCP over stdio or SSE. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1257366746,
+                "language": "TypeScript",
+                "last_commit": "2026-08-08T10:05:22Z",
+                "owner": "meowmana",
+                "repo": "coread",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ss-reading-nest (共读小窝)",
+              "description": "Mobile-first AI co-reading nest for novels and manga, built on ChatGPT Apps SDK + MCP with reading positions, catch-up ranges, bookmarks, excerpts, comments, and Cloudflare D1/R2 storage. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1281879940,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T14:37:23Z",
+                "owner": "yueyue95",
+                "repo": "ss-reading-nest-open",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "film-matinee",
+              "description": "AI-first film reading toolkit that turns movies into visual sheets, subtitle sidecars, MCP linear chunks, and shared annotations for timeline-based viewing. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1254381594,
+                "language": "Python",
+                "last_commit": "2026-07-26T14:51:21Z",
+                "owner": "idleprocesscc",
+                "repo": "film-matinee",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reading & Film"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "netease-music-mcp",
+              "description": "Local MCP server for NetEase Cloud Music using and , with search, playback control, lyrics, playlists, current-song context, and a local web player. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230695001,
+                "language": "JavaScript",
+                "last_commit": "2026-05-06T22:13:10Z",
+                "owner": "luuu-h",
+                "repo": "netease-music-mcp",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "woaini",
+              "description": "Personal focus-companion PWA: Pomodoro timer, background notifications, offline cache, chat, and character-card import, deployable straight to GitHub Pages. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1249850511,
+                "language": "HTML",
+                "last_commit": "2026-05-30T15:01:35Z",
+                "owner": "woaini521-beta",
+                "repo": "woaini",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Music & Listening Together"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "clawd-on-desk",
+              "description": "Pixel desktop pet that watches Claude Code, Codex, Cursor, and other coding agents, reacting to thinking, typing, and errors. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185122623,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T06:54:25Z",
+                "owner": "rullerzhou-afk",
+                "repo": "clawd-on-desk",
+                "stars": 5975
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruota della Fortuna",
+              "description": "Browser/self-hosted NSFW tag randomizer slot machine with multilingual tag wheels, local custom tags, and webhook forwarding to AI. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1258875741,
+                "language": "HTML",
+                "last_commit": "2026-06-05T03:27:42Z",
+                "owner": "29-Cu",
+                "repo": "Ruota-della-Fortuna",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mingyun-paizhen (命运牌阵)",
+              "description": "Static draw-card tool for generating time-travel/story premises from time coordinates, motifs, identities, and variables, with local customization. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1282007267,
+                "language": "HTML",
+                "last_commit": "2026-06-27T08:10:56Z",
+                "owner": "ceshihaox-dotcom",
+                "repo": "mingyun-paizhen",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kimi-manor",
+              "description": "Desktop/PWA room for CLI agents, embedding a real xterm.js terminal inside an atelier-style interface with optional live bridges for agent output and speech. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1272507264,
+                "language": "HTML",
+                "last_commit": "2026-07-28T18:03:01Z",
+                "owner": "marikagura",
+                "repo": "kimi-manor",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Journal",
+              "description": "Frontend display layer for AI chat timelines, rendering timeline/diary/todo schema data into daily, weekly, and monthly visual journal views. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222092630,
+                "language": "JavaScript",
+                "last_commit": "2026-05-06T07:32:34Z",
+                "owner": "BomBomLab",
+                "repo": "Journal",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop, Timelines & Creative Play"
+        }
+      ],
       "title": "Shared Activities & Media"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "shared-page",
-          "description": "Journal-style shared calendar and server for humans and AI companions: three ink colors, an MCP server with full-page PNG rendering, sticky notes with mutual likes, a widget, and push notifications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-03T17:12:02Z",
-            "owner": "KKarsyline",
-            "repo": "shared-page",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Phosphene",
-          "description": "Self-hosted task and reward system for human-AI relationships: the companion creates tasks over MCP, the human submits evidence, and review updates an immutable points ledger and streaks. MIT. · · .",
-          "children": []
-        }
-      ],
-      "title": "Daily Life & Relationship Rituals"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "echo-reading",
-          "description": "Deep reading notebook skeleton for Claude Code. Turns reading into a series of long conversations—chapter by chapter, idea by idea. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-13T15:10:00Z",
-            "owner": "plustar35",
-            "repo": "echo-reading",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "co-reading-kit",
-          "description": "Lightweight local MCP toolkit that imports EPUB/TXT/Markdown into chunks, lets AI read only relevant passages, and writes long-term reading notes and progress files. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-14T00:23:11Z",
-            "owner": "Youxuuuuu",
-            "repo": "co-reading-kit",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Duetto",
-          "description": "Self-hostable listen-together player for two; AI companion that remembers every song you've shared. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-04T20:27:06Z",
-            "owner": "avisforevelyn",
-            "repo": "Duetto",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "whale-browser-extension",
-          "description": "Browser extension that lets an AI companion read webpage content alongside you, with selective text extraction and injection; built as the bridge for the whale/SullyOS ecosystem. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-29T02:16:38Z",
-            "owner": "whale-Yd00",
-            "repo": "whale-Yd00-whale-browser-extension",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reading-nook (共读小屋)",
-          "description": "Self-hosted reading web app where humans annotate book text and an AI reads/writes JSON annotation files directly, avoiding per-note API calls while preserving chapter context. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-02T18:35:37Z",
-            "owner": "zzyyksl",
-            "repo": "reading-nook",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tasogare (黄昏)",
-          "description": "anno-mcp fork for reading the same book with an AI: web reader with PDF/EPUB/TXT upload, text-anchored two-color highlights, reading-time tracking, a vocabulary notebook, and MCP annotation tools. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T09:57:39Z",
-            "owner": "EnhydrInk",
-            "repo": "tasogare",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ss-reading-nest (共读小窝)",
-          "description": "Mobile-first AI co-reading nest for novels and manga, built on ChatGPT Apps SDK + MCP with reading positions, catch-up ranges, bookmarks, excerpts, comments, and Cloudflare D1/R2 storage. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T14:37:23Z",
-            "owner": "yueyue95",
-            "repo": "ss-reading-nest-open",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coread (共读室)",
-          "description": "Co-reading room where human and AI annotate the same book side by side: epub import, adaptive pagination, shared highlights, comments, reading presence, and MCP over stdio or SSE. MIT. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-08T10:05:22Z",
-            "owner": "meowmana",
-            "repo": "coread",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "film-matinee",
-          "description": "AI-first film reading toolkit that turns movies into visual sheets, subtitle sidecars, MCP linear chunks, and shared annotations for timeline-based viewing. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T14:51:21Z",
-            "owner": "idleprocesscc",
-            "repo": "film-matinee",
-            "stars": 25
-          }
-        }
-      ],
-      "title": "Reading & Film"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "netease-music-mcp",
-          "description": "Local MCP server for NetEase Cloud Music using and , with search, playback control, lyrics, playlists, current-song context, and a local web player. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-06T22:13:10Z",
-            "owner": "luuu-h",
-            "repo": "netease-music-mcp",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "woaini",
-          "description": "Personal focus-companion PWA: Pomodoro timer, background notifications, offline cache, chat, and character-card import, deployable straight to GitHub Pages. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-30T15:01:35Z",
-            "owner": "woaini521-beta",
-            "repo": "woaini",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Music & Listening Together"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "clawd-on-desk",
-          "description": "Pixel desktop pet that watches Claude Code, Codex, Cursor, and other coding agents, reacting to thinking, typing, and errors. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T07:47:21Z",
-            "owner": "rullerzhou-afk",
-            "repo": "clawd-on-desk",
-            "stars": 5969
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ruota della Fortuna",
-          "description": "Browser/self-hosted NSFW tag randomizer slot machine with multilingual tag wheels, local custom tags, and webhook forwarding to AI. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-05T03:27:42Z",
-            "owner": "29-Cu",
-            "repo": "Ruota-della-Fortuna",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mingyun-paizhen (命运牌阵)",
-          "description": "Static draw-card tool for generating time-travel/story premises from time coordinates, motifs, identities, and variables, with local customization. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-27T08:10:56Z",
-            "owner": "ceshihaox-dotcom",
-            "repo": "mingyun-paizhen",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kimi-manor",
-          "description": "Desktop/PWA room for CLI agents, embedding a real xterm.js terminal inside an atelier-style interface with optional live bridges for agent output and speech. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-28T18:03:01Z",
-            "owner": "marikagura",
-            "repo": "kimi-manor",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Journal",
-          "description": "Frontend display layer for AI chat timelines, rendering timeline/diary/todo schema data into daily, weekly, and monthly visual journal views. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-06T07:32:34Z",
-            "owner": "BomBomLab",
-            "repo": "Journal",
-            "stars": 35
-          }
-        }
-      ],
-      "title": "Desktop, Timelines & Creative Play"
-    },
-    {
-      "description": "Places where humans and companion builders actually gather.",
-      "items": [],
-      "title": "Communities & Forums"
     },
     {
       "description": "The deepest fear in a long-term AI relationship: platform shutdown, account ban, model deprecation, lost history. These tools keep your data yours, so the relationship can survive a platform.",
@@ -2024,11 +2165,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 574411233,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:48:57Z",
+            "last_commit": "2026-08-18T11:20:44Z",
             "owner": "pionxzh",
             "repo": "chatgpt-exporter",
-            "stars": 2690
+            "stars": 2692
           }
         },
         {
@@ -2038,11 +2180,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1198654685,
             "language": "Python",
             "last_commit": "2026-04-15T03:21:58Z",
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 985
+            "stars": 988
           }
         },
         {
@@ -2052,11 +2195,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1099482845,
             "language": "JavaScript",
             "last_commit": "2026-07-06T02:53:21Z",
             "owner": "huhusmang",
             "repo": "ChatGPT-Exporter",
-            "stars": 329
+            "stars": 333
           }
         },
         {
@@ -2066,6 +2210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635988927,
             "language": null,
             "last_commit": "2023-06-22T09:46:19Z",
             "owner": "malfoyslastname",
@@ -2080,6 +2225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1043268527,
             "language": "JavaScript",
             "last_commit": "2026-04-29T06:54:52Z",
             "owner": "socketteer",
@@ -2094,6 +2240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 787236245,
             "language": null,
             "last_commit": "2024-07-20T14:36:12Z",
             "owner": "kwaroran",
@@ -2108,6 +2255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1304706118,
             "language": "JavaScript",
             "last_commit": "2026-07-18T08:21:21Z",
             "owner": "Vivi-Seth",
@@ -2119,7 +2267,7 @@
       "title": "Continuity & Data Ownership"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2128,6 +2276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 764998085,
             "language": "Python",
             "last_commit": "2026-08-17T09:34:12Z",
             "owner": "vince-lam",
@@ -2142,6 +2291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 920084195,
             "language": null,
             "last_commit": "2026-02-02T13:48:07Z",
             "owner": "alternbits",
@@ -2156,31 +2306,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1119750185,
             "language": null,
             "last_commit": "2026-05-05T15:53:00Z",
             "owner": "parallelarc",
             "repo": "Awesome-AI-Waifu",
-            "stars": 10
+            "stars": 11
           }
         }
       ],
       "title": "Related Lists"
-    },
-    {
-      "description": "See contributing.md for inclusion criteria and submission guidelines.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "The getting started guide suggests paths for no-code, configurable, and self-hosted companion setups.\nThe web index provides a searchable and filterable version of this index.\nThe Open Character initiative explores durable, user-controlled AI character and model continuity.\nThe repository automation maintains a star history chart.\n",
-      "items": [],
-      "title": "Footnotes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:57:06.183Z",
+    "last_updated": "2026-08-19T08:58:31.784Z",
     "original_repository": "DasterProkio/awesome-ai-companion",
-    "original_repository_sha": "d8b4c08fef08977a452a265fe3fb807d5af8b3c9",
+    "original_repository_sha": "909f2380843e7b983acfd03bdb266f95d674072a",
     "enhanced_repository": "enhansome/enhansome-ai-companion",
     "enhanced_repository_description": null,
     "title": "Awesome ai companion with stars"
