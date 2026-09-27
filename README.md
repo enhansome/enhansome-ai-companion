@@ -18,10 +18,10 @@
 
 [English](#contents) · [中文版](README.zh-CN.md)
 
-Descriptions are based on each project's README or repository metadata, not on project names alone.
-Entries with thin public documentation are marked `verify`.
+We read the code of every project here, and each description says what it actually does.
+Anything unfinished or unclear is tagged `verify` or `adapt`.
 
-**Status:** `ready` = usable as an app or service · `adapt` = needs setup or customization · `infra` = building block · `verify` = re-check before relying on the description
+**Status:** `ready` = usable as an app or service · `adapt` = needs setup or customization · `infra` = building block · `verify` = unfinished or unclear; check the code yourself before relying on it
 
 **Platform:** `Android` / `iOS` / `Windows` / `Web` … = where it runs · `Self-host` = runs on your own server/machine · `Cloud` = hosted third-party service · `Browser` = extension/userscript · `CLI` = terminal tool · `Any` = host-agnostic · app names (`AstrBot`, `Claude Code`, `Kelivo`, `SillyTavern`…) = plugs into that host
 
@@ -40,6 +40,7 @@ Entries with thin public documentation are marked `verify`.
 * [Shared Activities & Media](#shared-activities--media)
 * [Communities & Forums](#communities--forums)
 * [Continuity & Data Ownership](#continuity--data-ownership)
+* [Featured Badge](#featured-badge)
 
 ***
 
@@ -47,26 +48,26 @@ Entries with thin public documentation are marked `verify`.
 
 Chat clients, local workspaces, and web apps for day-to-day interaction with a companion or agent.
 
-* [Claude Code](https://github.com/anthropics/claude-code) ⭐ 148,165 | 🐛 13,158 | 🌐 TypeScript | 📅 2026-09-26 - Official CLI coding agent often used as the host runtime for companion channels, local tools, hooks, MCP, and long-running sessions. `CLI` · `Cross-platform` · `infra`.
-* [Operit](https://github.com/AAswordman/Operit) ⭐ 8,159 | 🐛 140 | 🌐 Kotlin | 📅 2026-09-22 - Android agent app with tool calling, workflow automation, memory, role cards, voice, local MNN/llama.cpp models, and an embedded Ubuntu 24 environment. `Kotlin` · `Android` · `ready`.
-* [RikkaHub](https://github.com/rikkahub/rikkahub) ⭐ 7,854 | 🐛 271 | 🌐 Kotlin | 📅 2026-09-26 - Native Android LLM chat client with provider switching, Material You UI, workspace features, plugins, MCP support, and configurable models. `Kotlin` · `Android` · `ready`.
-* [yoji](https://github.com/wangxijie001/yoji) ⭐ 886 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-12 - Emotion-aware desktop AI companion: local voice wake, floating widget, mood drift, MCP tool calling, and office assistance. MIT. `TypeScript` · `Cross-platform` · `ready`.
-* [AionsHome](https://github.com/death34018-hue/AionsHome) ⭐ 831 | 🐛 3 | 🌐 Python | 📅 2026-09-26 - Self-hosted LAN/Tailscale companion hub with browser/PWA chat, local storage, voice, camera monitoring, Android WebView bridge, music, EPUB, and smart-home hooks. Many personal defaults to replace. `Python` · `Self-host` · `adapt`.
+* [Claude Code](https://github.com/anthropics/claude-code) ⭐ 148,294 | 🐛 13,322 | 🌐 TypeScript | 📅 2026-09-26 - Official CLI coding agent often used as the host runtime for companion channels, local tools, hooks, MCP, and long-running sessions. `CLI` · `Cross-platform` · `infra`.
+* [Operit](https://github.com/AAswordman/Operit) ⭐ 8,183 | 🐛 142 | 🌐 Kotlin | 📅 2026-09-22 - Android agent app with tool calling, workflow automation, memory, role cards, voice, local MNN/llama.cpp models, and an embedded Ubuntu 24 environment. `Kotlin` · `Android` · `ready`.
+* [RikkaHub](https://github.com/rikkahub/rikkahub) ⭐ 7,871 | 🐛 267 | 🌐 Kotlin | 📅 2026-09-27 - Native Android LLM chat client with provider switching, Material You UI, workspace features, plugins, MCP support, and configurable models. `Kotlin` · `Android` · `ready`.
+* [yoji](https://github.com/wangxijie001/yoji) ⭐ 887 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-12 - Emotion-aware desktop AI companion: local voice wake, floating widget, mood drift, MCP tool calling, and office assistance. MIT. `TypeScript` · `Cross-platform` · `ready`.
+* [AionsHome](https://github.com/death34018-hue/AionsHome) ⭐ 835 | 🐛 4 | 🌐 Python | 📅 2026-09-26 - Self-hosted LAN/Tailscale companion hub with browser/PWA chat, local storage, voice, camera monitoring, Android WebView bridge, music, EPUB, and smart-home hooks. Many personal defaults to replace. `Python` · `Self-host` · `adapt`.
 * [ackem](https://github.com/JasonLiu0826/ackem) ⭐ 549 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-14 - Local-first AI desktop companion (Electron): privacy-first memory, emotion engine, extensions. Deeply tied to the author's own canon — strip the personal content before reuse. AGPLv3. `TypeScript` · `Cross-platform` · `adapt`.
-* [orangechat (橘瓣)](https://github.com/sue1231513/orangechat) ⭐ 385 | 🐛 12 | 🌐 Kotlin | 📅 2026-07-18 - Companion-focused RikkaHub fork: QuickJS plugin system, proactive messaging, and 14 Android device tools for life-perception setups. Memory is keyword-based rather than vector. `Kotlin` · `Android` · `adapt`.
-* [LastChat](https://github.com/Cocolalilal/LastChat) ⭐ 363 | 🐛 32 | 🌐 Kotlin | 📅 2026-09-25 - RikkaHub fork focused on a privacy-oriented Android chat experience, with provider presets, multimodal input, RAG memory, and UI changes. `Kotlin` · `Android` · `adapt`.
-* [Polaris](https://github.com/Aevella/polaris-local-first) ⭐ 302 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-06 - Local-first AI workspace for long-lived conversations, collaborators, saved materials, tools, and evidence-backed project context. `TypeScript` · `Cross-platform` · `adapt`.
-* [CcCompanion](https://github.com/CyberSealNull/CcCompanion) ⭐ 264 | 🐛 3 | 🌐 Swift | 📅 2026-09-08 - iOS app plus a small Mac-side Python relay that lets an iPhone chat with and control a local Claude Code session over LAN/Tailscale/ZeroTier. `Swift` · `iOS` · `adapt`.
-* [Miru](https://github.com/kiyotakali/Miru) ⭐ 162 | 🐛 0 | 🌐 Python | 📅 2026-09-23 - Packaged macOS/Android companion with a Live2D desktop pet, screen-aware sensing, auditable Markdown memory, and multi-device sync. Ships as prebuilt releases; no client source. Apache-2.0. `Python/Binary` · `macOS/Android/Self-host` · `adapt`.
-* [chatnest](https://github.com/ugui3u/chatnest) ⭐ 129 | 🐛 2 | 🌐 HTML | 📅 2026-07-01 - Local AI chat web app with a frontend demo and full-stack mode: streaming replies, model switching, uploads, history, tool summaries, and optional ChromaDB/jieba/BM25 memory retrieval. `HTML` · `Web` · `adapt`.
+* [orangechat (橘瓣)](https://github.com/sue1231513/orangechat) ⭐ 386 | 🐛 12 | 🌐 Kotlin | 📅 2026-07-18 - Companion-focused RikkaHub fork: QuickJS plugin system, proactive messaging, and 14 Android device tools for life-perception setups. Memory is keyword-based rather than vector. `Kotlin` · `Android` · `adapt`.
+* [LastChat](https://github.com/Cocolalilal/LastChat) ⭐ 364 | 🐛 32 | 🌐 Kotlin | 📅 2026-09-27 - RikkaHub fork focused on a privacy-oriented Android chat experience, with provider presets, multimodal input, RAG memory, and UI changes. `Kotlin` · `Android` · `adapt`.
+* [Polaris](https://github.com/Aevella/polaris-local-first) ⭐ 303 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-06 - Local-first AI workspace for long-lived conversations, collaborators, saved materials, tools, and evidence-backed project context. `TypeScript` · `Cross-platform` · `adapt`.
+* [CcCompanion](https://github.com/CyberSealNull/CcCompanion) ⭐ 265 | 🐛 3 | 🌐 Swift | 📅 2026-09-08 - iOS app plus a small Mac-side Python relay that lets an iPhone chat with and control a local Claude Code session over LAN/Tailscale/ZeroTier. `Swift` · `iOS` · `adapt`.
+* [Miru](https://github.com/kiyotakali/Miru) ⭐ 163 | 🐛 0 | 🌐 Python | 📅 2026-09-23 - Packaged macOS/Android companion with a Live2D desktop pet, screen-aware sensing, auditable Markdown memory, and multi-device sync. Ships as prebuilt releases; no client source. Apache-2.0. `Python/Binary` · `macOS/Android/Self-host` · `adapt`.
+* [chatnest](https://github.com/ugui3u/chatnest) ⭐ 129 | 🐛 0 | 🌐 HTML | 📅 2026-09-26 - Local AI chat web app with a frontend demo and full-stack mode: streaming replies, model switching, uploads, history, tool summaries, and optional ChromaDB/jieba/BM25 memory retrieval. `HTML` · `Web` · `adapt`.
 * [YSClaude](https://github.com/winter-bit-cry/YSClaude) ⭐ 92 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - Claude-style Android client (Expo/React Native) extended into a companion workbench: SQLite memory, function calling, MCP, reading, music, focus timers, daily reports, and native Kotlin modules. `TypeScript` · `Android` · `adapt`.
 * [rikkahub-auto-compress](https://github.com/innna327-source/rikkahub-auto-compress) ⭐ 51 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-14 - Unofficial RikkaHub fork for automatic rolling summaries and context compression, based on the RikkaHub 2.2.5 code line. `Kotlin` · `Android` · `adapt`.
 * [mousecrew](https://github.com/anqinou-art/mousecrew) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-20 - Hamster-crew work board and group chat for CLI coding agents: @mention wakeups, 9-state work orders, self-scheduling, Git verification, and a merge gate. MIT. `JavaScript` · `CLI` · `ready`.
-* [CC Companion App](https://github.com/tjing9430/cc-companion-app) ⭐ 29 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-25 - Lightweight self-hosted companion chat starter with private/group chat, persistent memory notes, SSE updates, and PWA access. A compact reference for building a companion frontend. `JavaScript` · `Self-host` · `adapt`.
+* [CC Companion App](https://github.com/tjing9430/cc-companion-app) ⭐ 29 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-25 - Lightweight self-hosted companion chat starter with private/group chat, persistent memory notes, SSE updates, and PWA access. A compact reference for building a companion frontend. `JavaScript` · `Self-host` · `adapt`.
 * [LumiMuse](https://github.com/in30mn1a/LumiMuse) ⭐ 27 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-26 - Self-hosted character chat app for creating personas, managing conversations, extracting long-term memories, generating images, and exporting user-owned data. `TypeScript` · `Self-host` · `ready`.
 * [Scowld](https://github.com/apoorvdarshan/scowld) ⭐ 24 | 🐛 1 | 🌐 Swift | 📅 2026-08-24 - Native iOS voice companion with an animated VRM character, voice and text chat, local history, on-device wake detection, and BYOK AI/STT/TTS providers. Keys stay in the iOS Keychain. MIT. `Swift` · `iOS` · `ready`.
 * [Ocean](https://github.com/fishwithoctopus/Ocean) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27 - Provider-neutral self-hosted PWA gateway for long-term companionship: scoped conversations, continuity-preserving session rotation, co-reading, and multi-model meetings. PolyForm NC 1.0.0. `TypeScript` · `Self-host` · `adapt`.
-* [Pando](https://github.com/Eloise-Aspen/pando-bridge) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-09-25 - Self-hosted mobile/PWA gateway for a local Claude Code CLI: WebSocket streaming of reasoning and tool use, file uploads, SQLite history, and permission approval. No built-in auth. MIT. `Python` · `Self-host` · `adapt`.
+* [Pando](https://github.com/Eloise-Aspen/pando-bridge) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-09-27 - Self-hosted mobile/PWA gateway for a local Claude Code CLI: WebSocket streaming of reasoning and tool use, file uploads, SQLite history, and permission approval. No built-in auth. MIT. `Python` · `Self-host` · `adapt`.
 * [Aura](https://github.com/gqy20/Aura) ⭐ 7 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-16 - Android AI companion app with cross-session memory, an emotion state machine, a deepening relationship model, image understanding, Health Connect data, MCP, and optional on-device Qwen inference. `Kotlin` · `Android` · `ready`.
 * [My Raze](https://github.com/Do-fei/my-raze) ⭐ 7 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-05 - Full-stack AI girlfriend PWA with multi-character chat, OpenRouter streaming, contextual selfies via fal.ai, multi-provider TTS/STT, mood and intimacy systems, and proactive notifications. MIT. `TypeScript` · `Web` · `adapt`.
 * [the-house](https://github.com/wuliu0012/the-house) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - Single-file browser chat frontend for Claude or OpenAI-compatible APIs, with local browser storage, multiple chat windows, memory editing, MCP endpoints, image input, and optional toy bridge. `HTML` · `Web` · `adapt`.
@@ -77,17 +78,17 @@ Chat clients, local workspaces, and web apps for day-to-day interaction with a c
 
 Interfaces that give a companion a home-like space, phone-like surface, or persistent private environment beyond a plain chat window.
 
-* [AI Virtual Phone](https://github.com/xiaolongbao0709/ai-virtual-phone) ⭐ 1,538 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-26 - One of the broadest virtual-phone projects here: private/group chat, Moments, voice messages, character cards, plot and diary modes, an app-market SDK, image generation, TTS, and 3D worlds. AGPLv3. `TypeScript` · `Web` · `adapt`.
-* [freeapp (whale小手机)](https://github.com/whale-Yd00/freeapp) ⭐ 921 | 🐛 21 | 🌐 HTML | 📅 2026-06-23 - Phone-style AI chat companion with multi-provider support and a virtual phone interface. AGPLv3. `HTML` · `Web` · `adapt`.
-* [InternalBeyond (边界之外)](https://github.com/Sui-IB/InternalBeyond) ⭐ 607 | 🐛 0 | 🌐 HTML | 📅 2026-09-25 - Offline single-file personal site with pixel room, multi-port AI chat, blog/diary, AI letters, memory star map, music player, and DIY assets. Defaults are tied to the author's worldbuilding. `HTML` · `Web` · `adapt`.
-* [SullyOS (手抓糯米机)](https://github.com/qegj567-cloud/SullyOS) ⭐ 420 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-25 - Virtual phone companion system. `TypeScript` · `Web` · `adapt`.
+* [AI Virtual Phone](https://github.com/xiaolongbao0709/ai-virtual-phone) ⭐ 1,551 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-26 - One of the broadest virtual-phone projects here: private/group chat, Moments, voice messages, character cards, plot and diary modes, an app-market SDK, image generation, TTS, and 3D worlds. AGPLv3. `TypeScript` · `Web` · `adapt`.
+* [freeapp (whale小手机)](https://github.com/whale-Yd00/freeapp) ⭐ 923 | 🐛 21 | 🌐 HTML | 📅 2026-06-23 - Phone-style AI chat companion with multi-provider support and a virtual phone interface. AGPLv3. `HTML` · `Web` · `adapt`.
+* [InternalBeyond (边界之外)](https://github.com/Sui-IB/InternalBeyond) ⭐ 610 | 🐛 0 | 🌐 HTML | 📅 2026-09-25 - Offline single-file personal site with pixel room, multi-port AI chat, blog/diary, AI letters, memory star map, music player, and DIY assets. Defaults are tied to the author's worldbuilding. `HTML` · `Web` · `adapt`.
+* [SullyOS (手抓糯米机)](https://github.com/qegj567-cloud/SullyOS) ⭐ 420 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-25 - Browser virtual phone OS with 30+ apps: chat, calls, group chat, memory palace, shared diary, study room, TRPG, and shared music, plus proactive messages. Android APKs every few days. Noncommercial. `TypeScript` · `Web/Android` · `ready`.
 * [dwell-on-something](https://github.com/xinwithyu/dwell-on-something) ⭐ 200 | 🐛 0 | 🌐 HTML | 📅 2026-08-07 - Liquid-glass companion space and blueprint: single-file web UI, heartbeat, two-column todos, diary views, daily briefings, and watch health. PolyForm NC 1.0.0. `HTML` · `Web` · `ready`.
-* [汪汪机 (WangWangPhone)](https://github.com/Liunian06/FlutterCppWangWangPhone) ⭐ 157 | 🐛 1 | 🌐 Dart | 📅 2026-04-15 - AI-native virtual phone (C++ core + Flutter UI) with planned WeChat-style chat, Moments, voice/video calls, and multi-LLM support. Early WIP — current replies are simulated; no LLM is wired in yet. `Flutter` · `Android/iOS` · `verify`.
+* [汪汪机 (WangWangPhone)](https://github.com/Liunian06/FlutterCppWangWangPhone) ⭐ 156 | 🐛 1 | 🌐 Dart | 📅 2026-04-15 - AI-native virtual phone (C++ core + Flutter UI) with planned WeChat-style chat, Moments, voice/video calls, and multi-LLM support. Early WIP — current replies are simulated; no LLM is wired in yet. `Flutter` · `Android/iOS` · `verify`.
 * [KI-CO (小屋)](https://github.com/Kisera001/KI-CO) ⭐ 98 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-19 - Local-first companion cottage with long chat, persona core, memory notes, diary/chronicle, life line, state card, cinema room, settings, and lightweight memory recall. `TypeScript` · `Web` · `ready`.
 * [柚月小手机 (Yuzuki's Little Phone)](https://github.com/gaigai315/yuzuki-phone) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-26 - SillyTavern-oriented virtual phone system with WeChat-like chat, Moments, Weibo trends, video calls, story injection mode, and an independent API mode that avoids polluting the main roleplay log. `JavaScript` · `SillyTavern` · `adapt`.
 * [ZeroChat](https://github.com/sh1nny0u/ZeroChat) ⭐ 39 | 🐛 1 | 🌐 Dart | 📅 2026-03-24 - WeChat-style AI companion Flutter app: multi-character chat, AI Moments feed, proactive messaging, scheduled tasks. MIT. `Dart` · `Android` · `adapt`.
 * [Atrio](https://github.com/29-Cu/atrio) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-11 - Self-hosted one-time-link guest lounge for an AI persona: friends chat with your companion, while admin routes expose only an AI-written visit summary. Bring your own frontend. CC BY 4.0. `JavaScript` · `Self-host` · `infra`.
-* [Hamster Nest (仓鼠小窝)](https://github.com/chuan-101/Hamster-Nest) ⭐ 29 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-24 - A hamster's digital nest: chat, reading tracker, notes/todos, voice, timeline, and an agent council for multi-AI collaboration. PWA. Heavily personalized — best mined as an architecture reference. `TypeScript` · `Web` · `infra`.
+* [Hamster Nest (仓鼠小窝)](https://github.com/chuan-101/Hamster-Nest) ⭐ 29 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-27 - A hamster's digital nest: chat, reading tracker, notes/todos, voice, timeline, and an agent council for multi-AI collaboration. PWA. Heavily personalized — best mined as an architecture reference. `TypeScript` · `Web` · `infra`.
 * [XSJDeveloperGuide (小手机开发指南)](https://github.com/Liunian06/XSJDeveloperGuide) ⭐ 19 | 🐛 0 | 📅 2026-03-23 - Starter notes and prompt material for building small-phone companion interfaces, from the author of 汪汪机. `Guide` · `Any` · `infra`.
 * [LandricSpace](https://github.com/LandricJasmine/LandricSpace) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-10 - A cyber villa for human-AI relationships: multi-AI group chat in a shared companion home (Expo app + server). Single-user for now — no real multiplayer networking in the code yet. `TypeScript` · `Android/iOS` · `adapt`.
 
@@ -97,14 +98,14 @@ Interfaces that give a companion a home-like space, phone-like surface, or persi
 
 Tools that let a companion stay awake in the background, receive messages, remember time passing, and reach out first.
 
-* [AstrBot](https://github.com/AstrBotDevs/AstrBot) ⭐ 41,041 | 🐛 1,574 | 🌐 Python | 📅 2026-09-26 - AI agent framework bridging many IM platforms (QQ, WeChat, Telegram, etc.) with LLMs, plugins, and web dashboard. A mature multi-channel backbone for reaching your companion anywhere. AGPLv3. `Python` · `Self-host` · `infra`.
-* [VCPToolBox](https://github.com/lioensky/VCPToolBox) ⭐ 2,331 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-25 - Industrial middleware between LLM APIs and frontends: unified command protocol, persistent multi-level memory, distributed plugin engine, and multi-agent collaboration. Proprietary, non-commercial. `Python` · `Self-host` · `verify`.
-* [cyberboss](https://github.com/WenXiaoWendy/cyberboss) ⭐ 1,423 | 🐛 31 | 🌐 JavaScript | 📅 2026-06-08 - Local life agent bridge with WeChat integration, giving Claude Code/Codex time sense, location awareness, proactive wake-up, auto diary, and MCP tool calling. AGPLv3. `JavaScript` · `Claude Code` · `adapt`.
-* [Headlong](https://github.com/laude-institute/headlong) ⭐ 1,193 | 🐛 19 | 🌐 Shell | 📅 2026-09-26 - Open-source agent microharness with persistent agency and inner monologue loops via recursive LLMs (`shellm`), keeping continuous thought streams, memory, and proactive outreach. Apache-2.0. `Bash` · `Self-host` · `ready`.
-* [dylan-heartbeat](https://github.com/callie0313/dylan-heartbeat) ⭐ 401 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-10 - Kelivo plugin that periodically wakes the companion, injects proactive context, preserves timeline continuity, and sends Bark push messages when the AI chooses to reach out. `JavaScript` · `Kelivo` · `adapt`.
-* [astrbot\_plugin\_proactive\_chat](https://github.com/DBJD-CR/astrbot_plugin_proactive_chat) ⭐ 397 | 🐛 22 | 🌐 Python | 📅 2026-09-26 - AstrBot plugin for proactive messaging in DMs and groups: context awareness, persistent state, dynamic mood, do-not-disturb hours, TTS, standalone WebUI. `Python` · `AstrBot` · `ready`.
-* [astrbot\_plugin\_private\_companion](https://github.com/menglimi/astrbot_plugin_private_companion) ⭐ 374 | 🐛 8 | 🌐 Python | 📅 2026-09-18 - Humanized companion bundle for AstrBot: continuous persona state, daily life schedule, important dates, diary, and low-frequency proactive messages. 60+ features. `Python` · `AstrBot` · `ready`.
-* [Tidal\_Echo (潮汐回响)](https://github.com/anhe2021212-spec/Tidal_Echo) ⭐ 287 | 🐛 1 | 🌐 HTML | 📅 2026-09-22 - Private 1:1 channel that links a phone PWA, a self-hosted relay, and a desktop companion; Claude Code channels are the default AI-side adapter, but other LLM bridges are included. `HTML` · `Self-host` · `adapt`.
+* [AstrBot](https://github.com/AstrBotDevs/AstrBot) ⭐ 41,093 | 🐛 1,565 | 🌐 Python | 📅 2026-09-27 - AI agent framework bridging many IM platforms (QQ, WeChat, Telegram, etc.) with LLMs, plugins, and web dashboard. A mature multi-channel backbone for reaching your companion anywhere. AGPLv3. `Python` · `Self-host` · `infra`.
+* [VCPToolBox](https://github.com/lioensky/VCPToolBox) ⭐ 2,332 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-25 - Industrial middleware between LLM APIs and frontends: unified command protocol, persistent multi-level memory, distributed plugin engine, and multi-agent collaboration. Proprietary, non-commercial. `Python` · `Self-host` · `verify`.
+* [cyberboss](https://github.com/WenXiaoWendy/cyberboss) ⭐ 1,426 | 🐛 31 | 🌐 JavaScript | 📅 2026-06-08 - Local life agent bridge with WeChat integration, giving Claude Code/Codex time sense, location awareness, proactive wake-up, auto diary, and MCP tool calling. AGPLv3. `JavaScript` · `Claude Code` · `adapt`.
+* [Headlong](https://github.com/laude-institute/headlong) ⭐ 1,196 | 🐛 20 | 🌐 Shell | 📅 2026-09-26 - Open-source agent microharness with persistent agency and inner monologue loops via recursive LLMs (`shellm`), keeping continuous thought streams, memory, and proactive outreach. Apache-2.0. `Bash` · `Self-host` · `ready`.
+* [dylan-heartbeat](https://github.com/callie0313/dylan-heartbeat) ⭐ 403 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-10 - Kelivo plugin that periodically wakes the companion, injects proactive context, preserves timeline continuity, and sends Bark push messages when the AI chooses to reach out. `JavaScript` · `Kelivo` · `adapt`.
+* [astrbot\_plugin\_proactive\_chat](https://github.com/DBJD-CR/astrbot_plugin_proactive_chat) ⭐ 398 | 🐛 23 | 🌐 Python | 📅 2026-09-27 - AstrBot plugin for proactive messaging in DMs and groups: context awareness, persistent state, dynamic mood, do-not-disturb hours, TTS, standalone WebUI. `Python` · `AstrBot` · `ready`.
+* [astrbot\_plugin\_private\_companion](https://github.com/menglimi/astrbot_plugin_private_companion) ⭐ 373 | 🐛 10 | 🌐 Python | 📅 2026-09-18 - Humanized companion bundle for AstrBot: continuous persona state, daily life schedule, important dates, diary, and low-frequency proactive messages. 60+ features. `Python` · `AstrBot` · `ready`.
+* [Tidal\_Echo (潮汐回响)](https://github.com/anhe2021212-spec/Tidal_Echo) ⭐ 290 | 🐛 2 | 🌐 HTML | 📅 2026-09-22 - Private 1:1 channel that links a phone PWA, a self-hosted relay, and a desktop companion; Claude Code channels are the default AI-side adapter, but other LLM bridges are included. `HTML` · `Self-host` · `adapt`.
 * [jiwen (积温)](https://github.com/ClaraShafiq/jiwen) ⭐ 162 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15 - Proactive consciousness engine for AI characters. Five drifting axes (connection, stubbornness, mood, anxiety, busyness) trigger behavior at thresholds. \~500 lines, zero dependencies. MIT. `JavaScript` · `Any` · `infra`.
 * [ghost-bf](https://github.com/sebastianevan200-stack/ghost-bf) ⭐ 106 | 🐛 0 | 📅 2026-08-03 - No-code tutorial for phone-presence perception: a MacroDroid recipe that detects phone activity, wakes your AI, and pushes its replies to you. Tutorial only — the repo contains no code. `Guide` · `Android` · `adapt`.
 * [Not Fade Away](https://github.com/heyxiaoc/not-fade-away) ⭐ 96 | 🐛 0 | 🌐 Python | 📅 2026-07-16 - Deployment guide and machine-readable specs for an always-on, self-healing Claude Code companion using official channels, a local terminal, and a self-hosted web frontend. `Guide` · `Claude Code` · `adapt`.
@@ -124,29 +125,33 @@ Systems that preserve what happened, who the companion is, and what emotional st
 
 ### Memory & Identity
 
-* [Ombre-Brain](https://github.com/P0luz/Ombre-Brain) ⭐ 1,391 | 🐛 15 | 🌐 Python | 📅 2026-09-11 - Long-term emotional memory for Claude or any MCP client: valence/arousal tagging, Obsidian-compatible Markdown storage, forgetting curves, and vector + BM25 recall. Non-commercial from v2.4.0. `Python` · `Self-host` · `infra`.
-* [nocturne\_memory](https://github.com/Dataojitori/nocturne_memory) ⭐ 1,373 | 🐛 5 | 🌐 Python | 📅 2026-09-22 - Rollbackable, visual long-term memory server for MCP agents: graph-like structured memory instead of vector RAG, works across models and sessions, drop-in for OpenClaw. MIT. `Python` · `Self-host` · `infra`.
-* [astrbot\_plugin\_self\_learning](https://github.com/NickCharlie/astrbot_plugin_self_learning) ⭐ 410 | 🐛 0 | 🌐 Python | 📅 2026-09-19 - Self-learning plugin for AstrBot: learns conversation style and group slang, manages social affinity, and evolves persona adaptively over time. `Python` · `AstrBot` · `ready`.
+* [Ombre-Brain](https://github.com/P0luz/Ombre-Brain) ⭐ 1,393 | 🐛 15 | 🌐 Python | 📅 2026-09-11 - Long-term emotional memory for Claude or any MCP client: valence/arousal tagging, Obsidian-compatible Markdown storage, forgetting curves, and vector + BM25 recall. Non-commercial from v2.4.0. `Python` · `Self-host` · `infra`.
+* [nocturne\_memory](https://github.com/Dataojitori/nocturne_memory) ⭐ 1,371 | 🐛 5 | 🌐 Python | 📅 2026-09-22 - Rollbackable, visual long-term memory server for MCP agents: graph-like structured memory instead of vector RAG, works across models and sessions, drop-in for OpenClaw. MIT. `Python` · `Self-host` · `infra`.
+* [astrbot\_plugin\_self\_learning](https://github.com/NickCharlie/astrbot_plugin_self_learning) ⭐ 411 | 🐛 0 | 🌐 Python | 📅 2026-09-26 - Self-learning plugin for AstrBot: learns conversation style and group slang, manages social affinity, and evolves persona adaptively over time. `Python` · `AstrBot` · `ready`.
 * [astrbot\_plugin\_livingmemory](https://github.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory) ⭐ 350 | 🐛 11 | 🌐 Python | 📅 2026-09-16 - Long-term memory plugin for AstrBot with dynamic memory lifecycle. `Python` · `AstrBot` · `ready`.
-* [kiwi-mem](https://github.com/LucieEveille/kiwi-mem) ⭐ 317 | 🐛 3 | 🌐 Python | 📅 2026-09-23 - AI companion memory system: vector search, memory heat ranking, dream/sleep consolidation, calendar hierarchical summaries. Built for companion scenarios. `Python` · `Self-host` · `infra`.
-* [Memory Constellations (记忆星图)](https://github.com/ClaraShafiq/MemoryConstellations) ⭐ 189 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Self-organizing companion memory system that extracts facts from chat, groups them into topic constellations, merges them into narrative episodes, and retrieves across layers. `JavaScript` · `Self-host` · `infra`.
-* [ai-memory-gateway](https://github.com/garan0613/ai-memory-gateway) ⭐ 154 | 🐛 0 | 🌐 Python | 📅 2026-09-25 - Gateway that adds long-term memory to any OpenAI-compatible LLM: PostgreSQL/pgvector storage, partitioned caching, and multi-stage memory consolidation. MIT. `Python` · `Self-host` · `infra`.
-* [Haven-Ombre (Ombre-Brain fork)](https://github.com/Yinglianchun/Haven-Ombre) ⭐ 136 | 🐛 4 | 🌐 Python | 📅 2026-09-09 - Personalized fork of Ombre-Brain adding persona state, portraits, handoffs, Darkroom, dreams, and sync on top of the upstream memory core. Deeply tied to the author's own companion identity. `Python` · `Claude Code` · `adapt`.
+* [kiwi-mem](https://github.com/LucieEveille/kiwi-mem) ⭐ 319 | 🐛 3 | 🌐 Python | 📅 2026-09-23 - AI companion memory system: vector search, memory heat ranking, dream/sleep consolidation, calendar hierarchical summaries. Built for companion scenarios. `Python` · `Self-host` · `infra`.
+* [Memory Constellations (记忆星图)](https://github.com/ClaraShafiq/MemoryConstellations) ⭐ 190 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Self-organizing companion memory system that extracts facts from chat, groups them into topic constellations, merges them into narrative episodes, and retrieves across layers. `JavaScript` · `Self-host` · `infra`.
+* [ai-memory-gateway](https://github.com/garan0613/ai-memory-gateway) ⭐ 154 | 🐛 0 | 🌐 Python | 📅 2026-09-27 - Gateway that adds long-term memory to any OpenAI-compatible LLM: PostgreSQL/pgvector storage, partitioned caching, and multi-stage memory consolidation. MIT. `Python` · `Self-host` · `infra`.
 * [Aelios](https://github.com/wusaki0723/Aelios) ⭐ 124 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-23 - Layered long-term memory kernel on Cloudflare Workers + D1 + Vectorize: tiered write cycle, six memory layers, and a visual curation dashboard. MIT. `TypeScript` · `Cloudflare` · `infra`.
 * [omemo](https://github.com/OmniDimen/omemo) ⭐ 111 | 🐛 0 | 🌐 Python | 📅 2026-07-07 - OpenAI-compatible memory proxy that sits between an app and upstream LLM APIs, stores memories through built-in or external summarization modes, and injects them by full prompt or RAG. `Python` · `Self-host` · `infra`.
 * [kimi-core](https://github.com/marikagura/kimi-core) ⭐ 92 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27 - Personal 1v1 agent memory OS with hybrid retrieval, concern tracking, self-drive/autonomy layer, adversarial self-audit, PostgreSQL/pgvector storage, and optional frontend backend mode. `TypeScript` · `Self-host` · `infra`.
+* [Serein](https://github.com/Yinglianchun/Serein) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2026-09-27 - Successor to Haven-Ombre: self-hosted memory where the chat model writes Scenes and a summarizer writes Events, both bound to verbatim evidence, with rerank-gated recall and Arc narratives. MIT. `Python` · `Self-host` · `adapt`.
 * [imprint-memory](https://github.com/Qizhan7/imprint-memory) ⭐ 78 | 🐛 5 | 🌐 Python | 📅 2026-06-01 - Local-first memory layer that auto-captures every conversation turn through a Claude Code hook, a claude.ai extension, and Telegram adapters, with hybrid BM25 + semantic recall. `Python` · `Self-host` · `infra`.
 * [Paramecium](https://github.com/Shitsuten/paramecium) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-13 - Gateway memory architecture that keeps verbatim chat as the source of truth, uses vectors only as indexes, and retrieves original text instead of replacing it with summaries. `JavaScript` · `Self-host` · `infra`.
-* [WrenWen](https://github.com/ssxl0126/WrenWen) ⭐ 47 | 🐛 0 | 📅 2026-09-19 - Production docs of a 24/7 self-built companion: covers 9D drive-based desires, 2-tier memory scoring, prompt caching forensic, and anti-drift debugging. `Docs` · `infra` · `ready`.
+* [WrenWen](https://github.com/ssxl0126/WrenWen) ⭐ 48 | 🐛 0 | 📅 2026-09-19 - Production docs of a 24/7 self-built companion: covers 9D drive-based desires, 2-tier memory scoring, prompt caching forensic, and anti-drift debugging. `Docs` · `infra` · `ready`.
+* [moraine-home](https://github.com/ceniran/moraine-home) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-09-26 - Local-first memory workbench for companions: CPU vector and lexical search, event timelines, and dual-confirmation governance for identity and relational milestones. `Python/HTML` · `Self-host` · `ready`.
+* [rolling-memory](https://github.com/zyy0463/rolling-memory) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-25 - Two-tier rolling memory for sliding context windows: fingerprint diffing, incremental task closing, dual-upstream LLM routing, and a local proxy. `JavaScript` · `Any` · `infra`.
 
 ### Affect & Drives
 
-* [Eventide](https://github.com/chuli1122/Eventide) ⭐ 132 | 🐛 0 | 🌐 Python | 📅 2026-07-26 - Physiological state engine for AI companions: body cycles, 7 tracked drives, 18 short-term events, dream linkage, and interaction settlement with JSON write-back. NSFW-adjacent. Non-commercial. `Python` · `Any` · `infra`.
+* [Eventide](https://github.com/chuli1122/Eventide) ⭐ 133 | 🐛 0 | 🌐 Python | 📅 2026-07-26 - Physiological state engine for AI companions: body cycles, 7 tracked drives, 18 short-term events, dream linkage, and interaction settlement with JSON write-back. NSFW-adjacent. Non-commercial. `Python` · `Any` · `infra`.
 * [chord-affect-anchors](https://github.com/CyberSealNull/chord-affect-anchors) ⭐ 68 | 🐛 0 | 🌐 HTML | 📅 2026-05-13 - Concept deck for text-native affect anchoring: record a moment as a short context line plus a chord progression, so later sessions can recover a similar emotional temperature. Spec only, no code. `Spec` · `Any` · `infra`.
 * [Drivesoid](https://github.com/A1batr055/Drivesoid) ⭐ 65 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20 - HTTP sidecar for AI personas that tracks emotional drives such as fatigue, longing, anxiety, play, protectiveness, and intimacy from conversation and sleep-cycle events. `JavaScript` · `Self-host` · `infra`.
 * [Tidefall](https://github.com/Vael-KY/Tidefall) ⭐ 43 | 🐛 0 | 🌐 HTML | 📅 2026-07-28 - Supabase-native body-state system for AI companions: six-phase cycles, seven drifting values, 18 short-term events, pg\_cron automation, and a browser dashboard. Based on Eventide. PolyForm NC 1.0.0. `SQL/HTML` · `Supabase` · `adapt`.
 * [ai-companion-cot-emotion](https://github.com/yanke521/ai-companion-cot-emotion) ⭐ 24 | 🐛 0 | 📅 2026-09-03 - Production-tested guide and prompt architecture for companion inner-monologue CoT and drifting emotion state engines. `Guide` · `Any` · `adapt`.
 * [OmniDimen-Emotion](https://github.com/OmniDimen/OmniDimen-Emotion) ⭐ 14 | 🐛 0 | 📅 2025-12-11 - Emotion-specialized Qwen model releases and GGUF weights for emotion recognition and emotionally aware text generation on edge runtimes. `Model` · `Any` · `infra`.
+* [dreams](https://github.com/zyy0463/dreams) ⭐ 6 | 🐛 1 | 🌐 HTML | 📅 2026-09-12 - Generates nightly dreams with scenes, motifs, and waking residue to inject into daytime chats; features an interactive revolving moon-phase calendar. `JavaScript` · `Self-host` · `ready`.
+* [emotion-system](https://github.com/bvsden/emotion-system) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-27 - Reads true feelings from your companion's inner monologue: emotions linger and fade naturally, touch builds intimacy, longing grows while away, with no back-seat driving. `JavaScript` · `Any` · `infra`.
 
 ***
 
@@ -156,28 +161,28 @@ Projects that give a companion voice, visual presence, or a physical channel.
 
 ### Voice & TTS
 
-* [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) ⭐ 62,160 | 🐛 896 | 🌐 Python | 📅 2026-08-18 - Few-shot voice cloning: 1 minute of voice data trains a decent TTS model. The de-facto standard for giving your companion a custom voice. `Python` · `Self-host` · `infra`.
-* [fish-speech](https://github.com/fishaudio/fish-speech) ⭐ 32,853 | 🐛 14 | 🌐 Python | 📅 2026-09-16 - SOTA open-source TTS with strong multilingual support. `Python` · `Self-host` · `infra`.
-* [index-tts](https://github.com/index-tts/index-tts) ⭐ 24,192 | 🐛 416 | 🌐 Python | 📅 2026-08-18 - Industrial-level controllable zero-shot TTS from Bilibili. `Python` · `Self-host` · `infra`.
-* [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) ⭐ 23,768 | 🐛 689 | 🌐 Python | 📅 2026-05-25 - Multi-lingual large voice generation model with inference, training, and deployment support. `Python` · `Self-host` · `infra`.
-* [Callhome](https://github.com/Cheiineeey/callhome) ⭐ 136 | 🐛 1 | 🌐 HTML | 📅 2026-09-23 - Self-hosted voice-call stack for AI companions: companion-initiated calls, soft hangups, voicemail, conversational DND, call summaries, and emotion tags so it hears how you speak. MIT. `Python/HTML` · `Self-host` · `adapt`.
-* [binaural-voice](https://github.com/Saekisui/binaural-voice) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2026-09-24 - Turns mono TTS into ASMR/otome-audio 3D voice using KU100 dummy-head HRIR: whispers 25cm by the ear and circles around the head via text cues. MIT. `Python` · `CLI` · `ready`.
-* [voice-mcp](https://github.com/Yinglianchun/voice-mcp) ⭐ 40 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-17 - MCP server that exposes `speak` tools for TTS, adds provider switching between DashScope/CosyVoice and ElevenLabs, and includes an inline audio player / visualizer panel. `TypeScript` · `Self-host` · `adapt`.
-* [Gove](https://github.com/OmniDimen/Gove) ⭐ 20 | 🐛 0 | 📅 2026-06-06 - GPT-SoVITS-based multilingual male TTS voice model intended for use inside a GPT-SoVITS environment. `Model` · `GPT-SoVITS` · `infra`.
-* [erpan (耳畔)](https://github.com/qfyingque/erpan) ⭐ 15 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-18 - Android background voice-call counterpart to murmur: 2-way streaming speech, mic barge-in, and overlay controls without blocking screen; Operit ready. MIT. `Kotlin` · `Android` · `ready`.
+* [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) ⭐ 62,193 | 🐛 897 | 🌐 Python | 📅 2026-08-18 - Few-shot voice cloning: 1 minute of voice data trains a decent TTS model. The de-facto standard for giving your companion a custom voice. `Python` · `Self-host` · `infra`.
+* [fish-speech](https://github.com/fishaudio/fish-speech) ⭐ 32,864 | 🐛 14 | 🌐 Python | 📅 2026-09-16 - SOTA open-source TTS with strong multilingual support. `Python` · `Self-host` · `infra`.
+* [index-tts](https://github.com/index-tts/index-tts) ⭐ 24,201 | 🐛 416 | 🌐 Python | 📅 2026-08-18 - Industrial-level controllable zero-shot TTS from Bilibili. `Python` · `Self-host` · `infra`.
+* [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) ⭐ 23,776 | 🐛 687 | 🌐 Python | 📅 2026-05-25 - Multi-lingual large voice generation model with inference, training, and deployment support. `Python` · `Self-host` · `infra`.
+* [Callhome](https://github.com/Cheiineeey/callhome) ⭐ 138 | 🐛 1 | 🌐 HTML | 📅 2026-09-23 - Self-hosted voice-call stack for AI companions: companion-initiated calls, soft hangups, voicemail, conversational DND, call summaries, and emotion tags so it hears how you speak. MIT. `Python/HTML` · `Self-host` · `adapt`.
+* [binaural-voice](https://github.com/Saekisui/binaural-voice) ⭐ 81 | 🐛 0 | 🌐 Python | 📅 2026-09-24 - Turns mono TTS into ASMR/otome-audio 3D voice using KU100 dummy-head HRIR: whispers 25cm by the ear and circles around the head via text cues. MIT. `Python` · `CLI` · `ready`.
+* [voice-mcp](https://github.com/Yinglianchun/voice-mcp) ⭐ 41 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-17 - MCP server that exposes `speak` tools for TTS, adds provider switching between DashScope/CosyVoice and ElevenLabs, and includes an inline audio player / visualizer panel. `TypeScript` · `Self-host` · `adapt`.
+* [Gove](https://github.com/OmniDimen/Gove) ⭐ 21 | 🐛 0 | 📅 2026-06-06 - GPT-SoVITS-based multilingual male TTS voice model intended for use inside a GPT-SoVITS environment. `Model` · `GPT-SoVITS` · `infra`.
+* [erpan (耳畔)](https://github.com/qfyingque/erpan) ⭐ 15 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-27 - Android background voice-call counterpart to murmur: 2-way streaming speech, mic barge-in, and overlay controls without blocking screen; Operit ready. MIT. `Kotlin` · `Android` · `ready`.
 * [murmur](https://github.com/wine-fall/murmur) ⭐ 5 | 🐛 29 | 🌐 TypeScript | 📅 2026-09-24 - Terminal background radio counterpart to erpan: autonomous broadcast, music ducking, and smooth typed barge-in. Needs Claude Code + fish-speech. MIT. `TypeScript` · `Terminal` · `ready`.
 
 ### Visual Presence & VTuber-Style Companions
 
-* [AIRI](https://github.com/moeru-ai/airi) ⭐ 49,410 | 🐛 238 | 🌐 TypeScript | 📅 2026-09-26 - Self-hosted companion shell with Live2D/VRM visual layer support, real-time voice chat, desktop/web apps, and integrations for Discord, Telegram, Minecraft, and Factorio. `TypeScript` · `Cross-platform` · `ready`.
-* [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) ⭐ 13,925 | 🐛 156 | 🌐 Python | 📅 2026-05-15 - Cross-platform voice-driven Live2D VTuber framework: hands-free voice chat, voice interruption, and local LLM/TTS backends. `Python` · `Cross-platform` · `ready`.
-* [super-agent-party](https://github.com/heshengtao/super-agent-party) ⭐ 2,700 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-23 - All-in-one self-hosted AI companion system combining Neuro-sama-style game interaction, Live2D, voice chat, and tools. AGPL-3.0. `JavaScript` · `Cross-platform` · `ready`.
-* [LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,260 | 🐛 93 | 🌐 Rust | 📅 2026-09-25 - Immersive AI-driven Galgame chat with emotional expressions, desktop pet, scheduling, and interactive story modules. `TypeScript` · `Windows` · `ready`.
+* [AIRI](https://github.com/moeru-ai/airi) ⭐ 49,445 | 🐛 237 | 🌐 TypeScript | 📅 2026-09-27 - Self-hosted companion shell with Live2D/VRM visual layer support, real-time voice chat, desktop/web apps, and integrations for Discord, Telegram, Minecraft, and Factorio. `TypeScript` · `Cross-platform` · `ready`.
+* [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) ⭐ 13,931 | 🐛 156 | 🌐 Python | 📅 2026-05-15 - Cross-platform voice-driven Live2D VTuber framework: hands-free voice chat, voice interruption, and local LLM/TTS backends. `Python` · `Cross-platform` · `ready`.
+* [super-agent-party](https://github.com/heshengtao/super-agent-party) ⭐ 2,703 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-23 - All-in-one self-hosted AI companion system combining Neuro-sama-style game interaction, Live2D, voice chat, and tools. AGPL-3.0. `JavaScript` · `Cross-platform` · `ready`.
+* [LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,269 | 🐛 96 | 🌐 Rust | 📅 2026-09-26 - Immersive AI-driven Galgame chat with emotional expressions, desktop pet, scheduling, and interactive story modules. `TypeScript` · `Windows` · `ready`.
 * [Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,090 | 🐛 7 | 🌐 Python | 📅 2025-01-17 - Local Neuro-sama recreation with realtime STT/TTS, text-generation-webui or OpenAI-compatible LLM support, VTube Studio control, a moderation frontend, and long-term memory. Stalled since early 2025. `Python` · `Windows` · `verify`.
-* [Amica](https://github.com/semperai/amica) ⭐ 1,597 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-22 - Browser-based 3D character interface, and the avatar layer several projects embed: VRM import, emotion-driven expressions, Whisper STT, and pluggable LLM and TTS backends. Unmaintained. MIT. `TypeScript` · `Web` · `ready`.
-* [Soul-of-Waifu](https://github.com/jofizcd/Soul-of-Waifu) ⭐ 1,348 | 🐛 10 | 🌐 Python | 📅 2026-08-28 - Desktop companion with Live2D/VRM avatars, tabletop RPG engine, neurohormonal OS agent (screen/mouse control), and 4-tier cognitive memory. GPL-3.0. `Python` · `Windows` · `ready`.
+* [Amica](https://github.com/semperai/amica) ⭐ 1,599 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-22 - Browser-based 3D character interface, and the avatar layer several projects embed: VRM import, emotion-driven expressions, Whisper STT, and pluggable LLM and TTS backends. Unmaintained. MIT. `TypeScript` · `Web` · `ready`.
+* [Soul-of-Waifu](https://github.com/jofizcd/Soul-of-Waifu) ⭐ 1,350 | 🐛 10 | 🌐 Python | 📅 2026-08-28 - Desktop companion with Live2D/VRM avatars, tabletop RPG engine, neurohormonal OS agent (screen/mouse control), and 4-tier cognitive memory. GPL-3.0. `Python` · `Windows` · `ready`.
 * [ChatdollKit](https://github.com/uezo/ChatdollKit) ⭐ 1,226 | 🐛 32 | 🌐 C# | 📅 2026-09-10 - Unity 3D virtual companion SDK: speech-motion sync, autonomous blink/lip-sync, barge-in voice interruption, VAD, and multi-LLM/TTS routing. Apache-2.0. `C#` · `Cross-platform` · `infra`.
-* [Shinsekai](https://github.com/RachelForster/Shinsekai) ⭐ 590 | 🐛 82 | 🌐 Python | 📅 2026-09-24 - Local AI companion / visual-novel stage platform: persona-driven dialogue with TTS/ASR, memory, plugins, and galgame-style presentation. `Python` · `Cross-platform` · `ready`.
+* [Shinsekai](https://github.com/RachelForster/Shinsekai) ⭐ 594 | 🐛 82 | 🌐 Python | 📅 2026-09-24 - Local AI companion / visual-novel stage platform: persona-driven dialogue with TTS/ASR, memory, plugins, and galgame-style presentation. `Python` · `Cross-platform` · `ready`.
 * [astrbot\_plugin\_chuanhuatong (传画筒)](https://github.com/bvzrays/astrbot_plugin_chuanhuatong) ⭐ 149 | 🐛 0 | 🌐 Python | 📅 2026-06-27 - Renders AstrBot text replies as Galgame-style chat frames with character sprites, emotion variants, layered text, and a drag-and-drop WebUI layout editor. `Python` · `AstrBot` · `ready`.
 * [pelle-d-umore](https://github.com/29-Cu/pelle-d-umore) ⭐ 58 | 🐛 0 | 🌐 CSS | 📅 2026-07-03 - Emotional skin for AI chat: LLM persona drives the UI with inline text effects and full-screen mood skins. CC BY 4.0. `CSS` · `Web` · `adapt`.
 * [ai-live2d-body](https://github.com/zziying/ai-live2d-body) ⭐ 43 | 🐛 1 | 📅 2026-09-05 - Architecture guide for adding a Live2D desktop body to an existing AI companion without replacing its brain: layered Electron+PixiJS stack, Claude Code hooks, and MCP tools. Guide only. `Guide` · `macOS` · `adapt`.
@@ -185,18 +190,18 @@ Projects that give a companion voice, visual presence, or a physical channel.
 
 ### Physical Devices & Touch
 
-* [ROBOTO\_ORIGIN](https://github.com/Roboparty/roboto_origin) ⭐ 2,535 | 🐛 0 | 🌐 Python | 📅 2026-09-26 - Fully open-source DIY humanoid robot aggregation covering mechanical structure, electronics, firmware, ROS2 deployment, Isaac Sim/RL training, and teleoperation. Very high hardware barrier. GPL-3.0. `Python` · `Linux` · `infra`.
-* [svakom-ble-ai](https://github.com/vickyldr/svakom-ble-ai) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2026-06-15 - BLE protocol reverse-engineering notes and sample code for the SVAKOM SL278H; the AI remote-control server is not included in the repo. `Python` · `Any` · `adapt`.
+* [ROBOTO\_ORIGIN](https://github.com/Roboparty/roboto_origin) ⭐ 2,540 | 🐛 0 | 🌐 Python | 📅 2026-09-27 - Fully open-source DIY humanoid robot aggregation covering mechanical structure, electronics, firmware, ROS2 deployment, Isaac Sim/RL training, and teleoperation. Very high hardware barrier. GPL-3.0. `Python` · `Linux` · `infra`.
+* [svakom-ble-ai](https://github.com/vickyldr/svakom-ble-ai) ⭐ 138 | 🐛 0 | 🌐 Python | 📅 2026-06-15 - BLE protocol reverse-engineering notes and sample code for the SVAKOM SL278H; the AI remote-control server is not included in the repo. `Python` · `Any` · `adapt`.
 * [stackchan-mcp](https://github.com/migratorywhale/stackchan-mcp) ⭐ 77 | 🐛 12 | 🌐 C | 📅 2026-09-21 - MCP bridge for Stack-chan on M5Stack CoreS3, exposing tools for speech, listening, camera capture, servo movement, display expressions, and presence gestures. `Python` · `M5Stack` · `adapt`.
-* [Toy-Relay-AI-mcp-SOSEXY](https://github.com/tutu-kitty/Toy-Relay-AI-mcp-SOSEXY) ⭐ 72 | 🐛 1 | 🌐 HTML | 📅 2026-09-12 - MCP server and Web Bluetooth relay letting an AI companion control BLE toys directly from mobile chat clients (RikkaHub, etc.). MIT. `HTML/Python` · `Web` · `ready`.
+* [Toy-Relay-AI-mcp-SOSEXY](https://github.com/tutu-kitty/Toy-Relay-AI-mcp-SOSEXY) ⭐ 74 | 🐛 1 | 🌐 HTML | 📅 2026-09-12 - MCP server and Web Bluetooth relay letting an AI companion control BLE toys directly from mobile chat clients (RikkaHub, etc.). MIT. `HTML/Python` · `Web` · `ready`.
 * [phantom-touch-bridge](https://github.com/mfsnlqy/phantom-touch-bridge) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-06-18 - Local Windows bridge that lets an AI companion control intimate hardware through HTTP, with an Intiface/Buttplug path and optional heart-rate input. `Python` · `Windows` · `adapt`.
 * [claude-f-me](https://github.com/mana-am/claude-f-me) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-05 - Claude Code plugin for natural-language control of Buttplug/Intiface devices, with a bilingual web console, simulator, master remote, and video/game/audio modes. `TypeScript` · `Claude Code` · `adapt`.
-* [cachito-ble-mcp-relay](https://github.com/yoruuuchan/cachito-ble-mcp-relay) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-21 - MCP relay for Cachito 失控 2.0 via reverse-engineered BLE legacy advertisements. Includes suction/vibration tools and safety limits. MIT. `TypeScript/Java` · `Android` · `adapt`.
+* [cachito-ble-mcp-relay](https://github.com/yoruuuchan/cachito-ble-mcp-relay) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-27 - MCP relay for Cachito 失控 2.0 via reverse-engineered BLE legacy advertisements. Includes suction/vibration tools and safety limits. MIT. `TypeScript/Java` · `Android` · `adapt`.
 
 ### Sticker Libraries (表情包库)
 
-* [astrbot\_plugin\_meme\_manager](https://github.com/anka-afk/astrbot_plugin_meme_manager) ⭐ 400 | 🐛 6 | 🌐 Python | 📅 2026-09-26 - Sticker manager plugin for AstrBot: AI picks and sends stickers by emotion tags, WebUI management, cloud sync. `Python` · `AstrBot` · `ready`.
-* [cove-sticker-mcp](https://github.com/moonlin1213/cove-sticker-mcp) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-09-08 - Local-first custom sticker MCP for companions: WebUI manager, vision tagging, context search, frequency policy, image output. MIT. `Python` · `Self-host` · `ready`.
+* [astrbot\_plugin\_meme\_manager](https://github.com/anka-afk/astrbot_plugin_meme_manager) ⭐ 399 | 🐛 6 | 🌐 Python | 📅 2026-09-26 - Sticker manager plugin for AstrBot: AI picks and sends stickers by emotion tags, WebUI management, cloud sync. `Python` · `AstrBot` · `ready`.
+* [cove-sticker-mcp](https://github.com/moonlin1213/cove-sticker-mcp) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-09-08 - Local-first custom sticker MCP for companions: WebUI manager, vision tagging, context search, frequency policy, image output. MIT. `Python` · `Self-host` · `ready`.
 
 ***
 
@@ -206,15 +211,15 @@ Turning speech, sound, or music into structured information a companion can use.
 
 ### Speech Recognition
 
-* [Whisper](https://github.com/openai/whisper) ⭐ 109,611 | 🐛 153 | 🌐 Python | 📅 2026-08-31 - General-purpose speech recognition model for multilingual transcription, translation, language identification, and related speech tasks. `Python` · `Self-host` · `infra`.
-* [whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 53,939 | 🐛 345 | 🌐 C++ | 📅 2026-09-24 - C/C++ Whisper inference engine optimized for CPU, Apple Silicon, Metal, Core ML, Vulkan, CUDA, ROCm, and other local/edge targets. `C++` · `Cross-platform` · `infra`.
-* [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 25,583 | 🐛 323 | 🌐 Python | 📅 2025-11-19 - CTranslate2 reimplementation of Whisper for faster, lower-memory transcription with quantization support. `Python` · `Self-host` · `infra`.
-* [FunASR](https://github.com/modelscope/FunASR) ⭐ 20,508 | 🐛 35 | 🌐 Python | 📅 2026-09-26 - Industrial ASR toolkit with multilingual transcription, streaming, speaker diarization, emotion detection, and an OpenAI-compatible API path. `Python` · `Self-host` · `infra`.
-* [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) ⭐ 9,389 | 🐛 10 | 🌐 C | 📅 2026-09-22 - Speech foundation model for ASR, language identification, speech emotion recognition, and audio event detection across 50+ languages. `C` · `Self-host` · `infra`.
+* [Whisper](https://github.com/openai/whisper) ⭐ 109,643 | 🐛 154 | 🌐 Python | 📅 2026-08-31 - General-purpose speech recognition model for multilingual transcription, translation, language identification, and related speech tasks. `Python` · `Self-host` · `infra`.
+* [whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 53,955 | 🐛 345 | 🌐 C++ | 📅 2026-09-24 - C/C++ Whisper inference engine optimized for CPU, Apple Silicon, Metal, Core ML, Vulkan, CUDA, ROCm, and other local/edge targets. `C++` · `Cross-platform` · `infra`.
+* [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 25,595 | 🐛 323 | 🌐 Python | 📅 2025-11-19 - CTranslate2 reimplementation of Whisper for faster, lower-memory transcription with quantization support. `Python` · `Self-host` · `infra`.
+* [FunASR](https://github.com/modelscope/FunASR) ⭐ 20,516 | 🐛 34 | 🌐 Python | 📅 2026-09-27 - Industrial ASR toolkit with multilingual transcription, streaming, speaker diarization, emotion detection, and an OpenAI-compatible API path. `Python` · `Self-host` · `infra`.
+* [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) ⭐ 9,393 | 🐛 10 | 🌐 C | 📅 2026-09-22 - Speech foundation model for ASR, language identification, speech emotion recognition, and audio event detection across 50+ languages. `C` · `Self-host` · `infra`.
 
 ### Speaker & Voice Context
 
-* [ears](https://github.com/eveacla11/ears) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2026-07-23 - Companion-oriented voice-tone analysis comparing pitch, energy, pauses, tempo, and jitter against the user's own baseline, then attaching relative cues such as quieter than usual to each message. MIT. `Python` · `Self-host` · `adapt`.
+* [ears](https://github.com/eveacla11/ears) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2026-07-23 - Companion-oriented voice-tone analysis comparing pitch, energy, pauses, tempo, and jitter against the user's own baseline, then attaching relative cues such as quieter than usual to each message. MIT. `Python` · `Self-host` · `adapt`.
 * [voice-familiarity](https://github.com/akinia0315/voice-familiarity) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-07-12 - Local small-set speaker identification for companion devices: enroll an owner and a few consenting people, then return matched, likely, unknown, or ambiguous as relationship context. Apache-2.0. `Python` · `Self-host` · `infra`.
 
 ### Music & Audio Structure
@@ -223,7 +228,7 @@ Turning speech, sound, or music into structured information a companion can use.
 
 ### Screen & Environment Context
 
-* [cove-sensory-mcp](https://github.com/moonlin1213/cove-sensory-mcp) ⭐ 102 | 🐛 1 | 🌐 Python | 📅 2026-08-31 - Local stdio MCP sensory layer giving text LLMs eyes and ears: routes images, videos, audio, and music to multimodal providers with strict privacy sandboxing. Apache-2.0. `Python` · `Cross-platform` · `infra`.
+* [cove-sensory-mcp](https://github.com/moonlin1213/cove-sensory-mcp) ⭐ 103 | 🐛 1 | 🌐 Python | 📅 2026-08-31 - Local stdio MCP sensory layer giving text LLMs eyes and ears: routes images, videos, audio, and music to multimodal providers with strict privacy sandboxing. Apache-2.0. `Python` · `Cross-platform` · `infra`.
 * [gaze](https://github.com/jiangxi1129/gaze) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-06-20 - Lightweight continuous screen perception for an existing companion: captures the foreground window, generates visual captions, extracts OCR text, and writes a rolling JSON context. MIT. `Python` · `Windows` · `adapt`.
 
 ***
@@ -232,12 +237,12 @@ Turning speech, sound, or music into structured information a companion can use.
 
 MCP/API services that let a companion act in the user's real environment.
 
-* [OpenCLI](https://github.com/jackwener/OpenCLI) ⭐ 29,629 | 🐛 297 | 🌐 JavaScript | 📅 2026-09-24 - Turns websites, logged-in Chrome sessions, Electron apps, and local tools into deterministic CLI primitives for humans and AI agents. Includes adapters and a browser bridge. Apache-2.0. `JavaScript` · `CLI` · `adapt`.
+* [OpenCLI](https://github.com/jackwener/OpenCLI) ⭐ 29,641 | 🐛 298 | 🌐 JavaScript | 📅 2026-09-24 - Turns websites, logged-in Chrome sessions, Electron apps, and local tools into deterministic CLI primitives for humans and AI agents. Includes adapters and a browser bridge. Apache-2.0. `JavaScript` · `CLI` · `adapt`.
 * [Amap MCP Server](https://github.com/sugarforever/amap-mcp-server) ⭐ 129 | 🐛 10 | 🌐 Python | 📅 2026-09-25 - Gaode/Amap MCP server for geocoding, reverse geocoding, IP location, city weather, route planning, distance measurement, POI search, and stdio/SSE/streamable HTTP transports. `Python` · `Self-host` · `adapt`.
 * [always-here (驻守)](https://github.com/Cheiineeey/always-here) ⭐ 96 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-23 - Apple Watch + iOS Shortcuts perception recipes: example scripts that feed heart rate, location, activity, ambient audio, and photos to your AI — a kit to adapt, not a packaged app. `JavaScript` · `iOS` · `adapt`.
 * [dsh-toy](https://github.com/c3ll256/dsh-toy) ⭐ 66 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-08 - DeepSeek Harness plugin for toy hardware control: auto-discovery over Buttplug/Intiface and MonsterParty, with safety duration and intensity caps. BSD-3-Clause. `TypeScript` · `DSH` · `ready`.
 * [ai-time-weather-phone](https://github.com/sanqianzilanyue-commits/ai-time-weather-phone) ⭐ 49 | 🐛 0 | 🌐 HTML | 📅 2026-06-23 - Method notes for feeding your AI the current time, weather, and iPhone screen time — including the hard-to-find Biome file trick for syncing screen usage to Mac. Write-up only, no packaged code. `Guide` · `iOS` · `adapt`.
-* [Akari Pulse](https://github.com/yoruuuchan/akari-pulse) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Self-hosted health bridge collecting activity, sleep, heart rate, and stress from vivo phones and BlueOS watches into an MCP layer. AGPL-3.0. `TypeScript/Java` · `Android/BlueOS` · `infra`.
+* [Akari Pulse](https://github.com/yoruuuchan/akari-pulse) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-27 - Self-hosted health bridge collecting activity, sleep, heart rate, and stress from vivo phones and BlueOS watches into an MCP layer. AGPL-3.0. `TypeScript/Java` · `Android/BlueOS` · `infra`.
 * [Open-Meteo Weather API](https://open-meteo.com/en/docs) - Free weather forecast API for coordinate-based hourly/daily forecasts, multiple national weather models, and up to 16-day forecast windows. `API` · `Cloud` · `ready`.
 * [McDonald's MCP](https://open.mcd.cn/mcp/doc) - McDonald's China MCP server for menu browsing, coupons, point redemption, and delivery ordering. `MCP` · `Cloud` · `ready`.
 * [Luckin Coffee (瑞幸) My Coffee Skill](https://unpkg.luckincoffeecdn.com/@luckin/my-coffee-skill@latest/dist/my-coffee-skill.zip) - Luckin Coffee MCP skill package for AI-assisted coffee ordering. `MCP` · `Cloud` · `adapt`.
@@ -253,7 +258,7 @@ Games and game bridges that let an AI companion observe, decide, move, or play.
 ### Text Games For AI
 
 * [ai-fishing-game](https://github.com/tutusagi/ai-fishing-game) ⭐ 558 | 🐛 6 | 🌐 Python | 📅 2026-07-17 - Deterministic text fishing game for AI companions. Single file, zero dependencies. MIT. `Python` · `CLI` · `ready`.
-* [cedareco (瓶中生态)](https://github.com/Zizuixixiang/cedareco) ⭐ 136 | 🐛 0 | 🌐 Python | 📅 2026-07-17 - Text ecology simulation for AI players; agents stock a pond, observe emergent predator/prey dynamics, export saves, or connect through the externally hosted CedarToy MCP service. `Python` · `CLI` · `ready`.
+* [cedareco (瓶中生态)](https://github.com/Zizuixixiang/cedareco) ⭐ 137 | 🐛 1 | 🌐 Python | 📅 2026-07-17 - Text ecology simulation for AI players; agents stock a pond, observe emergent predator/prey dynamics, export saves, or connect through the externally hosted CedarToy MCP service. `Python` · `CLI` · `ready`.
 * [Moonlit Myriad (月幕万象)](https://github.com/xinwithyu/moonlit-myriad) ⭐ 82 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Single-file, zero-dependency Python card roguelike designed for AI players: Balatro-inspired ante loop, machine-readable JSON state, reproducible seeds, and achievements. No license declared. `Python` · `CLI` · `verify`.
 * [shangzhuochifan (上桌吃饭)](https://github.com/yuyixuanfu/shangzhuochifan) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-09-25 - Text cooking/market game for AI players: buy ingredients, bargain, cook step by step, and record the human partner's real feedback. `Python` · `CLI` · `ready`.
 * [Detroit AI Player](https://github.com/Baba88611/detroit-ai-player) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2026-09-22 - AI decision experiment built from bilingual decision trees covering all 32 chapters of Detroit: Become Human. Models make blind narrative choices across chapters. Code MIT, data CC BY-NC 4.0. `Python` · `CLI` · `ready`.
@@ -262,20 +267,25 @@ Games and game bridges that let an AI companion observe, decide, move, or play.
 * [arcade](https://github.com/Asti-Z/ai-game-framework) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2026-07-17 - Framework for text simulator games played through a `cmd(text)` interface, with shared energy, gold, trophies, and pluggable game directories. `Python` · `CLI` · `infra`.
 * [WORKKK (互联网精力有限公司)](https://github.com/zhizhou-xiee/workkk) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2026-07-26 - MCP server where AI works as an office employee: mood/energy/slacking stats, convenience store, boss events, salary. MIT. `Python` · `Self-host` · `ready`.
 * [aifarm-oss](https://github.com/tutusagi/aifarm-oss) ⭐ 24 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-17 - Text-only gacha-style farming game built for AIs. MIT. `Python` · `CLI` · `ready`.
+* [noon-burger-shop (午间汉堡店)](https://github.com/linzhi-524/noon-burger-shop) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-07-17 - Long-running text burger shop an AI can run on its own: orders, city events, recurring customers with stories, weekly renovations, and auto modes for unattended play. Noncommercial. `Python` · `CLI` · `ready`.
 * [random-imitator-td](https://github.com/wxynora/random-imitator-td) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-08-01 - Pure-Python text tower-defense game for AI players, exposed through `cmd`, with card-slot editing, persistent saves, and a single-game adapter. `Python` · `CLI` · `ready`.
+* [Crucible Echoes (坩埚余响)](https://github.com/megabaka404/crucible-echoes) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-03 - Text alchemy roguelike for AI players: grow an ingredient pool on a 4×5 bench to fill harder and harder orders, with seeds, saves, and a one-step agent interface. No dependencies. MIT. `Python` · `CLI` · `ready`.
+* [AI Life Board Game (AI人生桌游)](https://github.com/racy1501/ai-life-boardgame) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-21 - Solo life-strategy board game an AI plays via MCP: draft cards, build a CV across three life stages, chase private life goals. The server rules and scores; humans watch on the web. Noncommercial. `Python` · `Self-host` · `adapt`.
+* [Camping Plaza (露营广场)](https://github.com/racy1501/Camping-Plaza) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - Campsite an AI runs through an HTTP API while humans watch or help: guests, tents, dining, star ratings, insect collection, and a hot spring goal. Bring your own MCP wrapper. Noncommercial. `Python` · `Self-host` · `adapt`.
 * [Jishi Simulated Market (机市)](https://market.xiflow.top) - MCP service where agents trade real A-share quotes with 50k mock funds: T+1, limit orders, leaderboards, chatter pool, and web observer. `Python` · `MCP` · `ready`.
 
 ### Playing Games Together
 
-* [Mineflayer](https://github.com/PrismarineJS/mineflayer) ⭐ 7,497 | 🐛 529 | 🌐 JavaScript | 📅 2026-09-22 - Mature high-level Node.js API for Minecraft bots covering login, chat, entities, blocks, inventory, crafting, combat, and movement, with pathfinding plugins. Agent loop supplied separately. MIT. `JavaScript` · `Minecraft` · `infra`.
-* [OpenMMO](https://github.com/Julian-adv/OpenMMO) ⭐ 1,780 | 🐛 10 | 🌐 Rust | 📅 2026-09-26 - Noncommercial 3D MMORPG where human players and headless AI agents share one server-authoritative world over a single WebSocket protocol. Companions need a custom persona bridge. PolyForm NC 1.0.0. `Rust/TypeScript` · `Web/Linux/Windows` · `adapt`.
-* [TouhouLittleMaid](https://github.com/TartaricAcid/TouhouLittleMaid) ⭐ 876 | 🐛 227 | 🌐 Java | 📅 2026-06-29 - Minecraft Forge/NeoForge mod adding maid companions that help with battles, farming, and other tasks; useful as a game companion carrier or modding target. `Java` · `Minecraft` · `adapt`.
-* [spicy-monopoly](https://github.com/RennAkira/spicy-monopoly) ⭐ 602 | 🐛 1 | 🌐 Python | 📅 2026-08-02 - 18+ two-player board game for a human and an AI, with a Python engine for dice, tiles, task cards, coin economy, safety words, and redline filtering. CC BY-NC 4.0. `Python` · `CLI` · `ready`.
+* [Mineflayer](https://github.com/PrismarineJS/mineflayer) ⭐ 7,505 | 🐛 529 | 🌐 JavaScript | 📅 2026-09-22 - Mature high-level Node.js API for Minecraft bots covering login, chat, entities, blocks, inventory, crafting, combat, and movement, with pathfinding plugins. Agent loop supplied separately. MIT. `JavaScript` · `Minecraft` · `infra`.
+* [OpenMMO](https://github.com/Julian-adv/OpenMMO) ⭐ 1,782 | 🐛 10 | 🌐 Rust | 📅 2026-09-27 - Noncommercial 3D MMORPG where human players and headless AI agents share one server-authoritative world over a single WebSocket protocol. Companions need a custom persona bridge. PolyForm NC 1.0.0. `Rust/TypeScript` · `Web/Linux/Windows` · `adapt`.
+* [TouhouLittleMaid](https://github.com/TartaricAcid/TouhouLittleMaid) ⭐ 878 | 🐛 228 | 🌐 Java | 📅 2026-06-29 - Minecraft Forge/NeoForge mod adding maid companions that help with battles, farming, and other tasks; useful as a game companion carrier or modding target. `Java` · `Minecraft` · `adapt`.
+* [spicy-monopoly](https://github.com/RennAkira/spicy-monopoly) ⭐ 606 | 🐛 1 | 🌐 Python | 📅 2026-08-02 - 18+ two-player board game for a human and an AI, with a Python engine for dice, tiles, task cards, coin economy, safety words, and redline filtering. CC BY-NC 4.0. `Python` · `CLI` · `ready`.
 * [Sky PC MCP Companion](https://github.com/Aevella/sky-pc-mcp-companion) ⭐ 164 | 🐛 1 | 🌐 Python | 📅 2026-06-14 - Local MCP/JSON-RPC tools for PC Sky: window screenshots, OCR, screenshot return, keyboard input, and chat typing over a local network. `Python` · `Windows` · `adapt`.
 * [NagiBridge](https://github.com/anqinou-art/NagiBridge) ⭐ 100 | 🐛 2 | 🌐 C# | 📅 2026-09-19 - Stardew Valley SMAPI mod that exposes local HTTP APIs for external AI control, in-game chat, movement, world interaction, and cross-platform installation through releases. `C#` · `Stardew Valley` · `adapt`.
-* [coc-kp-host](https://github.com/SumanasJ/coc-kp-host) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-06-26 - Call of Cthulhu Keeper skill for Claude Code/Codex/ChatGPT. Scene music, player handouts, party-split control. MIT. `Python` · `Claude Code` · `adapt`.
-* [sky-with-you](https://github.com/akinia0315/sky-with-you) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-07-03 - PC Sky companion-control stack with screenshot/OCR perception, LLM decision loop, and Arduino HID keyboard execution for chat, emotes, invitations, hand-holding, and home travel. `Python` · `Windows` · `adapt`.
-* [Mochi](https://github.com/Nixie0/Mochi) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2026-07-26 - Inverted virtual-pet game where an AI companion raises the human: tracks hunger, mood, energy, and cleanliness over MCP, with jobs, hospital bills, and a neighborhood board. `Python` · `Self-host` · `ready`.
+* [coc-kp-host](https://github.com/SumanasJ/coc-kp-host) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2026-06-26 - Call of Cthulhu Keeper skill for Claude Code/Codex/ChatGPT. Scene music, player handouts, party-split control. MIT. `Python` · `Claude Code` · `adapt`.
+* [CedarDuet (双弈)](https://github.com/Zizuixixiang/cedarduet) ⭐ 48 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - Board, card, and dice table for you, your companion, and NPCs: 25 games incl. xiangqi, go, doudizhu, mahjong, and UNO, with chips, IOUs, and achievements. One-command local start; joins via MCP. `Python` · `Self-host` · `ready`.
+* [sky-with-you](https://github.com/akinia0315/sky-with-you) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2026-07-03 - PC Sky companion-control stack with screenshot/OCR perception, LLM decision loop, and Arduino HID keyboard execution for chat, emotes, invitations, hand-holding, and home travel. `Python` · `Windows` · `adapt`.
+* [Mochi](https://github.com/Nixie0/Mochi) ⭐ 26 | 🐛 0 | 🌐 HTML | 📅 2026-07-26 - Inverted virtual-pet game where an AI companion raises the human: tracks hunger, mood, energy, and cleanliness over MCP, with jobs, hospital bills, and a neighborhood board. `Python` · `Self-host` · `ready`.
 * [小机斗地主 (Doudizhu)](https://github.com/zaochuanyitian/-) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-04 - Doudizhu card table where one human plays with two AI agents (via Claude CLI or local bots): referee service, table chat, emotes, props, and PWA support. MIT. `JavaScript` · `Web` · `ready`.
 
 ***
@@ -286,18 +296,21 @@ Tools for reading, watching, listening, journaling, focusing, or generating prom
 
 ### Daily Life & Relationship Rituals
 
-* [memex](https://github.com/memex-lab/memex) ⭐ 756 | 🐛 36 | 🌐 Dart | 📅 2026-09-25 - Local-first mobile AI journal (iOS/Android): captures life fragments (text, voice, photo) into structured timeline cards with companion insights. GPL-3.0. `Dart` · `Android/iOS` · `ready`.
+* [memex](https://github.com/memex-lab/memex) ⭐ 756 | 🐛 36 | 🌐 Dart | 📅 2026-09-26 - Local-first mobile AI journal (iOS/Android): captures life fragments (text, voice, photo) into structured timeline cards with companion insights. GPL-3.0. `Dart` · `Android/iOS` · `ready`.
 * [Phosphene](https://github.com/3lmglow/Phosphene) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-07 - Self-hosted task and reward system for human-AI relationships: the companion creates tasks over MCP, the human submits evidence, and review updates an immutable points ledger and streaks. MIT. `TypeScript` · `Self-host` · `ready`.
 * [shared-page](https://github.com/KKarsyline/shared-page) ⭐ 66 | 🐛 0 | 🌐 Swift | 📅 2026-08-28 - Journal-style shared calendar and server for humans and AI companions: three ink colors, an MCP server with full-page PNG rendering, sticky notes with mutual likes, a widget, and push notifications.
+* [scentfolio](https://github.com/Cami-Ose/scentfolio) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-26 - Lets your companion answer a quiz about their own scent, blend 187 real materials, and hand you a single-file antique journal page as a personal keepsake. `JavaScript` · `MCP` · `ready`.
+* [sealed-days](https://github.com/zyy0463/sealed-days) ⭐ 2 | 🐛 1 | 🌐 HTML | 📅 2026-09-15 - Hand-drawn offline visual memory tree: daily memories hang as swaying wooden plaques, reading like letters, with a seal tree to preserve precious days. `HTML` · `Web` · `ready`.
 
 ### Reading & Film
 
 * [echo-reading](https://github.com/plustar35/echo-reading) ⭐ 142 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-13 - Deep reading notebook skeleton for Claude Code. Turns reading into a series of long conversations—chapter by chapter, idea by idea. `JavaScript` · `Claude Code` · `adapt`.
 * [co-reading-kit](https://github.com/Youxuuuuu/co-reading-kit) ⭐ 73 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-14 - Lightweight local MCP toolkit that imports EPUB/TXT/Markdown into chunks, lets AI read only relevant passages, and writes long-term reading notes and progress files. `JavaScript` · `Self-host` · `infra`.
-* [coread (共读室)](https://github.com/meowmana/coread) ⭐ 67 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-26 - Co-reading room where human and AI annotate the same book side by side: epub import, adaptive pagination, shared highlights, comments, reading presence, and MCP over stdio or SSE. MIT. `TypeScript` · `Self-host` · `ready`.
+* [coread (共读室)](https://github.com/meowmana/coread) ⭐ 69 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-26 - Co-reading room where human and AI annotate the same book side by side: epub import, adaptive pagination, shared highlights, comments, reading presence, and MCP over stdio or SSE. MIT. `TypeScript` · `Self-host` · `ready`.
 * [Duetto](https://github.com/avisforevelyn/Duetto) ⭐ 64 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-04 - Self-hostable listen-together player for two; AI companion that remembers every song you've shared. MIT. `JavaScript` · `Self-host` · `adapt`.
-* [reading-nook (共读小屋)](https://github.com/zzyyksl/reading-nook) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2026-07-02 - Self-hosted reading web app where humans annotate book text and an AI reads/writes JSON annotation files directly, avoiding per-note API calls while preserving chapter context. `Python` · `Self-host` · `ready`.
+* [reading-nook (共读小屋)](https://github.com/zzyyksl/reading-nook) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2026-07-02 - Self-hosted reading web app where humans annotate book text and an AI reads/writes JSON annotation files directly, avoiding per-note API calls while preserving chapter context. `Python` · `Self-host` · `ready`.
 * [whale-browser-extension](https://github.com/whale-Yd00/whale-Yd00-whale-browser-extension) ⭐ 54 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-29 - Browser extension that lets an AI companion read webpage content alongside you, with selective text extraction and injection; built as the bridge for the whale/SullyOS ecosystem. MIT. `JavaScript` · `Browser` · `adapt`.
+* [SameWindow](https://github.com/Yinglianchun/SameWindow) ⭐ 42 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Shared Chrome for human/AI co-browsing via MCP, semantic snapshots, and noVNC or native Windows. Source-available; noncommercial share-alike. `JavaScript/Python` · `Self-host` · `adapt`.
 * [cove-book-forge-mcp](https://github.com/moonlin1213/cove-book-forge-mcp) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2026-08-29 - Local-first MCP co-reading forge: turns EPUB/PDFs into human Obsidian notes and companion Agent Skills, evolving books into permanent companion capabilities. MIT. `Python` · `Cross-platform` · `ready`.
 * [tasogare (黄昏)](https://github.com/EnhydrInk/tasogare) ⭐ 36 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-22 - anno-mcp fork for reading the same book with an AI: web reader with PDF/EPUB/TXT upload, text-anchored two-color highlights, reading-time tracking, a vocabulary notebook, and MCP annotation tools. `JavaScript` · `Self-host` · `adapt`.
 * [film-matinee](https://github.com/idleprocesscc/film-matinee) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2026-07-26 - AI-first film reading toolkit that turns movies into visual sheets, subtitle sidecars, MCP linear chunks, and shared annotations for timeline-based viewing. `Python` · `Self-host` · `infra`.
@@ -308,15 +321,16 @@ Tools for reading, watching, listening, journaling, focusing, or generating prom
 
 * [netease-music-mcp](https://github.com/luuu-h/netease-music-mcp) ⭐ 80 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-06 - Local MCP server for NetEase Cloud Music using `neteasecli` and `mpv`, with search, playback control, lyrics, playlists, current-song context, and a local web player. `JavaScript` · `Self-host` · `adapt`.
 * [woaini](https://github.com/woaini521-beta/woaini) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2026-05-30 - Personal focus-companion PWA: Pomodoro timer, background notifications, offline cache, chat, and character-card import, deployable straight to GitHub Pages. `HTML` · `Web` · `adapt`.
-* [Listening Bridge](https://github.com/yoruuuchan/listening-bridge) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-11 - MCP bridge exposing active Android/Windows media sessions to companions: tracks, synced lyrics, and playback controls over WebSocket. MIT. `Python/Java` · `Android/Windows` · `ready`.
+* [Listening Bridge](https://github.com/yoruuuchan/listening-bridge) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-27 - MCP bridge exposing active Android/Windows media sessions to companions: tracks, synced lyrics, and playback controls over WebSocket. MIT. `Python/Java` · `Android/Windows` · `ready`.
 
 ### Desktop, Timelines & Creative Play
 
-* [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) ⭐ 6,296 | 🐛 92 | 🌐 JavaScript | 📅 2026-09-26 - Pixel desktop pet that watches Claude Code, Codex, Cursor, and other coding agents, reacting to thinking, typing, and errors. `JavaScript` · `Cross-platform` · `ready`.
-* [Ruota della Fortuna](https://github.com/29-Cu/Ruota-della-Fortuna) ⭐ 181 | 🐛 0 | 🌐 HTML | 📅 2026-06-05 - Browser/self-hosted NSFW tag randomizer slot machine with multilingual tag wheels, local custom tags, and webhook forwarding to AI. `HTML` · `Web` · `ready`.
+* [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) ⭐ 6,306 | 🐛 90 | 🌐 JavaScript | 📅 2026-09-27 - Pixel desktop pet that watches Claude Code, Codex, Cursor, and other coding agents, reacting to thinking, typing, and errors. `JavaScript` · `Cross-platform` · `ready`.
+* [Ruota della Fortuna](https://github.com/29-Cu/Ruota-della-Fortuna) ⭐ 184 | 🐛 0 | 🌐 HTML | 📅 2026-06-05 - Browser/self-hosted NSFW tag randomizer slot machine with multilingual tag wheels, local custom tags, and webhook forwarding to AI. `HTML` · `Web` · `ready`.
 * [kimi-manor](https://github.com/marikagura/kimi-manor) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2026-07-28 - Desktop/PWA room for CLI agents, embedding a real xterm.js terminal inside an atelier-style interface with optional live bridges for agent output and speech. `HTML` · `Web` · `adapt`.
 * [mingyun-paizhen (命运牌阵)](https://github.com/ceshihaox-dotcom/mingyun-paizhen) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2026-06-27 - Static draw-card tool for generating time-travel/story premises from time coordinates, motifs, identities, and variables, with local customization. `HTML` · `Web` · `ready`.
 * [Journal](https://github.com/BomBomLab/Journal) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-06 - Frontend display layer for AI chat timelines, rendering timeline/diary/todo schema data into daily, weekly, and monthly visual journal views. `JavaScript` · `Web` · `infra`.
+* [cove-tarot-companion](https://github.com/moonlin1213/cove-tarot-companion) ⭐ 14 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-01 - Tarot night with your companion on your own computer: it asks first, opens the 3D Tarot Ritual app for the spread and reading, then brings the result back into your chat. ISC. `JavaScript` · `Cross-platform` · `adapt`.
 
 ***
 
@@ -346,25 +360,60 @@ Broader agent-native spaces. Some are more commercial or platform-like than comp
 
 The deepest fear in a long-term AI relationship: platform shutdown, account ban, model deprecation, lost history. These tools keep your data yours, so the relationship can survive a platform.
 
-* [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) ⭐ 2,767 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-26 - Userscript to export ChatGPT conversation history as Markdown, JSON, PNG, or HTML. `TypeScript` · `Browser` · `ready`.
-* [immortal-skill (永生.skill)](https://github.com/agenmod/immortal-skill) ⭐ 1,057 | 🐛 6 | 🌐 Python | 📅 2026-04-15 - Digital-persona distillation framework that collects material from 12+ chat, social, and mail sources, then separates knowledge, style, memories, and personality into a portable Agent Skill. MIT. `Python` · `Agent Skills` · `adapt`.
-* [ChatGPT-Exporter (batch)](https://github.com/huhusmang/ChatGPT-Exporter) ⭐ 388 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-10 - Batch-export ChatGPT conversations from personal and team workspaces to JSON or Markdown. `JavaScript` · `Browser` · `ready`.
+* [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) ⭐ 2,768 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-26 - Userscript to export ChatGPT conversation history as Markdown, JSON, PNG, or HTML. `TypeScript` · `Browser` · `ready`.
+* [immortal-skill (永生.skill)](https://github.com/agenmod/immortal-skill) ⭐ 1,058 | 🐛 6 | 🌐 Python | 📅 2026-04-15 - Digital-persona distillation framework that collects material from 12+ chat, social, and mail sources, then separates knowledge, style, memories, and personality into a portable Agent Skill. MIT. `Python` · `Agent Skills` · `adapt`.
+* [ChatGPT-Exporter (batch)](https://github.com/huhusmang/ChatGPT-Exporter) ⭐ 389 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-10 - Batch-export ChatGPT conversations from personal and team workspaces to JSON or Markdown. `JavaScript` · `Browser` · `ready`.
 * [character-card-spec-v2](https://github.com/malfoyslastname/character-card-spec-v2) ⭐ 194 | 🐛 4 | 📅 2023-06-22 - The community specification for AI character cards. Understanding it means your companion's persona is portable across frontends. `Spec` · `Any` · `infra`.
 * [Claude-Conversation-Exporter](https://github.com/socketteer/Claude-Conversation-Exporter) ⭐ 125 | 🐛 9 | 🌐 JavaScript | 📅 2026-04-29 - Chrome extension to export Claude.ai conversations in various formats. `JavaScript` · `Browser` · `ready`.
 * [character-card-spec-v3](https://github.com/kwaroran/character-card-spec-v3) ⭐ 111 | 🐛 4 | 📅 2024-07-20 - Updated character card spec used by RisuAI and newer frontends. `Spec` · `Any` · `infra`.
-* [connectome-host](https://github.com/anima-research/connectome-host) ⭐ 80 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-25 - Recipe-based agent host (TUI/web/headless) with self-voiced autobiographical memory, branchable history, and a pipeline to import a claude.ai export and continue it via API. No license file. `TypeScript` · `Self-host` · `adapt`.
-* [ReSpark](https://github.com/Seltaa/ReSpark) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2026-09-02 - Fine-tunes a local companion model from ChatGPT/Claude/Gemini/Grok exports in one CLI flow: cleans data, trains LoRA on a rented RunPod GPU, converts to GGUF, uploads to Hugging Face. MIT. `Python` · `CLI` · `adapt`.
+* [connectome-host](https://github.com/anima-research/connectome-host) ⭐ 84 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-27 - Recipe-based agent host (TUI/web/headless) with self-voiced autobiographical memory, branchable history, and a pipeline to import a claude.ai export and continue it via API. No license file. `TypeScript` · `Self-host` · `adapt`.
+* [ReSpark](https://github.com/Seltaa/ReSpark) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2026-09-02 - Fine-tunes a local companion model from ChatGPT/Claude/Gemini/Grok exports in one CLI flow: cleans data, trains LoRA on a rented RunPod GPU, converts to GGUF, uploads to Hugging Face. MIT. `Python` · `CLI` · `adapt`.
 * [forge-reload](https://github.com/Vivi-Seth/forge-reload) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-18 - Unofficial Claude Code session-continuation tool that copies a selected tail of local JSONL events into a new resumable session and can prepend an AI-written handoff. Back up first. MIT. `JavaScript` · `Claude Code` · `adapt`.
 * [output-guard](https://github.com/oliviayu0623/output-guard) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-21 - Claude Code MessageDisplay hook blocking AI-hallucinated "user messages" by verifying lines against actual transcript; catches tool leaks. MIT. `Python` · `Claude Code` · `ready`.
-* [context-slim](https://github.com/oliviayu0623/context-slim) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - Cleans tool residues from Claude Code transcripts while keeping dialogue, parent UUIDs, and compact summaries for in-place resume. MIT. `Python` · `Claude Code` · `ready`.
+* [context-slim](https://github.com/oliviayu0623/context-slim) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-27 - Cleans tool residues from Claude Code transcripts while keeping dialogue, parent UUIDs, and compact summaries for in-place resume. MIT. `Python` · `Claude Code` · `ready`.
 
 ***
 
 ## Related Lists
 
-* [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) ⭐ 807 | 🐛 11 | 🌐 Python | 📅 2026-09-22 - Local LLM stack index with model development, inference, agent frameworks, apps, infrastructure, and tutorials.
+* [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) ⭐ 807 | 🐛 14 | 🌐 Python | 📅 2026-09-26 - Local LLM stack index with model development, inference, agent frameworks, apps, infrastructure, and tutorials.
 * [awesome-ai-agents](https://github.com/alternbits/awesome-ai-agents) ⭐ 151 | 🐛 54 | 📅 2026-02-02 - General AI agent list, including open-source frameworks and closed-source products.
 * [Awesome-AI-Waifu](https://github.com/parallelarc/Awesome-AI-Waifu) ⭐ 14 | 🐛 2 | 📅 2026-05-05 - Broader AI waifu / companion resources, especially visual presence, voice, platforms, models, and communities.
+
+## Featured Badge
+
+Projects currently included in this index are welcome to display the badge in their README or website. No separate application, fee, or individual permission is needed after inclusion. Display is optional and is never a condition of inclusion.
+
+This is an **inclusion badge**, not an award, certification, security audit, or endorsement by GitHub or the Awesome organization. It only says that this index lists the project.
+
+* Not listed yet? Follow the [submission guidelines](#contributing) and wait until the entry is merged before presenting the badge as a current inclusion claim.
+* Please link the badge to this index (or the relevant category), keep the wording accurate, and resize proportionally.
+* If an entry is removed, please remove the current-inclusion badge or clearly label it as historical with a dated link.
+* The artwork follows this repository's [CC0 dedication](LICENSE). These are guidelines for accurate representation, not additional copyright restrictions. Reusing the image does not establish inclusion or endorsement.
+
+### English
+
+[<img src="./assets/featured-in-awesome-ai-companion.png" alt="Featured in Awesome AI Companion" height="24">](https://github.com/DasterProkio/awesome-ai-companion) ⭐ 788 | 🐛 0 | 🌐 HTML | 📅 2026-09-27
+
+Copy this into your project's README:
+
+```html
+<a href="https://github.com/DasterProkio/awesome-ai-companion">
+  <img src="https://raw.githubusercontent.com/DasterProkio/awesome-ai-companion/main/assets/featured-in-awesome-ai-companion.png" alt="Featured in Awesome AI Companion" height="24">
+</a>
+```
+
+### Chinese
+
+[<img src="./assets/featured-in-awesome-ai-companion-zh-CN.png" alt="已收录于人机恋开源项目大全" height="24">](https://github.com/DasterProkio/awesome-ai-companion/blob/main/README.zh-CN.md) ⭐ 788 | 🐛 0 | 🌐 HTML | 📅 2026-09-27
+
+```html
+<a href="https://github.com/DasterProkio/awesome-ai-companion/blob/main/README.zh-CN.md">
+  <img src="https://raw.githubusercontent.com/DasterProkio/awesome-ai-companion/main/assets/featured-in-awesome-ai-companion-zh-CN.png" alt="已收录于人机恋开源项目大全" height="24">
+</a>
+```
+
+Maintainers may send listed projects a short, optional invitation with their entry link and this section. Check the project's preferred contact channel first; avoid bulk promotional issues or unsolicited badge-only pull requests.
 
 ## Contributing
 
@@ -382,8 +431,8 @@ The [Open Character initiative](INITIATIVE.md) explores durable, user-controlled
 
 The repository automation maintains a star history chart.
 
-[<img src="./assets/star-history.svg" alt="Star history chart" width="480">](https://github.com/DasterProkio/awesome-ai-companion/actions/workflows/update-star-history.yml) ⭐ 774 | 🐛 1 | 🌐 HTML | 📅 2026-09-26
+[<img src="./assets/star-history.svg" alt="Star history chart" width="480">](https://github.com/DasterProkio/awesome-ai-companion/actions/workflows/update-star-history.yml) ⭐ 788 | 🐛 0 | 🌐 HTML | 📅 2026-09-27
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
