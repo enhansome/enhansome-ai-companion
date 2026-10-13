@@ -15,11 +15,11 @@
             "id": 937253475,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-11T19:07:17Z",
-            "open_issues": 14739,
+            "last_commit": "2026-10-13T04:34:05Z",
+            "open_issues": 14784,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 150380,
+            "stars": 150591,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -37,10 +37,10 @@
             "language": "Kotlin",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-05T16:58:09Z",
-            "open_issues": 214,
+            "open_issues": 211,
             "owner": "AAswordman",
             "repo": "Operit",
-            "stars": 8607,
+            "stars": 8633,
             "topics": [
               "agent",
               "ai",
@@ -67,11 +67,11 @@
             "id": 946702247,
             "language": "Kotlin",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T15:48:22Z",
+            "last_commit": "2026-10-13T15:19:48Z",
             "open_issues": 268,
             "owner": "rikkahub",
             "repo": "rikkahub",
-            "stars": 8151,
+            "stars": 8161,
             "topics": [
               "agent",
               "android",
@@ -103,7 +103,7 @@
             "open_issues": 3,
             "owner": "death34018-hue",
             "repo": "AionsHome",
-            "stars": 887,
+            "stars": 888,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -176,7 +176,7 @@
             "open_issues": 13,
             "owner": "sue1231513",
             "repo": "orangechat",
-            "stars": 410,
+            "stars": 412,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -239,7 +239,7 @@
             "open_issues": 2,
             "owner": "Aevella",
             "repo": "polaris-local-first",
-            "stars": 321,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -278,7 +278,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-23T13:33:14Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "kiyotakali",
             "repo": "Miru",
             "stars": 175,
@@ -362,7 +362,7 @@
             "open_issues": 0,
             "owner": "Lin-chpin",
             "repo": "rikkahub-Jude",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -383,10 +383,67 @@
             "open_issues": 2,
             "owner": "AZHi-xinxin",
             "repo": "Orbis",
-            "stars": 57,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-10-01T15:30:13.191Z"
+        },
+        {
+          "node_type": "item",
+          "title": "companion-emergence",
+          "description": "Local-first framework for a companion with a life of her own: persistent emotional and body state, Hebbian-linked memory, nightly dreams, private journal, Tauri desktop app. Runs on Claude Code. MIT. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first AI companion framework — persistent memory, emotional state, dreaming, embodied avatar. Desktop app + Python brain. macOS · Linux · Windows. Runs against Claude.",
+            "homepage": null,
+            "id": 1217368484,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-13T14:39:04Z",
+            "open_issues": 78,
+            "owner": "hanamorix",
+            "repo": "companion-emergence",
+            "stars": 58,
+            "topics": [
+              "ai-companion",
+              "claude",
+              "emotional-ai",
+              "local-first",
+              "memory-system",
+              "python",
+              "tauri"
+            ]
+          },
+          "first_seen": "2026-10-13T16:05:50.567Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MIRROW",
+          "description": "Local single-user companion core and app: source-traced memory plus revisable cognition books, a proactive \"wander\" engine that checks before interrupting, sensing, co-listening. MIT; music part NC. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MIRROW：本地 AI 伴侣核心与独立应用｜聊天、记忆认知、漫想、共域与共享耳蜗",
+            "homepage": null,
+            "id": 1304107002,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-13T09:03:13Z",
+            "open_issues": 1,
+            "owner": "EvelynnYu",
+            "repo": "MIRROW",
+            "stars": 41,
+            "topics": [
+              "ai-agent",
+              "ai-companion",
+              "chinese",
+              "fastapi",
+              "llm",
+              "python"
+            ]
+          },
+          "first_seen": "2026-10-13T16:05:50.567Z"
         },
         {
           "node_type": "item",
@@ -425,7 +482,7 @@
             "open_issues": 1,
             "owner": "tjing9430",
             "repo": "cc-companion-app",
-            "stars": 31,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -484,7 +541,7 @@
             "id": 1236597439,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T17:41:17Z",
+            "last_commit": "2026-10-13T14:43:54Z",
             "open_issues": 3,
             "owner": "in30mn1a",
             "repo": "LumiMuse",
@@ -660,8 +717,8 @@
             "id": 1263743904,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T05:39:40Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-13T06:54:22Z",
+            "open_issues": 0,
             "owner": "V1rtual-Klavte",
             "repo": "Desk-Pet",
             "stars": 4,
@@ -780,7 +837,7 @@
             "open_issues": 30,
             "owner": "xiaolongbao0709",
             "repo": "ai-virtual-phone",
-            "stars": 1801,
+            "stars": 1813,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -822,7 +879,7 @@
             "open_issues": 0,
             "owner": "Sui-IB",
             "repo": "InternalBeyond",
-            "stars": 643,
+            "stars": 646,
             "topics": [
               "html5-game"
             ]
@@ -845,7 +902,7 @@
             "open_issues": 12,
             "owner": "qegj567-cloud",
             "repo": "SullyOS",
-            "stars": 453,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -866,7 +923,7 @@
             "open_issues": 1,
             "owner": "xinwithyu",
             "repo": "dwell-on-something",
-            "stars": 219,
+            "stars": 220,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -915,6 +972,33 @@
         },
         {
           "node_type": "item",
+          "title": "Fuyue (赴约)",
+          "description": "Local-first companion phone PWA plus Android app: reviewable three-tier memory, portable home export, keys only in a private relay or Keystore, interruptible Chinese voice calls. Beta. AGPL-3.0. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first AI companion PWA with optional Android shell, self-hosted relay, portable memory, and reusable UI packs.",
+            "homepage": "https://tangfanovo.github.io/fuyue/",
+            "id": 1353483529,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-21T20:41:23Z",
+            "open_issues": 1,
+            "owner": "TangfanOVO",
+            "repo": "fuyue",
+            "stars": 76,
+            "topics": [
+              "ai-companion",
+              "capacitor",
+              "local-first",
+              "pwa",
+              "react"
+            ]
+          },
+          "first_seen": "2026-10-13T16:05:50.567Z"
+        },
+        {
+          "node_type": "item",
           "title": "柚月小手机 (Yuzuki's Little Phone)",
           "description": "SillyTavern-oriented virtual phone system with WeChat-like chat, Moments, Weibo trends, video calls, story injection mode, and an independent API mode that avoids polluting the main roleplay log. · · .",
           "children": [],
@@ -925,7 +1009,7 @@
             "id": 1206471939,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-12T18:00:45Z",
+            "last_commit": "2026-10-13T08:12:41Z",
             "open_issues": 2,
             "owner": "gaigai315",
             "repo": "yuzuki-phone",
@@ -933,6 +1017,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Aery",
+          "description": "Single-file BYO-API companion phone plus APK: custom desktop and widgets, solo/group chat, inner thoughts, co-listening, moments, forum, mutual phone checks, TRPG. No OSS license; free, no resale. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Aery 23.8 | AI小手机",
+            "homepage": null,
+            "id": 1350372781,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-10-12T15:19:03Z",
+            "open_issues": 0,
+            "owner": "Aevori-lyn",
+            "repo": "aery",
+            "stars": 42,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T16:05:50.567Z"
         },
         {
           "node_type": "item",
@@ -985,6 +1090,27 @@
         },
         {
           "node_type": "item",
+          "title": "Hamster Nest (仓鼠小窝)",
+          "description": "Single-user Supabase PWA nest: chat/RP, reading notes, memory wiki, async multi-AI lounge and council, plus 6 MCP servers (88 tools). Fork guide; local Mac runtime (WeChat, CLI) not open. MIT. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1147662634,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-13T13:16:31Z",
+            "open_issues": 0,
+            "owner": "chuan-101",
+            "repo": "Hamster-Nest",
+            "stars": 34,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:13:57.201Z"
+        },
+        {
+          "node_type": "item",
           "title": "Anzhi's Phone (安知手机)",
           "description": "LineageOS 23.2 custom ROM that lets an AI agent live in the OS as a privileged system service: reads and operates the UI via accessibility, triages notifications, wakes on schedules and device events, dreams, and leaves last words at shutdown. Pixel 6a only, build from source; the VPS brain is not included. Code non-commercial share-alike, design all rights reserved. · · .",
           "children": [],
@@ -1003,27 +1129,6 @@
             "topics": []
           },
           "first_seen": "2026-10-07T15:37:11.822Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Hamster Nest (仓鼠小窝)",
-          "description": "A hamster's digital nest: chat, reading tracker, notes/todos, voice, timeline, and an agent council for multi-AI collaboration. PWA. Heavily personalized — best mined as an architecture reference. · · .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1147662634,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-11T10:49:43Z",
-            "open_issues": 0,
-            "owner": "chuan-101",
-            "repo": "Hamster-Nest",
-            "stars": 33,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:13:57.201Z"
         },
         {
           "node_type": "item",
@@ -1062,7 +1167,7 @@
             "open_issues": 0,
             "owner": "Yyk-Y2k",
             "repo": "ai-virtual-phone-Y2Kversion",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-10-11T14:57:29.100Z"
@@ -1127,11 +1232,11 @@
             "id": 575865240,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T15:13:20Z",
-            "open_issues": 1068,
+            "last_commit": "2026-10-13T14:52:56Z",
+            "open_issues": 1051,
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 41779,
+            "stars": 41826,
             "topics": [
               "agent",
               "ai",
@@ -1166,11 +1271,11 @@
             "id": 982183014,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T05:55:15Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-13T14:39:08Z",
+            "open_issues": 1,
             "owner": "lioensky",
             "repo": "VCPToolBox",
-            "stars": 2363,
+            "stars": 2367,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -1226,11 +1331,11 @@
             "id": 1204060839,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T09:54:03Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-13T15:44:45Z",
+            "open_issues": 56,
             "owner": "laude-institute",
             "repo": "headlong",
-            "stars": 1219,
+            "stars": 1220,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -1251,7 +1356,7 @@
             "open_issues": 6,
             "owner": "callie0313",
             "repo": "dylan-heartbeat",
-            "stars": 439,
+            "stars": 441,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -1272,7 +1377,7 @@
             "open_issues": 19,
             "owner": "Pancakes-Labs",
             "repo": "astrbot_plugin_proactive_chat",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "agent",
               "ai",
@@ -1311,7 +1416,7 @@
             "open_issues": 7,
             "owner": "menglimi",
             "repo": "astrbot_plugin_private_companion",
-            "stars": 390,
+            "stars": 391,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -1332,7 +1437,7 @@
             "open_issues": 1,
             "owner": "anhe2021212-spec",
             "repo": "Tidal_Echo",
-            "stars": 312,
+            "stars": 317,
             "topics": [
               "ai-agents",
               "ai-companion",
@@ -1678,11 +1783,11 @@
                 "id": 1086419061,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T15:59:57Z",
-                "open_issues": 149,
+                "last_commit": "2026-10-13T14:55:14Z",
+                "open_issues": 161,
                 "owner": "vectorize-io",
                 "repo": "hindsight",
-                "stars": 48764,
+                "stars": 49128,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -1708,7 +1813,7 @@
                 "open_issues": 14,
                 "owner": "VictorTaelin",
                 "repo": "OptMem",
-                "stars": 2134,
+                "stars": 2155,
                 "topics": []
               },
               "first_seen": "2026-10-08T15:42:12.223Z"
@@ -1729,7 +1834,7 @@
                 "open_issues": 21,
                 "owner": "P0luz",
                 "repo": "Ombre-Brain",
-                "stars": 1446,
+                "stars": 1449,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -1750,7 +1855,7 @@
                 "open_issues": 5,
                 "owner": "Dataojitori",
                 "repo": "nocturne_memory",
-                "stars": 1390,
+                "stars": 1391,
                 "topics": [
                   "agentic-ai",
                   "ai-identity",
@@ -1819,7 +1924,7 @@
                 "open_issues": 15,
                 "owner": "lxfight-s-Astrbot-Plugins",
                 "repo": "astrbot_plugin_livingmemory",
-                "stars": 353,
+                "stars": 354,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -1840,7 +1945,7 @@
                 "open_issues": 4,
                 "owner": "LucieEveille",
                 "repo": "kiwi-mem",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "ai-companion",
                   "ai-companion-systems",
@@ -1880,7 +1985,7 @@
                 "open_issues": 4,
                 "owner": "ClaraShafiq",
                 "repo": "MemoryConstellations",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -1897,11 +2002,11 @@
                 "id": 1304783749,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T10:28:42Z",
+                "last_commit": "2026-10-13T04:00:44Z",
                 "open_issues": 0,
                 "owner": "Yinglianchun",
                 "repo": "Serein",
-                "stars": 175,
+                "stars": 180,
                 "topics": [
                   "ai-gateway",
                   "ai-memory",
@@ -1915,7 +2020,7 @@
             {
               "node_type": "item",
               "title": "Pawwake (爪迹, formerly ai-memory-gateway)",
-              "description": "Gateway that adds long-term memory to any OpenAI-compatible LLM: PostgreSQL/pgvector storage, partitioned caching, and multi-stage memory consolidation. AGPLv3. · · .",
+              "description": "OpenAI-compatible memory gateway: fragment/event/core memory tiers with reviewable AI merge drafts, hybrid keyword+vector recall, raw chat recall, prompt-cache partitioning, and a dashboard. AGPLv3. · · .",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1924,7 +2029,7 @@
                 "id": 1167483074,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-11T09:41:06Z",
+                "last_commit": "2026-10-13T11:20:24Z",
                 "open_issues": 0,
                 "owner": "garan0613",
                 "repo": "pawwake",
@@ -1951,11 +2056,11 @@
                 "id": 1175320587,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-12T06:12:59Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-13T13:08:35Z",
+                "open_issues": 0,
                 "owner": "wusaki0723",
                 "repo": "Aelios",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "ai-memory",
                   "cloudflare-workers",
@@ -2093,7 +2198,7 @@
                 "id": 1365403622,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T15:40:11Z",
+                "last_commit": "2026-10-13T12:40:45Z",
                 "open_issues": 0,
                 "owner": "mycyg",
                 "repo": "kin-mind",
@@ -2156,6 +2261,32 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Xinchao·Nian (心潮·念)",
+              "description": "Chinese drive engine fused with Ombre-Brain memory: eleven longing/curiosity-style drives, two-layer emotions, slow-moving temperament, dreams, one-command Docker deploy. AGPL, non-commercial. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "心潮念（Xinchao·Nian）— 会惦记你的AI心智：心潮动态驱力引擎 + Ombre Brain 记忆库深度融合，一键联合部署。非商业(含OB二改约束)。",
+                "homepage": null,
+                "id": 1328468175,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-12T02:20:35Z",
+                "open_issues": 6,
+                "owner": "tianyupaipai-cmd",
+                "repo": "xinchao-nian",
+                "stars": 254,
+                "topics": [
+                  "ai-companion",
+                  "docker-compose",
+                  "mcp",
+                  "memory"
+                ]
+              },
+              "first_seen": "2026-10-13T16:05:50.567Z"
+            },
             {
               "node_type": "item",
               "title": "Eventide",
@@ -2227,6 +2358,27 @@
             },
             {
               "node_type": "item",
+              "title": "ai-daily-rules-tutorial",
+              "description": "Chinese guide for letting your companion keep daily rules and adjust standards (D/s, study supervision): always-visible rules, memo tool, time injection; RikkaHub code included. CC BY-NC-SA. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AI 日常调教/动态调整规则思路：人机恋向（主要是D/s向）教程。可以让 AI 老师管理日常规则并动态调整标准。适用于日常生活监督/调教/督学等场景。含思路讲解 + 完整代码实现（TimeReminderTransformer + MemoEntity + 工具描述提示词）",
+                "homepage": null,
+                "id": 1390924608,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-10T14:45:49Z",
+                "open_issues": 1,
+                "owner": "Ephemera1117",
+                "repo": "ai-daily-rules-tutorial",
+                "stars": 64,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T16:05:50.567Z"
+            },
+            {
+              "node_type": "item",
               "title": "Tidefall",
               "description": "Supabase-native body-state system for AI companions: six-phase cycles, seven drifting values, 18 short-term events, pg_cron automation, and a browser dashboard. Based on Eventide. PolyForm NC 1.0.0. · · .",
               "children": [],
@@ -2262,7 +2414,7 @@
                 "open_issues": 0,
                 "owner": "ceshihaox-dotcom",
                 "repo": "pilulier",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-09-29T14:53:21.634Z"
@@ -2380,7 +2532,7 @@
                 "open_issues": 896,
                 "owner": "RVC-Boss",
                 "repo": "GPT-SoVITS",
-                "stars": 62724,
+                "stars": 62763,
                 "topics": [
                   "text-to-speech",
                   "tts",
@@ -2404,11 +2556,11 @@
                 "id": 702796244,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T08:48:41Z",
+                "last_commit": "2026-10-13T16:05:04Z",
                 "open_issues": 14,
                 "owner": "fishaudio",
                 "repo": "fish-speech",
-                "stars": 33012,
+                "stars": 33027,
                 "topics": [
                   "llama",
                   "transformer",
@@ -2437,7 +2589,7 @@
                 "open_issues": 413,
                 "owner": "index-tts",
                 "repo": "index-tts",
-                "stars": 24444,
+                "stars": 24469,
                 "topics": [
                   "bigvgan",
                   "cross-lingual",
@@ -2463,10 +2615,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-25T18:15:40Z",
-                "open_issues": 670,
+                "open_issues": 668,
                 "owner": "QwenAudio",
                 "repo": "CosyVoice",
-                "stars": 23929,
+                "stars": 23942,
                 "topics": [
                   "audio-generation",
                   "cantonese",
@@ -2507,7 +2659,7 @@
                 "open_issues": 0,
                 "owner": "sanqianzilanyue",
                 "repo": "ai-voice-breath-kiss-water",
-                "stars": 227,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-10-01T15:30:13.191Z"
@@ -2570,10 +2722,31 @@
                 "open_issues": 0,
                 "owner": "Yinglianchun",
                 "repo": "voice-mcp",
-                "stars": 44,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
+            },
+            {
+              "node_type": "item",
+              "title": "call_call",
+              "description": "Chinese write-up with Swift excerpts on smoothing real-time voice calls: backchannel filtering of \"嗯/对\", recoverable barge-in, playback-aligned context, silence handling, turn detection. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "在自用前端上为了提高通话体验做的一些细节处理分享与参考库推荐",
+                "homepage": null,
+                "id": 1410195638,
+                "language": "Swift",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-08T11:24:47Z",
+                "open_issues": 1,
+                "owner": "KKarsyline",
+                "repo": "call_call",
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-10-13T16:05:50.567Z"
             },
             {
               "node_type": "item",
@@ -2677,11 +2850,11 @@
                 "id": 896924279,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T17:03:52Z",
-                "open_issues": 231,
+                "last_commit": "2026-10-13T15:50:33Z",
+                "open_issues": 237,
                 "owner": "moeru-ai",
                 "repo": "airi",
-                "stars": 50320,
+                "stars": 50348,
                 "topics": [
                   "ai-companion",
                   "ai-vtuber",
@@ -2714,7 +2887,7 @@
                 "open_issues": 160,
                 "owner": "Open-LLM-VTuber",
                 "repo": "Open-LLM-VTuber",
-                "stars": 14068,
+                "stars": 14080,
                 "topics": [
                   "ai",
                   "ai-companion",
@@ -2746,7 +2919,7 @@
                 "open_issues": 27,
                 "owner": "LorisYounger",
                 "repo": "VPet",
-                "stars": 6956,
+                "stars": 6967,
                 "topics": [
                   "desktop-pet",
                   "wpf"
@@ -2770,7 +2943,7 @@
                 "open_issues": 14,
                 "owner": "heshengtao",
                 "repo": "super-agent-party",
-                "stars": 2732,
+                "stars": 2733,
                 "topics": [
                   "agent-skills",
                   "ai-companion",
@@ -2805,8 +2978,8 @@
                 "id": 961384267,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-12T09:00:00Z",
-                "open_issues": 104,
+                "last_commit": "2026-10-13T15:10:01Z",
+                "open_issues": 103,
                 "owner": "SlimeBoyOwO",
                 "repo": "LingChat",
                 "stars": 2349,
@@ -2830,7 +3003,7 @@
                 "open_issues": 7,
                 "owner": "kimjammer",
                 "repo": "Neuro",
-                "stars": 2096,
+                "stars": 2099,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -2879,7 +3052,7 @@
                 "open_issues": 12,
                 "owner": "jofizcd",
                 "repo": "Soul-of-Waifu",
-                "stars": 1386,
+                "stars": 1387,
                 "topics": [
                   "ai",
                   "ai-companion",
@@ -2949,11 +3122,11 @@
                 "id": 1222455527,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T08:28:31Z",
+                "last_commit": "2026-10-13T16:05:11Z",
                 "open_issues": 86,
                 "owner": "RachelForster",
                 "repo": "Shinsekai",
-                "stars": 618,
+                "stars": 620,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -3016,7 +3189,7 @@
                 "open_issues": 1,
                 "owner": "zziying",
                 "repo": "ai-live2d-body",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -3074,11 +3247,11 @@
                 "id": 1125748027,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T09:18:52Z",
+                "last_commit": "2026-10-13T09:29:27Z",
                 "open_issues": 0,
                 "owner": "Roboparty",
                 "repo": "roboto_origin",
-                "stars": 2590,
+                "stars": 2611,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -3141,7 +3314,7 @@
                 "open_issues": 1,
                 "owner": "tutu-kitty",
                 "repo": "Toy-Relay-AI-mcp-SOSEXY",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-31T16:12:55.465Z"
@@ -3208,7 +3381,7 @@
                 "open_issues": 0,
                 "owner": "yoruuuchan",
                 "repo": "cachito-ble-mcp-relay",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "android",
                   "automation",
@@ -3301,7 +3474,7 @@
                 "open_issues": 169,
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 110380,
+                "stars": 110425,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -3319,10 +3492,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-12T05:01:56Z",
-                "open_issues": 351,
+                "open_issues": 352,
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 54316,
+                "stars": 54347,
                 "topics": [
                   "inference",
                   "openai",
@@ -3346,11 +3519,11 @@
                 "id": 600368121,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T03:45:38Z",
+                "last_commit": "2026-10-13T07:02:49Z",
                 "open_issues": 31,
                 "owner": "SYSTRAN",
                 "repo": "faster-whisper",
-                "stars": 25824,
+                "stars": 25839,
                 "topics": [
                   "deep-learning",
                   "inference",
@@ -3376,11 +3549,11 @@
                 "id": 569959091,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T13:11:37Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-13T03:41:32Z",
+                "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20662,
+                "stars": 20677,
                 "topics": [
                   "asr",
                   "audio",
@@ -3422,7 +3595,7 @@
                 "open_issues": 11,
                 "owner": "QwenAudio",
                 "repo": "SenseVoice",
-                "stars": 9501,
+                "stars": 9505,
                 "topics": [
                   "asr",
                   "audio-analysis",
@@ -3606,7 +3779,7 @@
                 "open_issues": 1,
                 "owner": "moonlin1213",
                 "repo": "cove-sensory-mcp",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -3666,11 +3839,11 @@
             "id": 1181982220,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T17:49:49Z",
-            "open_issues": 270,
+            "last_commit": "2026-10-13T09:54:46Z",
+            "open_issues": 277,
             "owner": "jackwener",
             "repo": "OpenCLI",
-            "stars": 30101,
+            "stars": 30194,
             "topics": [
               "ai-agent",
               "ai-agents",
@@ -3794,6 +3967,32 @@
         },
         {
           "node_type": "item",
+          "title": "ubereats-mcp",
+          "description": "MCP server and OpenCLI adapter letting your AI order Uber Eats in your own logged-in Chrome: search, cart, checkout snapshot, and a one-time confirm token plus spend caps before ordering. MIT. · · .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "让 AI 在你自己的 Chrome 里帮你点 Uber Eats（日本站）：搜店、挑菜、看结算快照，你点头才下单。MCP + OpenCLI adapter",
+            "homepage": "https://saekisui.github.io/ubereats-mcp/",
+            "id": 1405624687,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-05T11:41:42Z",
+            "open_issues": 1,
+            "owner": "Saekisui",
+            "repo": "ubereats-mcp",
+            "stars": 9,
+            "topics": [
+              "claude",
+              "mcp",
+              "opencli",
+              "uber-eats"
+            ]
+          },
+          "first_seen": "2026-10-13T16:05:50.567Z"
+        },
+        {
+          "node_type": "item",
           "title": "Akari Pulse",
           "description": "Self-hosted health bridge collecting activity, sleep, heart rate, and stress from vivo phones and BlueOS watches into an MCP layer. AGPL-3.0. · · .",
           "children": [],
@@ -3808,7 +4007,7 @@
             "open_issues": 0,
             "owner": "yoruuuchan",
             "repo": "akari-pulse",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "blueos",
               "cloudflare-workers",
@@ -3863,7 +4062,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-17T02:37:51Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "tutusagi",
                 "repo": "ai-fishing-game",
                 "stars": 559,
@@ -3887,7 +4086,7 @@
                 "open_issues": 0,
                 "owner": "Zizuixixiang",
                 "repo": "cedareco",
-                "stars": 140,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -4010,7 +4209,7 @@
                 "open_issues": 0,
                 "owner": "hatakeyuyuko-dotcom",
                 "repo": "Memoria-Station",
-                "stars": 48,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -4213,7 +4412,7 @@
                 "open_issues": 554,
                 "owner": "PrismarineJS",
                 "repo": "mineflayer",
-                "stars": 7567,
+                "stars": 7578,
                 "topics": [
                   "bot",
                   "minecraft",
@@ -4262,7 +4461,7 @@
                 "open_issues": 235,
                 "owner": "TartaricAcid",
                 "repo": "TouhouLittleMaid",
-                "stars": 897,
+                "stars": 896,
                 "topics": [
                   "forge",
                   "java",
@@ -4288,7 +4487,7 @@
                 "open_issues": 2,
                 "owner": "RennAkira",
                 "repo": "spicy-monopoly",
-                "stars": 648,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -4309,7 +4508,7 @@
                 "open_issues": 1,
                 "owner": "Aevella",
                 "repo": "sky-pc-mcp-companion",
-                "stars": 169,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -4351,7 +4550,7 @@
                 "open_issues": 0,
                 "owner": "Zizuixixiang",
                 "repo": "cedarduet",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-09-27T14:03:50.210Z"
@@ -4536,11 +4735,11 @@
                 "id": 1178924852,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T19:23:39Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-12T19:24:30Z",
+                "open_issues": 36,
                 "owner": "memex-lab",
                 "repo": "memex",
-                "stars": 779,
+                "stars": 784,
                 "topics": [
                   "ai-assistant",
                   "ai-companion",
@@ -4603,7 +4802,7 @@
                 "open_issues": 0,
                 "owner": "KKarsyline",
                 "repo": "shared-page",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -4711,11 +4910,11 @@
                 "id": 1257366746,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T11:03:30Z",
+                "last_commit": "2026-10-13T05:51:06Z",
                 "open_issues": 0,
                 "owner": "meowmana",
                 "repo": "coread",
-                "stars": 88,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -4757,7 +4956,7 @@
                 "open_issues": 1,
                 "owner": "avisforevelyn",
                 "repo": "Duetto",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -4816,7 +5015,7 @@
                 "id": 1287032505,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T11:51:47Z",
+                "last_commit": "2026-10-13T04:27:11Z",
                 "open_issues": 1,
                 "owner": "EnhydrInk",
                 "repo": "tasogare",
@@ -5020,6 +5219,36 @@
             },
             {
               "node_type": "item",
+              "title": "Listening Bridge",
+              "description": "MCP bridge exposing active Android/Windows media sessions to companions: tracks, synced lyrics, and playback controls over WebSocket. MIT. · · .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Live Now Playing bridge for ChatGPT — Android/Windows media state, synced lyrics, and explicit playback controls via MCP.",
+                "homepage": null,
+                "id": 1365564010,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-27T06:59:02Z",
+                "open_issues": 0,
+                "owner": "yoruuuchan",
+                "repo": "listening-bridge",
+                "stars": 1,
+                "topics": [
+                  "android",
+                  "chatgpt",
+                  "mcp",
+                  "music",
+                  "now-playing",
+                  "python",
+                  "smtc",
+                  "windows"
+                ]
+              },
+              "first_seen": "2026-09-12T12:13:18.364Z"
+            },
+            {
+              "node_type": "item",
               "title": "android-claude-music",
               "description": "Android listening companion: reads the system media session, aligns lyrics to playback, and plays songs itself on a virtual display without taking over your screen. KuGou only. MIT. · · .",
               "children": [],
@@ -5054,36 +5283,6 @@
                 ]
               },
               "first_seen": "2026-10-01T15:30:13.191Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Listening Bridge",
-              "description": "MCP bridge exposing active Android/Windows media sessions to companions: tracks, synced lyrics, and playback controls over WebSocket. MIT. · · .",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Live Now Playing bridge for ChatGPT — Android/Windows media state, synced lyrics, and explicit playback controls via MCP.",
-                "homepage": null,
-                "id": 1365564010,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-27T06:59:02Z",
-                "open_issues": 0,
-                "owner": "yoruuuchan",
-                "repo": "listening-bridge",
-                "stars": 0,
-                "topics": [
-                  "android",
-                  "chatgpt",
-                  "mcp",
-                  "music",
-                  "now-playing",
-                  "python",
-                  "smtc",
-                  "windows"
-                ]
-              },
-              "first_seen": "2026-09-12T12:13:18.364Z"
             }
           ],
           "description": null,
@@ -5104,11 +5303,11 @@
                 "id": 1185122623,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-11T10:26:18Z",
-                "open_issues": 85,
+                "last_commit": "2026-10-13T12:47:15Z",
+                "open_issues": 84,
                 "owner": "rullerzhou-afk",
                 "repo": "clawd-on-desk",
-                "stars": 6424,
+                "stars": 6435,
                 "topics": [
                   "claude-code",
                   "codex",
@@ -5139,7 +5338,7 @@
                 "open_issues": 0,
                 "owner": "29-Cu",
                 "repo": "Ruota-della-Fortuna",
-                "stars": 199,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:13:57.201Z"
@@ -5231,10 +5430,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-12T17:00:56Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "pionxzh",
             "repo": "chatgpt-exporter",
-            "stars": 2801,
+            "stars": 2804,
             "topics": [
               "ai",
               "chatgpt",
@@ -5262,7 +5461,7 @@
             "open_issues": 7,
             "owner": "agenmod",
             "repo": "immortal-skill",
-            "stars": 1083,
+            "stars": 1086,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -5356,7 +5555,7 @@
             "id": 1170978461,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-12T16:52:44Z",
+            "last_commit": "2026-10-13T14:32:16Z",
             "open_issues": 58,
             "owner": "anima-research",
             "repo": "connectome-host",
@@ -5381,7 +5580,7 @@
             "open_issues": 4,
             "owner": "kwaroran",
             "repo": "character-card-spec-v3",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T20:13:57.201Z"
@@ -5488,8 +5687,8 @@
             "id": 764998085,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T13:53:07Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-12T19:50:20Z",
+            "open_issues": 12,
             "owner": "vince-lam",
             "repo": "awesome-local-llms",
             "stars": 809,
@@ -5564,7 +5763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:00:57.748Z",
+    "last_updated": "2026-10-13T16:05:50.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open-source AI companions, desktop pets, long-term memory & proactive chat. 人机恋开源项目大全。让你的家机能够脱离官端自主存在，拥有记忆和主动性。",
@@ -5572,11 +5771,11 @@
       "id": 1287862936,
       "language": "HTML",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-12T12:52:49Z",
+      "last_commit": "2026-10-13T12:48:02Z",
       "open_issues": 0,
       "owner": "DasterProkio",
       "repo": "awesome-ai-companion",
-      "stars": 950,
+      "stars": 966,
       "topics": [
         "ai-agents",
         "ai-companion",
@@ -5600,7 +5799,7 @@
         "virtual-companion"
       ]
     },
-    "original_repository_sha": "b3d3ed76a37fde3f5bde697ce5205669499d3ba5",
+    "original_repository_sha": "2b2d6b3974b535667c82744df37e63d127a24aaf",
     "enhanced_repository": "enhansome/enhansome-ai-companion",
     "enhanced_repository_description": null,
     "title": "Awesome ai companion with stars"
